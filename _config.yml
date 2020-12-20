@@ -1,0 +1,25 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - '.idea/workspace.xml'
+  - '*.iml'
+  - 'node_modules/*'
+  - 'Gemfile*'
+  - 'package*.json'
+  - 'src/*'
+  - 'assets/scss/*'
+  - '/README.md'
+include:
+  - LICENSE.md
+collections:
+  guide:
+    output: true
+    layout: default
+# I don't think we need this?
+theme: jekyll-theme-cayman
+
+show_downloads: false
+markdown: kramdown
