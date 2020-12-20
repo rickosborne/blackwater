@@ -18,8 +18,6 @@ collections:
   guide:
     output: true
     layout: default
-# I don't think we need this?
-theme: jekyll-theme-cayman
 
 show_downloads: false
 markdown: kramdown
