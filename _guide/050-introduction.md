@@ -24,3 +24,60 @@ Within the sway of Earl Froderek of Blackwater are the villages of Northunder, C
 The Earl’s title is not due to nobility.
 The position is elected by the City Assembly and the title is a holdover from old imperial days.
 Earl Froderek has held the position for nearly 20 years.
+
+## Human Towns Around Blackwater
+
+Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater.
+Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.
+
+Northunder is a prosperous farming enclave, a long day’s ride north, on the southern banks of lake Shivar.
+The enclave is run under a charter granted by the Earl, by an appointed mayor named Ian Ferrik.
+Northunder is home to about 1,500 villagers, who are, more or less, loyal subjects of the Earl.
+A small community of Halflings lives across the lake from Northunder, in the village of The Glade.
+A robust trade exists back in forth across the lake for things like Halfling made cream, tobacco and coffee and human metalwork, and leather goods.
+
+TODO: Environs map
+
+Coldcreek began as a hunting outpost years ago, within a day’s hike from Blackwater, and has grown into a lively village and trading post for people living on the outskirts of civilization.
+There are only about 300 full time residents in Coldcreek, but between trappers, hunters, and foresters passing through, the population seems to double at times. Coldcreek is run by Alexi Goatspear, the locally elected constable.
+
+Manor Post was originally an outlying guard post for the defense of Blackwater, about a three days ride south of town.
+It lies on the Coast Road, the main road leading into Blackwater from the south.
+It has since grown into a small but well-rounded community, administered by Sergent Tomas Vedwyck, commander of the garrison at Manor Post.
+
+Weylands watch is an ancient abandoned keep, with a high tower, built on a rocky spit of land that juts up from the surrounding low marsh lands.
+The point gives and excellent view of the sea and water traffic on the branches of the Blackwater.
+
+## Other Human Cities
+
+### Heliconium
+
+Heliconium was the ancient seat of the Helic Empire that reigned across the Covari for almost 500 years.
+However, since the fall of the empire over 300 years ago, little has been seen or heard of the Heliconia.
+The ancient city is rumored to still be an awe- inspiring site of amazing white marble architecture and red terracotta roof tiles.
+
+In the distant past, Blackwater was on the western fringe of the Helic Empire which spanned across most of the Covari Sea, except for the northlands which were never conquered by the Empire.
+Generations ago, the Helic Empire fell to internal treachery and Blackwater has been self-ruled since then.
+
+### Plamar
+
+South of Blackwater, along the coast of the Covari Sea lies the trading port of Plamar.
+Plamar is one of the richest and most decadent cities known.
+Plamarise traders range far across the Covari Sea, and beyond trading for exotic goods, rare magics, and things undreamed of in Blackwater.
+
+### Other Imperial Cities
+
+Several other great imperial cities are mentioned in old writings, but little is know of them among the common folk of Blackwater beyond their names: Tarasia, Abdera, Cedrene, Vasiliki, Numantia, Nerandia, Khedris, and Anaria.
+
+## Non-Human Civilizations
+
+To the southwest, lies the reclusive Elven forest kingdom of Shanara, under the rule of King Orion and Queen Ariel.
+The heavy woodlands surround the Blackwater river as it exits the Carpathian Mountains.
+Sylvan Elves from the kingdom occasionally are seen in Blackwater, but they don’t seem to stay long and typically don’t share any details of their homeland.
+Very few Sylvan Elves live in Blackwater permanently.
+
+The Dwarven clan Belor lives in the northern end of the Carpathian peaks, to the west of Blackwater.
+The Clans holdings are close enough to Blackwater that once every four of five years the Clan Elders sends a caravan to trade at Blackwater.
+
+TODO: Blackwater city map
+
