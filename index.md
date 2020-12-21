@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Blackwater Players Guide
-<a href=".\images\Blackwater from Hilltop Across River 1.jpeg"></a>
+![Blackwater](./images/Blackwater from Hilltop Across River 1.jpeg)
 
 {% for chapter in site.guide %}
 * [{{ chapter.title }}]({{ chapter.url | relative_url }})
