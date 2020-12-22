@@ -34,10 +34,7 @@ Northunder is home to about 1,500 villagers, who are, more or less, loyal subjec
 A small community of Halflings lives across the lake from Northunder, in the village of The Glade.
 A robust trade exists back in forth across the lake for things like Halfling made cream, tobacco and coffee and human metalwork, and leather goods.
 
-TODO: Environs map
-
-Coldcreek began as a hunting outpost years ago, within a day’s hike from Blackwater, and has grown into a lively village and trading post for people living on the outskirts of civilization.
-There are only about 300 full time residents in Coldcreek, but between trappers, hunters, and foresters passing through, the population seems to double at times. Coldcreek is run by Alexi Goatspear, the locally elected constable.
+Coldcreek began as a hunting outpost years ago, within a day’s hike from Blackwater, and has grown into a lively village and trading post for people living on the outskirts of civilization.  There are only about 300 full time residents in Coldcreek, but between trappers, hunters, and foresters passing through, the population seems to double at times. Coldcreek is run by Alexi Goatspear, the locally elected constable.
 
 Manor Post was originally an outlying guard post for the defense of Blackwater, about a three days ride south of town.
 It lies on the Coast Road, the main road leading into Blackwater from the south.
@@ -45,6 +42,8 @@ It has since grown into a small but well-rounded community, administered by Serg
 
 Weylands watch is an ancient abandoned keep, with a high tower, built on a rocky spit of land that juts up from the surrounding low marsh lands.
 The point gives and excellent view of the sea and water traffic on the branches of the Blackwater.
+
+<img src="../maps/Blackwater Surroundings Map.png">
 
 ## Other Human Cities
 
