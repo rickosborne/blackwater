@@ -39,10 +39,10 @@ Strig are almost always illiterate and speak Schepal as their native language.
 It costs 35 points to play a Strig Barbarian.
 
 **Strig Character Template [35 points]**  
-`Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]  
-Secondary Characteristic Modifiers: Gigantism (SM +1) [0], Overweight [-1], Hit Points +2 [+4]  
-Advantages:, Rapid Healing [+5], Damage Resistance +1 (toughskin -40%) [+3], Temperature Tolerance +2 (Cold) [2]     
-Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5]`  
+`Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]`    
+`Secondary Characteristic Modifiers: Gigantism (SM +1) [0], Overweight [-1], Hit Points +2 [+4]`  
+`Advantages:, Rapid Healing [+5], Damage Resistance +1 (toughskin -40%) [+3], Temperature Tolerance +2 (Cold) [2]`     
+`Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5]`  
 
 |Common Strig Disadvantages|Common Strig Advantages|
 |---|---|
