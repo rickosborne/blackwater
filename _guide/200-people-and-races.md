@@ -44,13 +44,13 @@ It costs 35 points to play a Strig Barbarian.
 `Advantages:, Rapid Healing [+5], Damage Resistance +1 (toughskin -40%) [+3], Temperature Tolerance +2 (Cold) [2]`     
 `Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5]`  
 
-|Common Strig Disadvantages|Common Strig Advantages|
-|---|---|
-|Manaphobia (Fear of Magic)|Magic Resistance|
-|Thalassophobia (Fear of Oceans)|Animal Empathy|
-|Stubbornness|Absolute Direction|
-|Berserk|Alertness|
-|High Pain Threshold| |
+|Common Strig Disadvantages     |Common Strig Advantages|
+|   ---                         |  ---                  |
+|Manaphobia (Fear of Magic)     |Magic Resistance       |
+|Thalassophobia (Fear of Oceans)|Animal Empathy         |
+|Stubbornness                   |Absolute Direction     |
+|Berserk                        |Alertness              |
+|High Pain Threshold            |
  
 ## Dwarves
 
