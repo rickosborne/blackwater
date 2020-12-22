@@ -12,12 +12,12 @@ The Strig are a rugged, technologically deprived group of human tribes living in
 Sometimes called half-giants, Strig tend to be massive by normal human standards, frequently towering over 7 feet tall and weighing over 300 lbs.  Their hair tends to be dark and wavy.  Strig men always grow long moustaches and commonly accompany them with a full beard.  Strig men grow their moustaches as early in the adolescence as possible.  A thick, full, long moustache is a sign of manliness and virulence among the Strig.  Strig men would rather cut off their left hand than have their face shaven.  Strig women do not cut their hair until after they are married and even after marriage is typically worn long, most commonly in a thick braid down the center of their back.  Light colored hair is considered a curse or a bad omen among the Strig.
 
 In combat Strig are fierce warriors, known for fearless and merciless attacks.  The men of the northlands disdain shields, in favor of two-handed weapons or multiple weapons.  Strig warriors are typically much more concerned with mauling the enemy’s bodies than with protecting their own.  Among the Strig, it is common to say the Prayer of the Dead to Morgoth, the Strig god of war and honor, before entering a battle.
- 
+<img align="right" src="../images/Strig Face.jpg"> <img align="right" src="../images/Strig Face.jpg">
 *I am dead  
 My life is forfeit  
 Only through victory  
 May I reclaim my life.*
-<img align="right" src="../images/Strig Face.jpg"> 
+
 *I am dead  
 From this moment on  
 I live no longer  
