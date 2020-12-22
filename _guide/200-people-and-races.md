@@ -39,10 +39,10 @@ Strig are almost always illiterate and speak Schepal as their native language.
 It costs 35 points to play a Strig Barbarian.
 
 **Strig Character Template [35 points]**  
-`Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]`    
-`Secondary Characteristic Modifiers: Gigantism (SM +1) [0], Overweight [-1], Hit Points +2 [+4]`  
-`Advantages:, Rapid Healing [+5], Damage Resistance +1 (toughskin -40%) [+3], Temperature Tolerance +2 (Cold) [2]`     
-`Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5]`  
+Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]    
+Secondary Characteristic Modifiers: Gigantism (SM +1) [0], Overweight [-1], Hit Points +2 [+4]  
+Advantages:, Rapid Healing [+5], Damage Resistance +1 (toughskin -40%) [+3], Temperature Tolerance +2 (Cold) [2]     
+Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5]  
 
 |Common Strig Disadvantages     |Common Strig Advantages|
 |   ---                         |  ---                  |
@@ -50,8 +50,8 @@ It costs 35 points to play a Strig Barbarian.
 |Thalassophobia (Fear of Oceans)|Animal Empathy         |
 |Stubbornness                   |Absolute Direction     |
 |Berserk                        |Alertness              |
-|High Pain Threshold            |                       |  
- 
+|High Pain Threshold            |\                      |  
+
 ## Dwarves
 
 Dwarves are a race of miners, metalworkers, and craftsmen. They live underground, which is their workplace and protection from enemies. Dwarves are small but strong and enduring, with highly developed combat skills. They may become alchemists or specialize in enchanting, if they are magically gifted, but few dwarves practice other sorts of magic. Many have Magic Resistance. 
