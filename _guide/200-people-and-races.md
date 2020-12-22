@@ -34,7 +34,7 @@ That I may reclaim my own life*
 Strig favor silver jewelry and tattoos as forms of body ornamentation.  Earrings are common among both men and women.  Almost all Strig have their tribes marking inked into the left forearm of each boy upon his ascension to manhood, many have other tattoos as well.  Women do not have their tribe markings tattooed upon them until after marriage.  Inter-tribe marriages are more common than intra-tribe marriages, thus married Strig women have the tribe of their husband tattooed onto their flesh following the wedding.  Warriors among the more aggressive tribes also use ritual scarring.
 
 Strig are almost always illiterate and speak Schepal as their native language.
-<img src="../images/strig.jpg">
+<img align="left" src="../images/Strig.jpg">
 It costs 35 points to play a Strig Barbarian.
 
 **Strig Character Template [35 points]**  
