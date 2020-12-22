@@ -87,8 +87,8 @@ Half-Elves are a cross breed between Elves and Humans.  Half-Elves typically inh
 Short and fond of comfort, halflings seldom leave their farms, but those who do sometimes make surprisingly good adventurers, thanks to natural stealth, superb marksmanship, and resilient health. They’re not at their best in a stand-up fight, but make fine skirmishers, with thrown rocks, slings, bows, crossbows, or even muskets. The ability to move noiselessly through grass or underbrush also helps. Halflings seldom seek out a fight. They are fairly egalitarian, with chieftains but no kings. Many cultures expect chieftains to give feasts and hand out presents to the guests. 
 
 By choice, halflings live underground, in shabby burrows or elaborate tunnel complexes. The ones who build aboveground are the poor. An average halfling (ST 5) stands 2’8” to 3’ tall and weighs 18 to 29 lbs. (This takes Overweight into account.) Adjust height by 1 to 2” and weight by 2 to 4 lbs. per point of ST above or below 5.
-The largest concentration of Halflings in the Blackwater area is in a village the Halflings call Everglen, across the lake from Northunder.  Roughly a thousand Halflings live there farming, plying the crafts and trading with the Humans in Northunder.  Halflings also make up the largest non-human population in Blackwater, easily adapting to Human city life and customs.
-<img align="left" src="../images/Halfling.png">
+The largest concentration of Halflings in the Blackwater area is in a village the Halflings call Everglen, across the lake from Northunder.  Roughly a thousand Halflings live there farming, plying the crafts and trading with the Humans in Northunder.  Halflings also make up the largest non-human population in Blackwater, easily adapting to Human city life and customs.  
+<img align="left" src="../images/Halfling.png">  
 The Halfling racial template is described in GURPS Fantasy pp. 109 and costs 20 points.  
 Attribute Modifiers: ST-5 [-50]; DX+1 [20]; HT+2 [20].  
 Secondary Characteristic Modifiers: SM -2; Will+2 [10].  
