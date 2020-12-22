@@ -3,7 +3,7 @@
 The city of Blackwater is populated largely by Humans.  Several hundred Halflings and Dwarves also reside within the city.  A few dozen Elves also reside in the city at any given time, but rarely permanently.  In addition, Strig from the north, Plamarise from the south, and merchants from across the Covari are frequently seen in Blackwater.
 The City collects a census of all legal residents every 10 years, as of the last census (5 years ago) there were just over 32,000 residents in the city of Blackwater.
 
-<img src="../images/Blackwater City Demographics.png" width="800">
+<img style="float: right" src="../images/Blackwater City Demographics.png" width="800">
  
 ## Humans - Strig
 
