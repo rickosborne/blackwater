@@ -54,7 +54,7 @@ Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5
 ## Dwarves
 
 Dwarves are a race of miners, metalworkers, and craftsmen. They live underground, which is their workplace and protection from enemies. Dwarves are small but strong and enduring, with highly developed combat skills. They may become alchemists or specialize in enchanting, if they are magically gifted, but few dwarves practice other sorts of magic. Many have Magic Resistance. 
-
+<img align="right" src="../images/Dwarf.jpg">
 Dwarves might be only 2/3 as tall as humans, but they are much longer lived, with a nose for gold and a flair for all forms of craftsmanship. Dwarves often live in underground halls, and their eyes are adapted to dim light. Many dwarves have Miserliness, but this is not a racial trait.
 Virtually all of the Dwarves in the area of Blackwater hail from the Clan Belor and are fairly common visitors to Blackwater.  The Dwarves of Belor are known as skilled craftsmen, miners, and merchants.  
 
