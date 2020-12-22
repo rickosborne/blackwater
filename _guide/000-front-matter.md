@@ -13,7 +13,7 @@ Copyright 2020 by Matthew McKaig.
 All rights reserved.
 
 Blackwater developed by Matthew McKaig.
-Extensively inspired by, and incorporating elements from, Dungeons & Dragons, J.R.R. Tolkein, Robert Jordan, George R.R. Martin, various movies, TV shows and comic books.
+Extensively inspired by, and incorporating elements from: Dungeons & Dragons, J.R.R. Tolkein, Robert Jordan, George R.R. Martin, various movies, TV shows and comic books.
 None of them used with permission.
 
 GURPS is a registered trademark of Steve Jackson Games.
