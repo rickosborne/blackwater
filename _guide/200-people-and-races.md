@@ -50,7 +50,7 @@ It costs 35 points to play a Strig Barbarian.
 |Thalassophobia (Fear of Oceans)|Animal Empathy         |
 |Stubbornness                   |Absolute Direction     |
 |Berserk                        |Alertness              |
-|High Pain Threshold            |
+|High Pain Threshold            |                       |  
  
 ## Dwarves
 
