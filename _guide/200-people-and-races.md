@@ -2,6 +2,8 @@
 
 The city of Blackwater is populated largely by Humans.  Several hundred Halflings and Dwarves also reside within the city.  A few dozen Elves also reside in the city at any given time, but rarely permanently.  In addition, Strig from the north, Plamarise from the south, and merchants from across the Covari are frequently seen in Blackwater.
 The City collects a census of all legal residents every 10 years, as of the last census (5 years ago) there were just over 32,000 residents in the city of Blackwater.
+
+<img src=".\images\Blackwater City Demographics.png" width="400">
  
 ## Humans - Strig
 
@@ -34,7 +36,7 @@ Strig favor silver jewelry and tattoos as forms of body ornamentation.  Earrings
 
 Strig are almost always illiterate and speak Schepal as their native language.
 
-It costs 33 points to play a Strig Barbarian.
+It costs 35 points to play a Strig Barbarian.
 
 **Strig Character Template [35 points]**
 Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]  
