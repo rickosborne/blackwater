@@ -48,7 +48,7 @@ Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5
 |Thalassophobia (Fear of Oceans)|Animal Empathy|
 |Stubbornness|Absolute Direction|
 |Berserk|Alertness|
-|High Pain Threshold||
+|High Pain Threshold| |
  
 ##Dwarves
 
