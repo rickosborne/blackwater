@@ -1,5 +1,5 @@
 ---
-title: Languages and Alhpabets
+title: Languages and Alphabets
 layout: default
 ---
 <table>
