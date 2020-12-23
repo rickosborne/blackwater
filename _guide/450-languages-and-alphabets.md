@@ -30,3 +30,8 @@ All PCs are native fluent in 1 spoken language of their choice.  Illiteracy is t
 |Schepal|The most common tribal tongue still in use in the area. It is not uncommon to still meet people who only speak Schepal.|Calach|  
 
 
+# Alphabets  
+Calach is represented by normal Latin Characters.  
+
+Furthark  
+<img src="../images/Futhark.png">  
