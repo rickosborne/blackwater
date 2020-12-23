@@ -3,13 +3,6 @@ title: Introduction
 layout: default
 ---
 
-<table align="right">
-  <tr><td>**Navigation**</td></tr>
-  {% for chapter in site.guide %}
-  <tr><td>[{{ chapter.title }}]({{ chapter.url | relative_url }})</td></tr>
-  {% endfor %}
- </table>
-
 # Introduction
 
 It is the year 852, counted from the founding of the imperial city of Heliconium, and the Helic empire which collapsed several hundred years ago.  The Free City of Blackwater on the fringes of the old Helic empire, sits on the western edge of the Covari Sea, nestled between steep hills and the River Blackwater roughly 20 miles upstream from the river’s mouth.
@@ -82,3 +75,8 @@ Very few Sylvan Elves live in Blackwater permanently.
 
 The Dwarven clan Belor lives in the northern end of the Carpathian peaks, to the west of Blackwater.
 The Clans holdings are close enough to Blackwater that once every four of five years the Clan Elders sends a caravan to trade at Blackwater.
+
+# Navigation
+{% for chapter in site.guide %}
+* [{{ chapter.title }}]({{ chapter.url | relative_url }})
+{% endfor %}
