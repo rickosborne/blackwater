@@ -13,24 +13,17 @@ layout: default
 
 # Blackwater Government and Laws
 <img align="left" src="../images/Blackwater Woodcarving.png">
-Most laws are written down in the Blackwater Codices, maintained in the city courthouse.
-Laws are passed by a 2/3 vote of the assembly and must be approved by the Earl.
-Most laws are focused on either public protection or tax collection.
-Some laws have prescribed punishments, but in most cases the judges have extensive latitude in metering out punishments.
+Most laws are written down in the Blackwater Codices, maintained in the city courthouse. Laws are passed by a 2/3 vote of the assembly and must be approved by the Earl.
+Most laws are focused on either public protection or tax collection. Some laws have prescribed punishments, but in most cases the judges have extensive latitude in metering out punishments.
 
 ## City Assembly
 
-Assembly members are elected by general vote.
-All legal citizens and residents may vote for city council membership.
-Only citizens are eligible to be members of the council.
-There are 15 general city assembly seats.
-In addition, each of the 10 guild masters (except the Order of the Magi) gets a voting seat (Bakers, Candle makers, Carpenters, Cobblers, Glassiers, Leather workers, Masons, Merchants, Shipwrights, and Smiths) for a total of 25 seats on the Assembly.
+Assembly members are elected by general vote. All legal citizens and residents may vote for city council membership. Only citizens are eligible to be members of the council.
+There are 15 general city assembly seats. In addition, each of the 10 guild masters (except the Order of the Magi) gets a voting seat (Bakers, Candle makers, Carpenters, Cobblers, Glassiers, Leather workers, Masons, Merchants, Shipwrights, and Smiths) for a total of 25 seats on the Assembly.
 
 ## City Watch
 
-The City Watch of Blackwater is well funded and well trained.
-They provide both professional soldier defense of the city and surrounding land as well as police enforcement of laws among the population.
-In addition to manning the walls and gates, they patrol the streets, surrounding countryside, and river, as well as investigate all crimes.
+The City Watch of Blackwater is well funded and well trained. They provide both professional soldier defense of the city and surrounding land as well as police enforcement of laws among the population. In addition to manning the walls and gates, they patrol the streets, surrounding countryside, and river, as well as investigate all crimes.
 
 ## Citizens, Residents, and Visitors
 <img align="right" src="../images/Castle Blackwater from the North.jpg">
@@ -41,6 +34,7 @@ Denizens of the City of Blackwater are legally grouped into one of three classes
 **Residents** have established permanent living quarters and paid taxes (residents are probationary their first year)
 
 **Visitors** have been granted a one month visit tag and must renew monthly to stay in town legally.
+
 Most inns require a valid visitor tag to rent a room.
 
 All are issued small, brass ID tags with relevant info (address etc) stamped into them.
@@ -54,39 +48,27 @@ Watchmen may ask to see anyone’s ID at any time for any reason.
 
 ## City Entry and Exit
 
-All persons entering the City of Blackwater are expected to show proof of residency or proof of taxes paid.
-All merchandise brought into the city is taxed. Players will be asked if they have any hidden weapons, magical or enchanted devices, or goods for sale.
-If they do, they will have their weapons taxed and peace bonded, their goods taxed, and their names are recorded, and magic items recorded.
+All persons entering the City of Blackwater are expected to show proof of residency or proof of taxes paid. All merchandise brought into the city is taxed. Players will be asked if they have any hidden weapons, magical or enchanted devices, or goods for sale. If they do, they will have their weapons taxed and peace bonded, their goods taxed, and their names are recorded, and magic items recorded.
 
-Members of the Order of the Magi are frequently stationed at each gate to help the guards spot magical items, people or creatures and evaluated if they are safe for entry into the city.
-Unsafe items will be confiscated and possibly returned or not depending on the perceived threat of the item.
-In cases where suspected magic item cannot be deemed safe, it will be impounded for further inspection by the order.
-The owner of the item will be given a brass tag with a number matching a tag affixed to the item in question.
-The owner can claim their item from the Orders office, if it is deemed safe.
+Members of the Order of the Magi are frequently stationed at each gate to help the guards spot magical items, people or creatures and evaluated if they are safe for entry into the city. Unsafe items will be confiscated and possibly returned or not depending on the perceived threat of the item.   
 
-Humans, Dwarves, Halflings, and Elves (although few Elves choose to) are allowed free entry into Blackwater.
-Most other races will be stopped and questioned extensively at any town gate.
+In cases where suspected magic item cannot be deemed safe, it will be impounded for further inspection by the order. The owner of the item will be given a brass tag with a number matching a tag affixed to the item in question.  The owner can claim their item from the Orders office, if it is deemed safe.
+
+Humans, Dwarves, Halflings, and Elves (although few Elves choose to) are allowed free entry into Blackwater. Most other races will be stopped and questioned extensively at any town gate.  
 
 ## Weapons and Armor Laws
 
 ### Weapons
 <img align="left" src="../images/Weapon Rack.jpg">  
-All metal or edged weapons larger than a small knife must be peacebonded while within the city walls.
-Guards at any city gates will require anyone entering the city with weapons to have them peacbonded.
-There is a tax on each weapon peacebonded of $2 per pound of the weapon.
-Bows and crossbows must be unstrung while within city gates.
+All metal or edged weapons larger than a small knife must be peacebonded while within the city walls. Guards at any city gates will require anyone entering the city with weapons to have them peacbonded. There is a tax on each weapon peacebonded of $2 per pound of the weapon. Bows and crossbows must be unstrung while within city gates.  
 
-Peacebonding consists of a red cord tied around the weapon and closed with a melted lead seal.
-The cord is tied around the hilt of the blade and through or around the scabbard in such a way that is impossible (or at least very difficult) to remove the weapon from the sheath without breaking the peacebond.
+Peacebonding consists of a red cord tied around the weapon and closed with a melted lead seal. The cord is tied around the hilt of the blade and through or around the scabbard in such a way that is impossible (or at least very difficult) to remove the weapon from the sheath without breaking the peacebond.  
 
-For weapons with no scabbard or sheath, and heavy piece of leather is wrapped around the head or blade and cinched on the with red cord and sealed.
-For arrows or bolts, the leather is wrapped around the head, the arrows are cinched together with a red cord around the leather wrap, and then sealed with the hot lead.
+For weapons with no scabbard or sheath, and heavy piece of leather is wrapped around the head or blade and cinched on the with red cord and sealed. For arrows or bolts, the leather is wrapped around the head, the arrows are cinched together with a red cord around the leather wrap, and then sealed with the hot lead.  
 
 ### Armor
 
-Armor may not be worn within the city walls.
-Anyone entering the city must remove their armor and carry it.
-The City Watch will provide rope net bags to carry the armor.
+Armor may not be worn within the city walls. Anyone entering the city must remove their armor and carry it. The City Watch will provide rope net bags to carry the armor.
 
 ### Violations
 
