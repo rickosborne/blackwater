@@ -20,10 +20,8 @@ A wealthy, walled town of approximately 30,000 residents, the Free City of Black
 Boasting many large churches and temples, cobblestone streets, and an impressive castle on the hillside overlooking the city, Blackwater is a prosperous river-side trading center with most of its buildings being 2-3 story stone structures with plaster facades and tile roofs.
 
 Blackwater serves as the cultural, military, and political center for the surrounding area encompassing nearly 2,500 square miles.
-Within the sway of Earl Froderek of Blackwater are the villages of Northunder, Coldcreek, Ferton, and Manor Post.
-The Earl’s title is not due to nobility.
-The position is elected by the City Assembly and the title is a holdover from old imperial days.
-Earl Froderek has held the position for nearly 20 years.
+Within the sway of Earl Froderek of Blackwater are the villages of Northunder, Coldcreek, Ferton, and Manor Post. The Earl’s title is not due to nobility. The position is elected by the City Assembly and the title is a holdover from old imperial days. Earl Froderek has held the position for nearly 20 years.
+
 
 ## Human Towns Around Blackwater
 
@@ -78,5 +76,5 @@ Very few Sylvan Elves live in Blackwater permanently.
 The Dwarven clan Belor lives in the northern end of the Carpathian peaks, to the west of Blackwater.
 The Clans holdings are close enough to Blackwater that once every four of five years the Clan Elders sends a caravan to trade at Blackwater.
 
-TODO: Blackwater city map
+
 
