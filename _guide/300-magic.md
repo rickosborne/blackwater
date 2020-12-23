@@ -33,7 +33,7 @@ Being a member of the Order of the Magi has both benefits and drawbacks.  It cos
 Advantages [+15]: Magery 0 [+5], Patron [+10] (fairly often - 9 or less x1)
 Disadvantages [-5]: Duty (fairly often, 9 or less) [-5]
 
-<img align="center" src="../images/Mages.png">
+<img align="center" src="../images/Mages.png" widht="100%">
 
 ## Renegade Mages
 Mages who live in the City of Blackwater or the surrounding area and refuse to join the Order, or remain hidden from the Order, live as renegade mages.  They must operate in secret and hide from members of the Order.  Being a renegade mage is illegal under Blackwater law, and those caught and convicted, are turned over to the order to be “Gentled” - have their magical talent permanently removed.    
