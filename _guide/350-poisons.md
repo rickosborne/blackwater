@@ -131,7 +131,7 @@ This poison is made simply from crushing the roots of the Water Hemlock plant in
 |Third|Seizures (see B.428)|
 |Fourth|Coma (see B.428)|  
 
-Once an effect has begun, it continues with only brief moments of respite, even if the next HT roll is made.  That just means symptoms don't get worse.  They only ways to end the symptoms is:
+Once an effect has begun, it continues with only brief moments of respite, even if the next HT roll is made.  That just means symptoms don't get worse.  They only ways to end the symptoms are:
 1.	To survive until the poison runs its course
 2.	Use magic to cure poison
 3.	Make a critical success on the HT roll
@@ -163,24 +163,47 @@ $20/dose. LC1.
 
 ## Respiratory Agents  
 
-Blood Berry Powder:  This toxin, made from the deep purple “blood berries” of the collabra variety of the nightshade bush, must be inhaled to have an effect.  It is commonly stored in small wooden tubes about the size of a man's pinky finger with both ends plugged by small wads of cloth, with a cord running out and covered with wax.  The ends of the tube are opened by pulling the small cords.  Then the user blows through the tube forcing the powder out.  The powder forms a cloud 1 yard in diameter that persists for 1d seconds.  
+### Blood Berry Powder:  
+This toxin, made from the deep purple “blood berries” of the collabra variety of the nightshade bush, must be inhaled to have an effect.  It is commonly stored in small wooden tubes about the size of a man's pinky finger with both ends plugged by small wads of cloth, with a cord running out and covered with wax.  The ends of the tube are opened by pulling the small cords.  Then the user blows through the tube forcing the powder out.  The powder forms a cloud 1 yard in diameter that persists for 1d seconds.  
+
 Once inhaled, the poison has an on-set time of 1d-1 seconds with a follow-up cycle every 1 minute for 3d minutes.  The victim must make a HT-1 roll every minute or they bleed from all of their bodily orifices losing 2 HP.  Bleeding from the mouth and nose causes coughing and gagging (see coughing B.428), and bleeding from the eyes interferes with vision (-3 to vision rolls).  On a success, they suffer no blood loss or damage during that cycle.  On a critical success, the effects of the poison end, and on a critical failure the victim begins to bleed from the pores of their skin and suffer 1d damage for that cycle.  The bleeding itself causes no pain.  
-Production: Naturalist roll to locate and collect the correct berries.  Poisons roll to dry, grind and make into powder properly.
-$80/dose. LC1.
-Devil's Incense: This toxic vapor is made from combining Alay salts collected from around geysers, hot springs, and volcanos with Oil of Vitriol.  When the 2 are combined in the proper ratios, the ingredients are consumed and release a gas with a faint blue/green tint.
-Anyone breathing this vapor must immediately make a HT-2 roll or take 1 HP of toxic damage.  The victim must roll again every second for as long as they remain in the area of the gas.  The gas naturally disperses after 3d+2 seconds.  Each dose fills 2 yard radius, 2 yards high.
-This poison is commonly delivered in small (~2” diameter) ceramic balls, that have 2 chambers inside separated by a small glass partition.  The crystals are loaded into one chamber and the liquid into the other.  Both chambers are sealed with wax plugs.  The sphere can be thrown and crushed to release the cloud of toxic gas at the desired location.
-Production: Naturalist roll to collect Salts, chemistry roll to acquire Oil of Vitriol and poisons roll to grind salts correctly and combine in the proper proportions.
-$55/dose.  LC1.
-Dust of sneezing and choking: A very fine powder made from a special mix of the dried seeds of the imperial pepper plant, finely ground essential cinnamon, fine alkaline powder, and dried crystallized spitting cobra venom.  This toxin is typically delivered by either sprinkling it in the air around the target or having a small amount in a porous cloth pouch that lets the powder out when it's squeezed or impacted.  The porous cloth pouches are commonly tightly wrapped in a waxed cloth to contain the powder, and the cloth is removed before forcing the powder out of the porous sack.
-A dose is commonly enough to fill a 2-yard sphere with enough powder to affect a SM 0 creature.  Once the powder is in the air it persists in the same area for 2d-2 minutes.  Anyone breathing in that volume automatically inhales the powder.
-The on-set time is immediate, and the victim must make a HT-2 roll or begin to sneeze and cough uncontrollably for a number of seconds equal to the margin of failure (see B.428).  In addition to sneezing and coughing the victims eyes and nose also run giving a -2 to all vision and smell rolls.  On a critical failure, the victim begins choking and continues choking until they make a HT-2 (one attempt per second) roll to resist the powders effects – the good news is they stop sneezing a coughing while they are choking.  On a successful HT-2 roll the victim suffers no effects for that round.  On a critical success the victim suffers no further effects from the powder.
-Production: Naturalist rolls x4 to locate the correct ingredients and a poisons -2 roll to prepare and combine the ingredients properly.
-$50/dose.  LC1.
-Happy smoke:  This poison is an oily liquid made from concentrated Oleander oil and extract of crushed Jimson Weed leaves.  The liquid itself is not toxic and has a pleasant “green” floral scent.  However, when heated, the smoke released from the oil has a string narcotic effect on those that inhale it.  Frequently things like candle or lantern wicks, torch rags, are incense sticks are soaked in this oil.
-A person must take several breaths of this gas in order to be exposed to its effects.  If the person is resting this means they must be in the area of the gas for 10 seconds normally, 6 seconds if slightly exerted and 3 seconds if they have been heavily exerting themselves.
-Once the victim has been sufficiently exposed, the on-set time is 1d minutes, with a follow-up every hour while they are exposed to the smoke, and 1dx10 minutes after they end their exposure.
-While they are under the influence, victims must make a HT roll during each cycle or become increasingly intoxicated.  Each failure shifts you one level from sober to tipsy to drunk to unconscious (drunken stupor) to coma; see Afflictions (p. 428) for details. A critical failure drops you two levels: sober to drunk, tipsy to unconscious, or drunk to coma.  A critical success reduces your intoxication by one level.
-One dose is enough to generate enough vapor to fill a 3-yard radius, 3 yards high for one hour.
-Production:
+
+**Production**: Naturalist roll to locate and collect the correct berries.  Poisons roll to dry, grind and make into powder properly.  
+
+$80/dose. LC1.  
+
+### Devil's Incense:  
+This toxic vapor is made from combining Alay salts collected from around geysers, hot springs, and volcanos with Oil of Vitriol.  When the 2 are combined in the proper ratios, the ingredients are consumed and release a gas with a faint blue/green tint.  
+
+Anyone breathing this vapor must immediately make a HT-2 roll or take 1 HP of toxic damage.  The victim must roll again every second for as long as they remain in the area of the gas.  The gas naturally disperses after 3d+2 seconds.  Each dose fills 2 yard radius, 2 yards high.  
+
+This poison is commonly delivered in small (~2” diameter) ceramic balls, that have 2 chambers inside separated by a small glass partition.  The crystals are loaded into one chamber and the liquid into the other.  Both chambers are sealed with wax plugs.  The sphere can be thrown and crushed to release the cloud of toxic gas at the desired location.  
+
+**Production**: Naturalist roll to collect Salts, chemistry roll to acquire Oil of Vitriol and poisons roll to grind salts correctly and combine in the proper proportions.  
+
+$55/dose.  LC1.  
+
+### Dust of Sneezing and Choking:  
+A very fine powder made from a special mix of the dried seeds of the imperial pepper plant, finely ground essential cinnamon, fine alkaline powder, and dried crystallized spitting cobra venom.  This toxin is typically delivered by either sprinkling it in the air around the target or having a small amount in a porous cloth pouch that lets the powder out when it's squeezed or impacted.  The porous cloth pouches are commonly tightly wrapped in a waxed cloth to contain the powder, and the cloth is removed before forcing the powder out of the porous sack.  
+
+A dose is commonly enough to fill a 2-yard sphere with enough powder to affect a SM 0 creature.  Once the powder is in the air it persists in the same area for 2d-2 minutes.  Anyone breathing in that volume automatically inhales the powder.  
+
+The on-set time is immediate, and the victim must make a HT-2 roll or begin to sneeze and cough uncontrollably for a number of seconds equal to the margin of failure (see B.428).  In addition to sneezing and coughing the victims eyes and nose also run giving a -2 to all vision and smell rolls.  On a critical failure, the victim begins choking and continues choking until they make a HT-2 (one attempt per second) roll to resist the powders effects – the good news is they stop sneezing a coughing while they are choking.  On a successful HT-2 roll the victim suffers no effects for that round.  On a critical success the victim suffers no further effects from the powder.  
+
+**Production**: Naturalist rolls x4 to locate the correct ingredients and a poisons -2 roll to prepare and combine the ingredients properly.  
+
+$50/dose.  LC1.  
+
+### Happy smoke:  
+This poison is an oily liquid made from concentrated Oleander oil and extract of crushed Jimson Weed leaves.  The liquid itself is not toxic and has a pleasant “green” floral scent.  However, when heated, the smoke released from the oil has a string narcotic effect on those that inhale it.  Frequently things like candle or lantern wicks, torch rags, are incense sticks are soaked in this oil.  
+
+A person must take several breaths of this gas in order to be exposed to its effects.  If the person is resting this means they must be in the area of the gas for 10 seconds normally, 6 seconds if slightly exerted and 3 seconds if they have been heavily exerting themselves.  
+
+Once the victim has been sufficiently exposed, the on-set time is 1d minutes, with a follow-up every hour while they are exposed to the smoke, and 1dx10 minutes after they end their exposure.  
+
+While they are under the influence, victims must make a HT roll during each cycle or become increasingly intoxicated.  Each failure shifts you one level from sober to tipsy to drunk to unconscious (drunken stupor) to coma; see Afflictions (p. 428) for details. A critical failure drops you two levels: sober to drunk, tipsy to unconscious, or drunk to coma.  A critical success reduces your intoxication by one level.  
+
+One dose is enough to generate enough vapor to fill a 3-yard radius, 3 yards high for one hour.  
+
+**Production**:
 $20/dose. LC1.
