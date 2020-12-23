@@ -40,7 +40,7 @@ Strig favor silver jewelry and tattoos as forms of body ornamentation.  Earrings
 
 Strig are almost always illiterate and speak Schepal as their native language.
 
-It costs 35 points to play a Strig Barbarian.
+It costs 35 points to play a Strig Barbarian.  
 <img align="left" src="../images/Strig.jpg">
 **Strig Character Template [35 points]**  
 Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]    
