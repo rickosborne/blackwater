@@ -29,7 +29,7 @@ Earl Froderek has held the position for nearly 20 years.
 
 Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater.
 Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.
-<img align="right" src="../images/Blackwater WaterColor from Castle.jpg" height="400">  
+
 Northunder is a prosperous farming enclave, a long day’s ride north, on the southern banks of lake Shivar.
 The enclave is run under a charter granted by the Earl, by an appointed mayor named Ian Ferrik.
 Northunder is home to about 1,500 villagers, who are, more or less, loyal subjects of the Earl.
