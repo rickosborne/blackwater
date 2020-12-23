@@ -1,3 +1,15 @@
+---
+title: Magic
+layout: default
+---
+<table>
+  <tr><td><b>Navigation</b></td></tr>
+  <tr><td>
+{% for chapter in site.guide %}
+  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a><br>
+{% endfor %}  
+    </td></tr></table>  
+
 # Magic
 
 Magic is known but uncommon in and around Blackwater.  Magic works as described in the [GURPS Magic](https://www.sjgames.com/gurps/books/magic/) source book. Most residents of Blackwater can count on one hand the number of times they’ve seen true magic done.  As a result, there is a fair bit of superstition, misunderstanding, and misperceptions about mages among the general population.  
