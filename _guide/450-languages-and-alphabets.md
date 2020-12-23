@@ -2,19 +2,15 @@
 title: Languages and Alphabets
 layout: default
 ---
-<table>
-  <tr><td><b>Navigation</b></td></tr>
-  <tr><td>
-{% for chapter in site.guide %}
-  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a><br>
-{% endfor %}  
-    </td></tr></table>  
 
-# Languages  
+# Languages
 
-Dozens of languages are known to exist around Blackwater.  The 10 listed below are the most common.  
+Dozens of languages are known to exist around Blackwater.
+The 10 listed below are the most common.  
 
-All PCs are native fluent in 1 spoken language of their choice.  Illiteracy is the norm in Blackwater, only about 30% of the population can read.  Literacy in any language and spoken fluency in other languages must be purchased as separate advantages.   
+All PCs are native fluent in 1 spoken language of their choice.
+Illiteracy is the norm in Blackwater, only about 30% of the population can read.
+Literacy in any language and spoken fluency in other languages must be purchased as separate advantages.   
 
 |Language|Description|Alphabet|
 |---|---|---|

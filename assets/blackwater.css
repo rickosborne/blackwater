@@ -192,6 +192,10 @@ Presentation.
 Everything after this point should be class-based, not tag-based.
  */
 
+a, a:visited {
+    color: blue;
+}
+
 .site-header {
     background-color: rgba(0, 0, 0, 0.8);
     color: rgba(255, 255, 255, 0.6);
@@ -325,4 +329,32 @@ Everything after this point should be class-based, not tag-based.
 img.center {
     display: block;
     margin: var(--cadence) auto;
+}
+
+table {
+    clear: both;
+    margin: var(--cadence) auto;
+}
+th {
+    color: rgba(0, 0, 0, 0.5);
+    border-top: thin solid rgba(0, 0, 0, 0.1);
+    border-bottom: thin solid rgba(0, 0, 0, 0.1);
+    font-size: 90%;
+}
+
+.eyechart {
+    font-size: 90%;
+}
+.eyechart th, .eyechart td {
+    padding: var(--cadence-quarter);
+}
+
+tr:nth-of-type(2n), thead {
+    background-color: rgba(127, 127, 127, 0.05);
+}
+td {
+    vertical-align: top;
+}
+th {
+    vertical-align: bottom;
 }
