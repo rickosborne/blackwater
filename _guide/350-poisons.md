@@ -31,7 +31,7 @@ $50/dose.  LC1.
 ### Curare:  
 A follow-up blood agent, curare is is made from crushing and boiling down the leaves of certain uncommon tropical flowers, until a thick brown paste remains.  Curare has an on-set time of 3d seconds and recurs every 1d seconds for 2d cycles.  The victim must make a HT-2 roll to avoid paralysis.  The paralysis typically starts in the extremities and works its way towards the body.  (roll randomly on the table below)
 
-**Curare Paralysis Progression**
+**Curare Paralysis Progression**  
 |Roll| First Location | Second Location | Third Location | Fourth Location | Fifth Location |
 |---|---|---|---|---|---|
 |1	|Right hand	|Right arm	|Torso	|Vitals	|Vitals |
