@@ -228,5 +228,5 @@ $20/dose. LC1.
 |King's Dessert|Digestive|HT|1 hr / 1 hr x 8|1d toxic|$50|
 |Poison Arrow Frog Venom|Digestive|HT-2|3d min / Margin of failure hours|Hallucinations|$25|
 |Blood Berry Powder|Respiratory|HT-1|1d-1 sec / 3d minutes|2 HP|$80|
-|Devil's Incense||Respiratory|HT-2|Immed / 1 sec|1 HP|$55|
+|Devil's Incense|Respiratory|HT-2|Immed / 1 sec|1 HP|$55|
 |Dust of Sneezing & Choking|Respiratory|HT-2|Immed / special|Sneezing|$50|  
