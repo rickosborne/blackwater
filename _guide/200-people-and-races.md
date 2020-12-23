@@ -2,6 +2,13 @@
 title: People and Races
 layout: default
 ---
+<table>
+  <tr><td><b>Navigation</b></td></tr>
+  <tr><td>
+{% for chapter in site.guide %}
+  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a><br>
+{% endfor %}  
+    </td></tr></table>  
 
 # People and Races
 
