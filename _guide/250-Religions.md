@@ -10,10 +10,10 @@ The Faith of the Seven is the dominant religion in Blackwater. Each of the Seven
 **The Stranger:** The Stranger represents death and the unknown. It is rarely prayed to.  
 The Faith of the Seven considers magic un-natural and against the will of the seven.  They preach against its use, and routinely urge the creation of laws to make it a crime to use magic.  There have even been occasions where members of the Church have tried and punished suspected wizards, and witches on their own.  
 
-Servants of the Faith are organized into roles
-•	Clerics - Administer the faith, manage the Septs and oversee the Acolytes
-•	Acolytes - Assist Clerics and Zealots, perform the routine and mundane tasks of the Faith
-•	Priests - Evangelize the Faith into the world through words and deeds. 
+Servants of the Faith are organized into roles  
+•	Clerics - Administer the faith, manage the Septs and oversee the Acolytes  
+•	Acolytes - Assist Clerics and Zealots, perform the routine and mundane tasks of the Faith  
+•	Priests - Evangelize the Faith into the world through words and deeds   
 
 ### Priests of the Seven
 Priests of the Seven occasionally have special abilities which are “Gifts” from the Seven. These Gifts are represented by powers from basic book and from GURPS Powers.  Every priest is different, but some gifts seem to manifest more frequently among Priests than other Gifts.  Each Priest can receive up to 7 gifts, one from each of the Seven according to their aspect and the priest’s need.  A Priest’s Gifts can change over time, growing in strength as the Priest matures in the Faith, or waning in strength if the Priest strays from the teachings of the Seven.  It's also been known to happen that a Priest can lose one Gift and gain a different gift from the same aspect of the Seven.
