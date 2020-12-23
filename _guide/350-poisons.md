@@ -29,17 +29,19 @@ The victim must make a HT-3 roll at on-set and every hour after that.  This toxi
 $50/dose.  LC1.  
 
 ### Curare:  
-A follow-up blood agent, curare is is made from crushing and boiling down the leaves of certain uncommon tropical flowers, until a thick brown paste remains.  Curare has an on-set time of 3d seconds and recurs every 1d seconds for 2d cycles.  The victim must make a HT-2 roll to avoid paralysis.  The paralysis typically starts in the extremities and works its way towards the body.  (Roll randomly on the table below)  
+A follow-up blood agent, curare is is made from crushing and boiling down the leaves of certain uncommon tropical flowers, until a thick brown paste remains.  Curare has an on-set time of 3d seconds and recurs every 1d seconds for 2d cycles.  The victim must make a HT-2 roll to avoid paralysis.  The paralysis typically starts in the extremities and works its way towards the body.  
+
+Roll randomly on the table below.  
   
 **Curare Paralysis Progression**  
-|Roll| First Location | Second Location | Third Location | Fourth Location | Fifth Location |
-|---|---|---|---|---|---|
-|1	|Right hand	|Right arm	|Torso	|Vitals	|Vitals |
-|2	|Left hand	|Left arm	|Torso	|Vitals	|Vitals |
-|3	|Right foot	|Right leg	|Groin	|Torso	|Vitals |
-|4	|Left foot	|Left leg	|Groin	|Torso	|Vitals |
-|5	|Mouth	|Eyes	|Head	|Neck	|Vitals |
-|6	|Ears	|Eyes	|Head	|Neck	|Vitals |
+|Roll| First Location | Second Location | Third Location | Fourth Location | Fifth Location |  
+|---|---|---|---|---|---|  
+|1	|Right hand	|Right arm	|Torso	|Vitals	|Vitals |  
+|2	|Left hand	|Left arm	|Torso	|Vitals	|Vitals |  
+|3	|Right foot	|Right leg	|Groin	|Torso	|Vitals |  
+|4	|Left foot	|Left leg	|Groin	|Torso	|Vitals |  
+|5	|Mouth	|Eyes	|Head	|Neck	|Vitals |  
+|6	|Ears	|Eyes	|Head	|Neck	|Vitals |  
 
 Each roll for location builds upon the previous roll.  For example, Joe has been poisoned with Curare.  He fails his first health roll and rolls 1d to see which location the curare affects first.  He gets a 1, so his right hand is paralyzed.  A minute later he rolls against his HT again and fails that roll also.  He rolls for the second affected location and gets a 3, so his right foot is paralyzed.  A minute later he fails his third HT roll, and rolls for affected location and gets 1 again.  He's already rolled a 1 before that left his right hand paralyzed, so now the poison progresses up his right arm.  
 
