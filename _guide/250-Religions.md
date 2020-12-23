@@ -1,3 +1,11 @@
+<table>
+  <tr><td><b>Navigation</b></td></tr>
+  <tr><td>
+{% for chapter in site.guide %}
+  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a><br>
+{% endfor %}  
+    </td></tr></table>  
+
 # Religions 
 ## Faith of the Seven 
 <img align="right" src="../images/7 Point Star.png" height="200">
