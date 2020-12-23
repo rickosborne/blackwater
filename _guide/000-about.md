@@ -1,5 +1,5 @@
 ---
-title: Front Matter
+title: About
 layout: default
 ---
 
