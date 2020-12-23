@@ -14,11 +14,6 @@ layout: default
 
 The player characters are from one of the areas surrounding Blackwater or the City of Blackwater itself.
 
-The player’s party have been hired by Gavin Monkrief, owner of Skeleton Key Books and Maps (see #34 [K4]) on the Player’s Map of Blackwater, pp. 46) to search for the lost Tome of Asturias.
-Mr. Monkrief has recently uncovered some clues that lead him to in the crypt of Lady Dunwich located the ruins of the Maiden’s cloister in the foothills to the west of Northunder.
-
-See recommended Party Roles and Skills on pp. 45
-
 ## Starting Points
 
 Player Characters in the Blackwater campaign are created with 150 points, up to 75 points of disadvantages, including 5 points of quirks.
