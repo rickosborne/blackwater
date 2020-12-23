@@ -55,7 +55,7 @@ The Largest and most popular Holiday is Annae Annue. It’s the celebration of t
 -	**0 APH**: Founding of the Imperial City of Heliconium. Previously known as Helica. Adoption of the Faith of the Seven as the official religion of Heliconium  
 -	**112 APH**: Establishment of Imperial Garrison at Negronium (renamed from Blackwater). Previously and ferry dock for boats working upriver and down to ships docked in the Covari  
 -	**484 - 496**: The Troubles – a time of great unrest across Heliconium under the despotic rule of Empress Tatiana  
-  -	484: Empress Tatiana accedes to throne after no male heirs are able to establish a claim  
+--	484: Empress Tatiana accedes to throne after no male heirs are able to establish a claim  
   -	485: Empress Tatiana orders a purge of all non-humans and “unnatural” beings from the Empire  
   -	485-492: Strig Onslaught against Tarasia in 485, 489, and 2 year siege 491-492  
   -	487: Lord General Abingdon is tried and executed for attempting to assassinate the Empress with his Dark Elf mistress, Ethedra  
