@@ -3,10 +3,12 @@ title: Introduction
 layout: default
 ---
 <table align="right">
+  <tr><td><b>Navigation</b></td></tr>
+  <tr><td>
 {% for chapter in site.guide %}
-  <tr><td><a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a></td></tr>
+  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>
 {% endfor %}  
-</table>  
+    </td></tr></table>  
 
 # Introduction
 
