@@ -24,6 +24,7 @@ Disadvantages [-50]: Code of Honor (Priests – Heal the sick, Defend the weak, 
 Common Individual Advantages: Magic Resistance, Mana Damper, Power Investiture (additional), Very Blessed  
 Common Individual Disadvantages: Compulsive Generosity, Power Investiture (additional levels), Selfless, Sense of Duty, Truthfulness  
 Praying: Whenever a Priest uses a Gift that requires a roll, he may elect to Pray for additional favor.  For each second the Priest spends praying aloud he gains a +1 to his die roll, up to a maximum of +3 (3 seconds of Praying)  
+
 __Example Gifts (also see Sample Abilities in Powers pp.136)__ 
 Many Gifts could conceivably be granted by different aspects, but here are some common examples:
 * Father: Enhanced Time Sense (B52), Mind Control (B68), Mind Probe (B69), Mind Reading (B69), Penetrating Vision (B74), See Invisible (B83)
