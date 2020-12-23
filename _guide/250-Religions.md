@@ -12,7 +12,7 @@ The Faith of the Seven is the dominant religion in Blackwater. Each of the Seven
 
 The Faith of the Seven considers magic un-natural and against the will of the seven.  They preach against its use, and routinely urge the creation of laws to make it a crime to use magic.  There have even been occasions where members of the Church have tried and punished suspected wizards, and witches on their own.  
 
-<img align="right" src="../images/Priest of the Seven.jpg" height="400">
+<img align="right" src="../images/Priest of the Seven.jpg" height="600">
 
 Servants of the Faith are organized into roles  
 •	Clerics - Administer the faith, manage the Septs and oversee the Acolytes  
