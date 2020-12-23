@@ -35,7 +35,8 @@ All PCs are native fluent in 1 spoken language of their choice.  Illiteracy is t
 * Furthark <img src="../images/Futhark.png">  
 * Glagolitic <img src="../images/Glagolitic.png">  
 * Instanic <img src="../images/Instanic.png">  
-* Syriac 
-<img src="../images/Syriac.png">  
+* Syriac  <img src="../images/Syriac.png">  
+
+Many other languages exist in the world and select PCs may know languages not on this list.
 
 
