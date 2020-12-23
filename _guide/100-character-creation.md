@@ -20,7 +20,7 @@ Player Characters in the Blackwater campaign are created with 150 points, up to 
 
 ## Character Races
 
-[GURPS Fantasy] is the defining standard for common races with the lands known to the environs of Blackwater.
+[GURPS Fantasy](http://www.sjgames.com/gurps/books/Fantasy/) is the defining standard for common races with the lands known to the environs of Blackwater.
 Races allowed for PCs include:
 
 * Humans
