@@ -55,7 +55,8 @@ Many Gifts could conceivably be granted by different aspects, but here are some 
 * Warrior: Enhanced Defenses (B51), Innate Attack (B61), Telekinesis (B92), Weapon Talent (B99), 
 * Smith: Gadgeteer (B56), Gizmos (B57), Shapeshifting (B83), Morph (B84), Talent: Artificer (B90), Temperature Control (B92)
 * Stranger: Elastic Skin (B51), Insubstantiality (B62), Invisibility (B63), Medium (B68), Permeation (B75), Shadow Form (B83), Warp (B97)
- 
+   
+
 ## Brotherhood of Balance and Harmony  
     
 The Brotherhood of Balance and Harmony follow the path of naturalness, spontaneity, simplicity, detachment from desires, and most important of all, balance.  In ancient texts, balance is associated with water through its yielding nature.  Brotherhood philosophy teaches that the universe works harmoniously according to its own ways. When someone exerts their will against the world in a manner that is out of rhythm with the cycles of change, they may disrupt that harmony. This disruption frequently creates unintended consequences more often than the desired outcome. Monks assert that one must place their will in harmony with the natural universe in order to be in balance with the natural order of things.  Thus, a potentially harmful interference may be avoided, and in this way, goals can be achieved effortlessly.  “The Monk seeks to come into harmony with the universe, which itself accomplishes by nonaction."  
