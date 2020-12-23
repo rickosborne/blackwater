@@ -34,14 +34,15 @@ A follow-up blood agent, curare is is made from crushing and boiling down the le
 Roll randomly on the table below.  
   
 **Curare Paralysis Progression**  
-|Roll| First Location | Second Location | Third Location | Fourth Location | Fifth Location |  
+
+|Roll|First Location|Second Location|Third Location|Fourth Location|Fifth Location|  
 |---|---|---|---|---|---|  
-|1	|Right hand	|Right arm	|Torso	|Vitals	|Vitals |  
-|2	|Left hand	|Left arm	|Torso	|Vitals	|Vitals |  
-|3	|Right foot	|Right leg	|Groin	|Torso	|Vitals |  
-|4	|Left foot	|Left leg	|Groin	|Torso	|Vitals |  
-|5	|Mouth	|Eyes	|Head	|Neck	|Vitals |  
-|6	|Ears	|Eyes	|Head	|Neck	|Vitals |  
+|1|Right hand|Right arm|Torso|Vitals|Vitals|  
+|2|Left hand|Left arm|Torso|Vitals|Vitals|  
+|3|Right foot|Right leg|Groin|Torso|Vitals|  
+|4|Left foot|Left leg|Groin|Torso|Vitals|  
+|5|Mouth|Eyes|Head|Neck|Vitals|  
+|6|Ears|Eyes|Head|Neck|Vitals|  
 
 Each roll for location builds upon the previous roll.  For example, Joe has been poisoned with Curare.  He fails his first health roll and rolls 1d to see which location the curare affects first.  He gets a 1, so his right hand is paralyzed.  A minute later he rolls against his HT again and fails that roll also.  He rolls for the second affected location and gets a 3, so his right foot is paralyzed.  A minute later he fails his third HT roll, and rolls for affected location and gets 1 again.  He's already rolled a 1 before that left his right hand paralyzed, so now the poison progresses up his right arm.  
 
@@ -134,16 +135,34 @@ Once an effect has begun, it continues with only brief moments of respite, even 
 1.	To survive until the poison runs its course
 2.	Use magic to cure poison
 3.	Make a critical success on the HT roll
-Production:
-$25/dose. LC1.
-King's Dessert (Arsenic): Mined from a special soft gray mineral and ground into a fine powder this is a digestive agent with a one-hour delay and a HT-2 roll to resist. Inflicts 1d toxic damage, repeating at hourly intervals for eight cycles.
-$50/dose. LC1.
-Poison Arrow Frog Venom:  A blood agent or a digestive agent with an onset time of 1d minutes or 3d minutes respectively.  In either case the victim must make a HT-2 roll to resist.  On a failure, the user starts hallucinating (see Incapacitating Conditions - Hallucinations B.429).  This lasts for a number of hours equal to the margin of failure. After that time, the user may roll vs. HT-2 once per hour to shake off the drug’s influence. On a critical failure the victim acquires a 15-point phobia as a result of the hallucinations.  On a success the victim suffers no ill-effects.  
-Production: must be harvested from the backs of small tropical frogs (Naturalist -2 roll), and then reduced and concentrated for storage and use (Poisons skill roll).
-$25/dose. LC1
-Red Tide:  Harvested and distilled from certain shellfish following the Red Tides.  It has a delay of 3dx2 minutes, after which there is slight tingling around the mouth, progressing to numbness which spreads to face and neck to moderate cases.  The victim must make a HT-3 roll or suffer a DX penalty equal to the failure margin due to partial muscle paralysis.  The symptoms last for 2d6 hours.  On a critical failure the victim is completely paralyzed (flaccid) and must make an additional health roll every hour or die from suffocation.  If the victim survives the period of active symptoms, they will begin to recover.  They must make a HT roll every 6 hours to regain 1 point of DX.  There are no negative consequences for a regular failure on the health roll, recovery just take longer, but on a critical failure, DX is permanently reduced by 1.
-$20/dose. LC1.
-Respiratory Agents
+
+**Production**: Steeping the newest, youngest, leaves from the Hemlock plant (Naturalist roll to locate) in hot water for 24 hours, and then carefully reducing the extracted down by a factor of 10 to produce a concentrated syrup (Poisons roll).  
+
+$25/dose. LC1.  
+
+### King's Dessert (Arsenic):  
+Mined from a special soft gray mineral and ground into a fine powder this is a digestive agent with a one-hour delay and a HT-2 roll to resist. Inflicts 1d toxic damage, repeating at hourly intervals for eight cycles.  
+
+**Production**: Naturalist-2 or Geology roll to locate the appropriate minerals, followed by a Poisons roll to effectively filter out the impurities.    
+
+$50/dose. LC1.  
+
+### Poison Arrow Frog Venom:  
+A blood agent or a digestive agent with an onset time of 1d minutes or 3d minutes respectively.  In either case the victim must make a HT-2 roll to resist.  On a failure, the user starts hallucinating (see Incapacitating Conditions - Hallucinations B.429).  This lasts for a number of hours equal to the margin of failure. After that time, the user may roll vs. HT-2 once per hour to shake off the drug’s influence. On a critical failure the victim acquires a 15-point phobia as a result of the hallucinations.  On a success the victim suffers no ill-effects.  
+
+**Production**: must be harvested from the backs of small tropical frogs (Naturalist -2 roll), and then reduced and concentrated for storage and use (Poisons skill roll).  
+
+$25/dose. LC1  
+
+### Red Tide:  
+Harvested and distilled from certain shellfish following the Red Tides.  It has a delay of 3dx2 minutes, after which there is slight tingling around the mouth, progressing to numbness which spreads to face and neck to moderate cases.  The victim must make a HT-3 roll or suffer a DX penalty equal to the failure margin due to partial muscle paralysis.  The symptoms last for 2d6 hours.  On a critical failure the victim is completely paralyzed (flaccid) and must make an additional health roll every hour or die from suffocation.  If the victim survives the period of active symptoms, they will begin to recover.  They must make a HT roll every 6 hours to regain 1 point of DX.  There are no negative consequences for a regular failure on the health roll, recovery just take longer, but on a critical failure, DX is permanently reduced by 1.  
+
+**Production**:  
+
+$20/dose. LC1.  
+
+## Respiratory Agents  
+
 Blood Berry Powder:  This toxin, made from the deep purple “blood berries” of the collabra variety of the nightshade bush, must be inhaled to have an effect.  It is commonly stored in small wooden tubes about the size of a man's pinky finger with both ends plugged by small wads of cloth, with a cord running out and covered with wax.  The ends of the tube are opened by pulling the small cords.  Then the user blows through the tube forcing the powder out.  The powder forms a cloud 1 yard in diameter that persists for 1d seconds.  
 Once inhaled, the poison has an on-set time of 1d-1 seconds with a follow-up cycle every 1 minute for 3d minutes.  The victim must make a HT-1 roll every minute or they bleed from all of their bodily orifices losing 2 HP.  Bleeding from the mouth and nose causes coughing and gagging (see coughing B.428), and bleeding from the eyes interferes with vision (-3 to vision rolls).  On a success, they suffer no blood loss or damage during that cycle.  On a critical success, the effects of the poison end, and on a critical failure the victim begins to bleed from the pores of their skin and suffer 1d damage for that cycle.  The bleeding itself causes no pain.  
 Production: Naturalist roll to locate and collect the correct berries.  Poisons roll to dry, grind and make into powder properly.
