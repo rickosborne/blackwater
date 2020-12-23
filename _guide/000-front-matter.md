@@ -20,3 +20,7 @@ GURPS is a registered trademark of Steve Jackson Games.
 All rights reserved.
 The material presented here is an adaptation of original creations intended for use with the GURPS system from Steve Jackson Games.
 The material is used here in accordance with the SJ Games online policy.
+
+{% for chapter in site.guide %}
+* [{{ chapter.title }}]({{ chapter.url | relative_url }})
+{% endfor %}
