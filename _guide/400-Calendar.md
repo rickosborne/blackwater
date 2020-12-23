@@ -32,12 +32,22 @@ The months are:
 - Belltine  
 - Sunsebb  
 
-The days of the week are: Lundi, Delmi, Samdi, Fellodi, Bochdi, Holidi. Holidi is the typical day of worship and rest. 
-<img align="right" src="../images/Winter House.jpg">
+The days of the week are:  
+- Lundi  
+- Delmi  
+- Samdi  
+- Fellodi  
+- Bochdi  
+- Holidi 
+
+Holidi is the typical day of worship and rest.   
+
+<img align="right" src="../images/Winter House.jpg">  
+
 ## Holidays  
 The Largest and most popular Holiday is Annae Annue. It’s the celebration of the New Year. Traditional celebrations include many feasts, family gatherings, the exchanging of gifts and the worship of the gods.  It is universally regarded as a time of peace and friendship, and only the most despicable and heinous of fiends would do violence or cause harm during the season.  
 
-<img src="../images/Calendar.jpg">  
+<img src="../images/Calendar.png">  
 
 
 
