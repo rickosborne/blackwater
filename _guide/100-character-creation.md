@@ -64,7 +64,7 @@ The mages of Blackwater have organized themselves into a mages’ guild, called 
 The Order is led by a circle of masters, and a Grand Master that is elected and serves as the magical advisor to the Earl.
 
 Mage characters must either be a member of the guild or a renegade mage.
-See Magic on p.19.
+See [Magic](./300-magic.md).
 
 [^GURPS Magic]: http://www.sjgames.com/gurps/books/Magic/
 
