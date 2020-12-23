@@ -102,20 +102,34 @@ $40/dose.  LC 1.
 
 ## Digestive Agents  
 
-Cerbera:  A fine powder made from seeds of the Odallam tree, commonly known as the suicide tree. The seeds contain cerberin, a potent toxin that causes disruption of the heartbeat. This is typically fatal and can result from ingesting a single seed. Cerberin is difficult to detect in autopsies and its taste can be masked with strong spices, such as a curry. It is often used in homicide and suicide in certain parts of the world.
-The onset time for this poison is 2d hours and requires a HT roll.  If the victim fails the roll they suffer an immediate heart attack (see heart attach B.429).  If the victim succeeds, they suffer no ill-effects and will likely not even know they have been poisoned.
-Production: Harvest dry, and grind the seeds (Naturalist roll to find the trees and Poisons roll to harvest and refine).
-$30/dose.  LC1.
-Destroying Angels:  The destroying angels poison is a concentrated extract of several species of all-white mushrooms in the genus Amanita. These incredibly toxic fungi are very similar in appearance to edible button mushrooms and the meadow mushrooms and have been collected by mistake on numerous occasions.
-As a digestive agent, the symptoms take 4d hours to present and last for 1d days.  The poison impairs normal brain function lowering the victim’s intelligence.  Once the effects begin the victim must make a HT-2 roll every hour or lose 1 point of IQ.  Once the victim reaches an IQ of 3 or lower, he stops losing IQ and slips into a coma (see B.429).  Once the toxin wears off, if the victim was in a coma, they awaken with an IQ of 3.  They must make a HT roll daily to recover 1 pt of IQ.  On a failure IQ is not recovered, on a critical failure 1 pt of IQ is lost permanently.
-Production: Naturalist-3 to find the right mushrooms and Poisons roll to dry, grind and mix properly.
-$30/dose.  LC 1.
-Hemlock:  This poison is made simply from crushing the roots of the Water Hemlock plant into a paste.  Once a victim ingests the poison the on-set time is 1d+14 minutes with follow-up effects every 2 hours for 3d+6 cycles.  The victim must make a HT roll at on set and during each cycle afterwards.  On a success the victim suffers on nausea and drowsiness (see B.428).  On a critical success the victim suffers no further effects from the poison.  If the victim fails the HT roll, they progress through the effects noted below:
-Failure	Effect
-First	Retching (see B.428)
-Second	Retching and Pain (see B.428)
-Third	Seizures (see B.428)
-Fourth	Coma (see B.428)
+### Cerbera:  
+A fine powder made from seeds of the Odallam tree, commonly known as the suicide tree. The seeds contain cerberin, a potent toxin that causes disruption of the heartbeat. This is typically fatal and can result from ingesting a single seed. Cerberin is difficult to detect in autopsies and its taste can be masked with strong spices, such as a curry. It is often used in homicide and suicide in certain parts of the world.  
+
+The onset time for this poison is 2d hours and requires a HT roll.  If the victim fails the roll they suffer an immediate heart attack (see heart attach B.429).  If the victim succeeds, they suffer no ill-effects and will likely not even know they have been poisoned.  
+
+**Production**: Harvest dry, and grind the seeds (Naturalist roll to find the trees and Poisons roll to harvest and refine).  
+
+$30/dose.  LC1.  
+
+### Destroying Angels:  
+The destroying angels poison is a concentrated extract of several species of all-white mushrooms in the genus Amanita. These incredibly toxic fungi are very similar in appearance to edible button mushrooms and the meadow mushrooms and have been collected by mistake on numerous occasions.  
+
+As a digestive agent, the symptoms take 4d hours to present and last for 1d days.  The poison impairs normal brain function lowering the victim’s intelligence.  Once the effects begin the victim must make a HT-2 roll every hour or lose 1 point of IQ.  Once the victim reaches an IQ of 3 or lower, he stops losing IQ and slips into a coma (see B.429).  Once the toxin wears off, if the victim was in a coma, they awaken with an IQ of 3.  They must make a HT roll daily to recover 1 pt of IQ.  On a failure IQ is not recovered, on a critical failure 1 pt of IQ is lost permanently.  
+
+**Production**: Naturalist-3 to find the right mushrooms and Poisons roll to dry, grind and mix properly.  
+
+$30/dose.  LC 1.  
+
+### Hemlock:  
+This poison is made simply from crushing the roots of the Water Hemlock plant into a paste.  Once a victim ingests the poison the on-set time is 1d+14 minutes with follow-up effects every 2 hours for 3d+6 cycles.  The victim must make a HT roll at on set and during each cycle afterwards.  On a success the victim suffers on nausea and drowsiness (see B.428).  On a critical success the victim suffers no further effects from the poison.  If the victim fails the HT roll, they progress through the effects noted below:
+
+|Failure|Effect|
+|---|---|
+|First|Retching (see B.428)|
+|Second|Retching and Pain (see B.428)|
+|Third|Seizures (see B.428)|
+|Fourth|Coma (see B.428)|  
+
 Once an effect has begun, it continues with only brief moments of respite, even if the next HT roll is made.  That just means symptoms don't get worse.  They only ways to end the symptoms is:
 1.	To survive until the poison runs its course
 2.	Use magic to cure poison
