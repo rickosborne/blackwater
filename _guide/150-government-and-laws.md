@@ -12,7 +12,7 @@ layout: default
 
 
 # Blackwater Government and Laws
-
+<img align="right" src="../images/Blackwater Woodcarving.png">
 Most laws are written down in the Blackwater Codices, maintained in the city courthouse.
 Laws are passed by a 2/3 vote of the assembly and must be approved by the Earl.
 Most laws are focused on either public protection or tax collection.
