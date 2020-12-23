@@ -78,6 +78,7 @@ Bows and crossbows must be unstrung while within city gates.
 
 Peacebonding consists of a red cord tied around the weapon and closed with a melted lead seal.
 The cord is tied around the hilt of the blade and through or around the scabbard in such a way that is impossible (or at least very difficult) to remove the weapon from the sheath without breaking the peacebond.
+
 For weapons with no scabbard or sheath, and heavy piece of leather is wrapped around the head or blade and cinched on the with red cord and sealed.
 For arrows or bolts, the leather is wrapped around the head, the arrows are cinched together with a red cord around the leather wrap, and then sealed with the hot lead.
 
