@@ -194,7 +194,7 @@ The on-set time is immediate, and the victim must make a HT-2 roll or begin to s
 
 $50/dose.  LC1.  
 
-### Happy smoke:  
+### Happy Smoke:  
 This poison is an oily liquid made from concentrated Oleander oil and extract of crushed Jimson Weed leaves.  The liquid itself is not toxic and has a pleasant “green” floral scent.  However, when heated, the smoke released from the oil has a string narcotic effect on those that inhale it.  Frequently things like candle or lantern wicks, torch rags, are incense sticks are soaked in this oil.  
 
 A person must take several breaths of this gas in order to be exposed to its effects.  If the person is resting this means they must be in the area of the gas for 10 seconds normally, 6 seconds if slightly exerted and 3 seconds if they have been heavily exerting themselves.  
