@@ -27,13 +27,13 @@ There are 15 general city assembly seats.
 In addition, each of the 10 guild masters (except the Order of the Magi) gets a voting seat (Bakers, Candle makers, Carpenters, Cobblers, Glassiers, Leather workers, Masons, Merchants, Shipwrights, and Smiths) for a total of 25 seats on the Assembly.
 
 ## City Watch
-<img align="right" src="../images/Castle Blackwater from the North.jpg">
+
 The City Watch of Blackwater is well funded and well trained.
 They provide both professional soldier defense of the city and surrounding land as well as police enforcement of laws among the population.
 In addition to manning the walls and gates, they patrol the streets, surrounding countryside, and river, as well as investigate all crimes.
 
 ## Citizens, Residents, and Visitors
-
+<img align="right" src="../images/Castle Blackwater from the North.jpg">
 Denizens of the City of Blackwater are legally grouped into one of three classes:
 
 **Citizens** are property owners (buildings, parts of buildings or land) within the city.
@@ -70,7 +70,7 @@ Most other races will be stopped and questioned extensively at any town gate.
 ## Weapons and Armor Laws
 
 ### Weapons
-
+<img align="left" src="../images/Weapon Rack.jpg">  
 All metal or edged weapons larger than a small knife must be peacebonded while within the city walls.
 Guards at any city gates will require anyone entering the city with weapons to have them peacbonded.
 There is a tax on each weapon peacebonded of $2 per pound of the weapon.
