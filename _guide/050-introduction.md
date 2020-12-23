@@ -18,7 +18,7 @@ Spring is usually wet and muddy with beautiful flowers.
 
 A wealthy, walled town of approximately 30,000 residents, the Free City of Blackwater controls a strategic point where the River Blackwater passes through low but steep hills in its transition from the fertile plains out the Covari coast.
 Boasting many large churches and temples, cobblestone streets, and an impressive castle on the hillside overlooking the city, Blackwater is a prosperous river-side trading center with most of its buildings being 2-3 story stone structures with plaster facades and tile roofs.
-<img align="right" src="../images/Blackwater WaterColor from Castle.jpg" height="400">  
+
 Blackwater serves as the cultural, military, and political center for the surrounding area encompassing nearly 2,500 square miles.
 Within the sway of Earl Froderek of Blackwater are the villages of Northunder, Coldcreek, Ferton, and Manor Post.
 The Earl’s title is not due to nobility.
@@ -29,7 +29,7 @@ Earl Froderek has held the position for nearly 20 years.
 
 Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater.
 Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.
-
+<img align="right" src="../images/Blackwater WaterColor from Castle.jpg" height="400">  
 Northunder is a prosperous farming enclave, a long day’s ride north, on the southern banks of lake Shivar.
 The enclave is run under a charter granted by the Earl, by an appointed mayor named Ian Ferrik.
 Northunder is home to about 1,500 villagers, who are, more or less, loyal subjects of the Earl.
