@@ -26,7 +26,7 @@ The order ranks its members based on their magical ability and assigns color cod
 
 There is an additional rank of Arch-Magi that is elected from among the Magi to serve as the magical advisor to the Earl of Blackwater.
 Initiates, Novices, and Disciples are commonly apprentices to Adepts, Mavens, and Enchanters, although these relationships are subtle, subjective and determined largely on a case-by-case basis by the personalities involved.  
-<img align="right" src="../images/Mages.png" widht="100%">
+<img align="right" src="../images/Mages.png" widht="100%">  
 Magi Ranks & Robes  
 •	Neophyte - Red  
 •	Initiate - Orange  
