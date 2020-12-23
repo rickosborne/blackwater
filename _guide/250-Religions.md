@@ -32,6 +32,7 @@ Servants of the Faith are organized into roles
 •	Priests - Evangelize the Faith into the world through words and deeds   
 
 <img align="left" src="../images/Priest of the Seven.jpg" height="600">  
+
 ### Priests of the Seven  
 Priests of the Seven occasionally have special abilities which are “Gifts” from the Seven. These Gifts are represented by powers from basic book and from GURPS Powers. Every priest is different, but some gifts seem to manifest more frequently among Priests than other Gifts. Each Priest can receive up to 7 gifts, one from each of the Seven according to their aspect and the priest’s need. A Priest’s Gifts can change over time, growing in strength as the Priest matures in the Faith, or waning in strength if the Priest strays from the teachings of the Seven. It's also been known to happen that a Priest can lose one Gift and gain a different gift from the same aspect of the Seven.  
 
