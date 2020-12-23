@@ -71,19 +71,35 @@ A blood agent or a digestive agent with an onset time of 1d minutes or 3d minute
 
 $25/dose. LC1  
 
-Tarantula Hawk Venom:  Similar to Demon Ant Venom, but faster acting, with a shorter duration and only slightly less painful.  A fast venom, the onset time is 1 second.  The venom causes “immediate, excruciating, unrelenting pain that simply shuts down one's ability to do anything, except scream.” The poison causes no actual permanent damage.  
-Victims must make a HT roll to resist the effects which last 1d minutes.  On a failed HT roll the victim suffers “terrible pain” centered on the injection point and on a success they experience “severe pain” (see B.428).  On a critical success they feel only “mild pain” and on a critical failure they experience “agony”.
-Production: Must be harvested.  Tarantula Hawks (a type of large wasp) are native to desert lands and rare except in brief rainy seasons.
-$100/dose. LC 1.
-Contact Agents
-The Long Sleep:  This poison is harvested from Hangman's Vine, it readily absorbs through the skin and causes the victim to rapidly fall unconscious.  It is a clear viscous liquid that is orderless and tasteless.  It may be absorbed through the skin, injected or ingested.  Regardless of delivery mechanism, it takes effect in 1d seconds.  The victim must make a HT roll every second for 3d seconds.  Each failed HT roll causes 1d fatigue (see B.426).  Fatigue is recovered normally after the poison wears off.
-Production: must be carefully harvested from the vines (naturalist -2 roll to locate; poisons roll to harvest).
-$30/dose. LC 1
-Lover's Kiss:  A bright red paste that is easily absorbed through the skin, it is made from the concentrated mash of the berries of the Belladonna plant and which is mixed with reduced assassin snail slime and allowed to cure in a cool damp cellar for several weeks.  The on-set time for this toxin is 3d+2 minutes, with follow-up effects every 1 hour for 4d hours.  The victim must make a HT roll when the effects start and every hour after to resist.  On a Success the victim suffers no effects, but on a failure the victim goes into a catatonic stupor (see https://en.wikipedia.org/wiki/Stupor), similar to being dazed, but they barely react even to pain or injury. (see Dazed B.428).  The victim remains in the stupor until the next HT roll an hour later.  On a critical success the effects of the poison ends; but on a critical failure then poisons effects continue for an extra 1d hours.
-If the victim suffers from catatonic stupor, once they recover from that bought of catatonia (even if the poison is still active), they must make a HT roll with a penalty equal to number continuous hours that they were dazed.  If they succeed, they suffer no additional negative effects, but the poison may still have follow-up cycles remaining.  A failed HT roll means the victim has lost some memories (both declarative memory and non declarative memory).  The victim loses 1 month of memories and 1 skill point (roll randomly for affected skills) equal to number of hours they were catatonic.  On a critical failure the victim suffers from total amnesia and losses skill points equal to twice the number of hours they were catatonic.
-Production: Naturalist roll to locate and harvest collect the correct berries and assassin snail slime; and a Poisons roll to mix the proper ratios and cure correctly.
-$40/dose.  LC 1.
-Digestive Agents
+### Tarantula Hawk Venom:  
+Similar to Demon Ant Venom, but faster acting, with a shorter duration and only slightly less painful.  A fast venom, the onset time is 1 second.  The venom causes “immediate, excruciating, unrelenting pain that simply shuts down one's ability to do anything, except scream.” The poison causes no actual permanent damage.  
+
+Victims must make a HT roll to resist the effects which last 1d minutes.  On a failed HT roll the victim suffers “terrible pain” centered on the injection point and on a success they experience “severe pain” (see B.428).  On a critical success they feel only “mild pain” and on a critical failure they experience “agony”.   
+
+**Production**: Must be harvested.  Tarantula Hawks (a type of large wasp) are native to desert lands and rare except in brief rainy seasons.  
+
+$100/dose. LC 1.  
+
+## Contact Agents  
+
+### The Long Sleep:  
+This poison is harvested from Hangman's Vine, it readily absorbs through the skin and causes the victim to rapidly fall unconscious.  It is a clear viscous liquid that is orderless and tasteless.  It may be absorbed through the skin, injected or ingested.  Regardless of delivery mechanism, it takes effect in 1d seconds.  The victim must make a HT roll every second for 3d seconds.  Each failed HT roll causes 1d fatigue (see B.426).  Fatigue is recovered normally after the poison wears off.
+
+Production: must be carefully harvested from the vines (naturalist -2 roll to locate; poisons roll to harvest).  
+
+$30/dose. LC 1  
+
+### Lover's Kiss:  
+A bright red paste that is easily absorbed through the skin, it is made from the concentrated mash of the berries of the Belladonna plant and which is mixed with reduced assassin snail slime and allowed to cure in a cool damp cellar for several weeks.  The on-set time for this toxin is 3d+2 minutes, with follow-up effects every 1 hour for 4d hours.  The victim must make a HT roll when the effects start and every hour after to resist.  On a Success the victim suffers no effects, but on a failure the victim goes into a [catatonic stupor](https://en.wikipedia.org/wiki/Stupor), similar to being dazed, but they barely react even to pain or injury. (see Dazed B.428).  The victim remains in the stupor until the next HT roll an hour later.  On a critical success the effects of the poison ends; but on a critical failure then poisons effects continue for an extra 1d hours.  
+
+If the victim suffers from catatonic stupor, once they recover from that bought of catatonia (even if the poison is still active), they must make a HT roll with a penalty equal to number continuous hours that they were dazed.  If they succeed, they suffer no additional negative effects, but the poison may still have follow-up cycles remaining.  A failed HT roll means the victim has lost some memories (both declarative memory and non declarative memory).  The victim loses 1 month of memories and 1 skill point (roll randomly for affected skills) equal to number of hours they were catatonic.  On a critical failure the victim suffers from total amnesia and losses skill points equal to twice the number of hours they were catatonic.  
+
+**Production**: Naturalist roll to locate and harvest collect the correct berries and assassin snail slime; and a Poisons roll to mix the proper ratios and cure correctly.  
+
+$40/dose.  LC 1.  
+
+## Digestive Agents  
+
 Cerbera:  A fine powder made from seeds of the Odallam tree, commonly known as the suicide tree. The seeds contain cerberin, a potent toxin that causes disruption of the heartbeat. This is typically fatal and can result from ingesting a single seed. Cerberin is difficult to detect in autopsies and its taste can be masked with strong spices, such as a curry. It is often used in homicide and suicide in certain parts of the world.
 The onset time for this poison is 2d hours and requires a HT roll.  If the victim fails the roll they suffer an immediate heart attack (see heart attach B.429).  If the victim succeeds, they suffer no ill-effects and will likely not even know they have been poisoned.
 Production: Harvest dry, and grind the seeds (Naturalist roll to find the trees and Poisons roll to harvest and refine).
