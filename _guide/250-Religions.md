@@ -1,13 +1,15 @@
 # Religions 
 ## Faith of the Seven 
-The Faith of the Seven is the dominant religion in Blackwater. Each of the Seven aspects symbolizes a different part of life and are prayed to for different purposes. They are known as the Father, the Mother, the Maiden, the Crone, the Warrior, the Smith, and the Stranger.
-**The Father:** The Father represents divine justice and judges the souls of the dead.  
-**The Mother:** The Mother represents mercy, peace, fertility, and childbirth. She is sometimes referred to as "the strength of women". Apart from human fertility, she also blesses crops with bountiful harvests.  
-**The Maiden:**  The Maiden represents purity, innocence, love, and beauty. She protects the chastity of virgins, as well as protecting the innocent in general.  
-**The Crone:** The Crone represents wisdom and foresight. She is represented carrying a lantern. Sometimes She is depicted as blindfolded.  
-**The Warrior:** The Warrior represents strength and courage in battle.  
-**The Smith:** The Smith represents creation and craftsmanship. Grants workers the strength to continue their labors.  
-**The Stranger:** The Stranger represents death and the unknown. It is rarely prayed to.  
+The Faith of the Seven is the dominant religion in Blackwater. Each of the Seven aspects symbolizes a different part of life and are prayed to for different purposes. They are known as the Father, the Mother, the Maiden, the Crone, the Warrior, the Smith, and the Stranger.  
+
+- **The Father:** The Father represents divine justice and judges the souls of the dead.  
+- **The Mother:** The Mother represents mercy, peace, fertility, and childbirth. She is sometimes referred to as "the strength of women". Apart from human fertility, she also blesses crops with bountiful harvests.  
+- **The Maiden:**  The Maiden represents purity, innocence, love, and beauty. She protects the chastity of virgins, as well as protecting the innocent in general.  
+- **The Crone:** The Crone represents wisdom and foresight. She is represented carrying a lantern. Sometimes She is depicted as blindfolded.  
+- **The Warrior:** The Warrior represents strength and courage in battle.  
+- **The Smith:** The Smith represents creation and craftsmanship. Grants workers the strength to continue their labors.  
+- **The Stranger:** The Stranger represents death and the unknown. It is rarely prayed to.  
+
 The Faith of the Seven considers magic un-natural and against the will of the seven.  They preach against its use, and routinely urge the creation of laws to make it a crime to use magic.  There have even been occasions where members of the Church have tried and punished suspected wizards, and witches on their own.  
 
 Servants of the Faith are organized into roles  
