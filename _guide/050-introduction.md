@@ -2,7 +2,7 @@
 title: Introduction
 layout: default
 ---
-<table align="right">
+<table align="left">
   <tr><td><b>Navigation</b></td></tr>
   <tr><td>
 {% for chapter in site.guide %}
