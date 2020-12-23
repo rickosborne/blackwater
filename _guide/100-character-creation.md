@@ -35,7 +35,7 @@ Races allowed for PCs include:
 * Dwarves
 * Halflings
 * Half-Elves
-See [People and Races]("./200-people-and-races.md") for more information.  
+See [People and Races](./200-people-and-races.md) for more information.  
 
 There are other races described in GURPS Fantasy that exist, for the most part, as described in GURPS Fantasy, but are not ideal candidates for PCs. Some of them may be allowed as PCs, under certain conditions. They Include:
 
