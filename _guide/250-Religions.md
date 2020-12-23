@@ -1,5 +1,6 @@
 # Religions 
 ## Faith of the Seven 
+<img align="left" src="../images/7 Point Star.png">
 The Faith of the Seven is the dominant religion in Blackwater. Each of the Seven aspects symbolizes a different part of life and are prayed to for different purposes. They are known as the Father, the Mother, the Maiden, the Crone, the Warrior, the Smith, and the Stranger.  
 
 - **The Father:** The Father represents divine justice and judges the souls of the dead.  
