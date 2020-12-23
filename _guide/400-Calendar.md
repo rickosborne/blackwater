@@ -61,8 +61,8 @@ The Largest and most popular Holiday is Annae Annue. It’s the celebration of t
   •	487: Lord General Abingdon is tried and executed for attempting to assassinate the Empress with his Dark Elf mistress, Ethedra  
   •	487 – 496: Triggered by the arrest the Drow incursions begin and Mallium provides aid to Heliconium  
   •	489 – 496: Magewar rebellion:  A group called the Magi rebelled against the Tower of High Sorcery and its loyalty to the Empress  
-   o	494: Battle of Three Rivers south of Heliconium - Magi lost.  Imperial forces and Tower of High Sorcery won  
-   o	496: Magi fled from the Tower and Heliconium as a result  
+    o	494: Battle of Three Rivers south of Heliconium - Magi lost.  Imperial forces and Tower of High Sorcery won  
+    o	496: Magi fled from the Tower and Heliconium as a result  
   •	493: Plamar issues Declaration of Secession from the Empire and the founding of the Plamarise League  
   •	495: T’skrang (Lizard Men) sack Vasiliki  
   •	496: “Fall” of the Helic Empire: The Grand Septa of Heliconium declared the Tower, all Magical works and the Empress Tatiana as Anathema.  Tens of thousands of faithful rallied to his call and sacked the Imperial palace and the Tower leading to the physical and figurative destruction of the Tower of High Sorcery, along with years of inward contraction by the remnants of the Empire  
