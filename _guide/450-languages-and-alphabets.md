@@ -32,9 +32,13 @@ All PCs are native fluent in 1 spoken language of their choice.  Illiteracy is t
 
 # Alphabets  
 * Calach is represented by normal Latin Characters.  
-* Furthark <img src="../images/Futhark.png">  
-* Glagolitic <img src="../images/Glagolitic.png">  
-* Instanic <img src="../images/Instanic.png">  
-* Syriac <img src="../images/Syriac.png">  
+* Furthark 
+<img src="../images/Futhark.png">  
+* Glagolitic 
+<img src="../images/Glagolitic.png">  
+* Instanic 
+<img src="../images/Instanic.png">  
+* Syriac 
+<img src="../images/Syriac.png">  
 
 
