@@ -50,7 +50,7 @@ Mana levels are normal by default within the known world, with variations and as
 Magic is uncommon and viewed with suspicion and fear by a large number of people.
 Mages are rare, except among Player Characters and significant NPCs.
 
-All forms of magery discussed in the [GURPS Magic] sourcebook are allowed, including Improvised Magic, Rune Magic, and Knacks.
+All forms of magery discussed in the [GURPS Magic](http://www.sjgames.com/gurps/books/magic/) sourcebook are allowed, including Improvised Magic, Rune Magic, and Knacks.
 All variants of the magery advantage are allowed.
 No mage player can purchase higher than magery level 3; however this does not include any levels of magery that are granted from racial packages.
 All colleges listed from within the Magic sourcebook are allowed except the Technological college.
