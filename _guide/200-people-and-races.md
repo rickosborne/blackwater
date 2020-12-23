@@ -2,20 +2,13 @@
 title: People and Races
 layout: default
 ---
-<table>
-  <tr><td><b>Navigation</b></td></tr>
-  <tr><td>
-{% for chapter in site.guide %}
-  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a><br>
-{% endfor %}  
-    </td></tr></table>  
 
 # People and Races
 
 The city of Blackwater is populated largely by Humans.  Several hundred Halflings and Dwarves also reside within the city.  A few dozen Elves also reside in the city at any given time, but rarely permanently.  In addition, Strig from the north, Plamarise from the south, and merchants from across the Covari are frequently seen in Blackwater.
 The City collects a census of all legal residents every 10 years, as of the last census (5 years ago) there were just over 32,000 residents in the city of Blackwater.
 
-<img src="../images/Blackwater City Demographics.png" width="800">
+![Blackwater City Demographics](../images/Blackwater City Demographics.png){:.center}
  
 ## Humans - Strig
 
@@ -48,7 +41,9 @@ Strig favor silver jewelry and tattoos as forms of body ornamentation.  Earrings
 Strig are almost always illiterate and speak Schepal as their native language.
 
 It costs 35 points to play a Strig Barbarian.  
-<img align="left" src="../images/Strig.jpg">
+
+![Strig](../images/Strig.jpg){:.float-left}
+
 **Strig Character Template [35 points]**  
 Attribute Modifiers: Strength +3 (-10% modifier for size) [+27], Health +2 [+20]    
 Secondary Characteristic Modifiers: Gigantism (SM +1) [0], Overweight [-1], Hit Points +2 [+4]  
@@ -65,8 +60,11 @@ Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5
 
 ## Dwarves
 
-Dwarves are a race of miners, metalworkers, and craftsmen. They live underground, which is their workplace and protection from enemies. Dwarves are small but strong and enduring, with highly developed combat skills. They may become alchemists or specialize in enchanting, if they are magically gifted, but few dwarves practice other sorts of magic. Many have Magic Resistance. 
-<img align="right" src="../images/Dwarf.jpg" height="400">
+Dwarves are a race of miners, metalworkers, and craftsmen. They live underground, which is their workplace and protection from enemies. Dwarves are small but strong and enduring, with highly developed combat skills. They may become alchemists or specialize in enchanting, if they are magically gifted, but few dwarves practice other sorts of magic. Many have Magic Resistance.
+
+{:.float-right}
+![Dwarf](../images/Dwarf.jpg)
+
 Dwarves might be only 2/3 as tall as humans, but they are much longer lived, with a nose for gold and a flair for all forms of craftsmanship. Dwarves often live in underground halls, and their eyes are adapted to dim light. Many dwarves have Miserliness, but this is not a racial trait.
 Virtually all of the Dwarves in the area of Blackwater hail from the Clan Belor and are fairly common visitors to Blackwater.  The Dwarves of Belor are known as skilled craftsmen, miners, and merchants.  
 

@@ -2,17 +2,12 @@
 title: Blackwater Government and Laws
 layout: default
 ---
-<table>
-  <tr><td><b>Navigation</b></td></tr>
-  <tr><td>
-{% for chapter in site.guide %}
-  <a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a><br>
-{% endfor %}  
-    </td></tr></table>  
-
 
 # Blackwater Government and Laws
-<img align="left" src="../images/Blackwater Woodcarving.png">
+
+{:.float-left}
+![Blackwater Woodcarving](../images/Blackwater Woodcarving.png)
+
 Most laws are written down in the Blackwater Codices, maintained in the city courthouse. Laws are passed by a 2/3 vote of the assembly and must be approved by the Earl.
 Most laws are focused on either public protection or tax collection. Some laws have prescribed punishments, but in most cases the judges have extensive latitude in metering out punishments.
 
@@ -26,7 +21,10 @@ There are 15 general city assembly seats. In addition, each of the 10 guild mast
 The City Watch of Blackwater is well funded and well trained. They provide both professional soldier defense of the city and surrounding land as well as police enforcement of laws among the population. In addition to manning the walls and gates, they patrol the streets, surrounding countryside, and river, as well as investigate all crimes.
 
 ## Citizens, Residents, and Visitors
-<img align="right" src="../images/Castle Blackwater from the North.jpg">
+
+{:.float-right}
+![Castle Blackwater from the North](../images/Castle Blackwater from the North.jpg)
+
 Denizens of the City of Blackwater are legally grouped into one of three classes:
 
 **Citizens** are property owners (buildings, parts of buildings or land) within the city.
@@ -59,7 +57,9 @@ Humans, Dwarves, Halflings, and Elves (although few Elves choose to) are allowed
 ## Weapons and Armor Laws
 
 ### Weapons
-<img align="left" src="../images/Weapon Rack.jpg">  
+
+{:.float-left}
+![Weapon Rack](../images/Weapon Rack.jpg)
 
 All metal or edged weapons larger than a small knife must be peacebonded while within the city walls. Guards at any city gates will require anyone entering the city with weapons to have them peacbonded. There is a tax on each weapon peacebonded of $2 per pound of the weapon. Bows and crossbows must be unstrung while within city gates.  
 

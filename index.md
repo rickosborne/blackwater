@@ -1,5 +1,5 @@
 ---
-title: Blackwayer Players Guide
+title: Blackwater Players Guide
 layout: default
 ---
 

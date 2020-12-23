@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;700&family=Roboto:wght@100;400&display=swap');
+
+/* RESET */
+* {
+    border: none;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 0;
+    text-decoration: none;
+}
+
+table {
+    display: table;
+    width: auto;
+}
+
+object, svg {
+    max-width: 100%;
+    height: auto;
+}
+
+ul > li {
+    list-style-type: disc;
+}
+
+li ul > li {
+    list-style-type: circle;
+}
+
+li li ul > li {
+    list-style-type: square;
+}
+
+ol > li {
+    list-style-type: decimal;
+}
+
+li ol > li {
+    list-style-type: lower-roman;
+}
+
+em, em * {
+    font-style: italic;
+}
+
+strong, strong * {
+    font-weight: bold;
+}
+
+/* Vars */
+:root {
+    --cadence: 1.75rem;
+    --cadence-half: calc(var(--cadence) * 0.5);
+    --cadence-quarter: calc(var(--cadence) * 0.25);
+    --cadence-double: calc(var(--cadence) * 2);
+    --cadence-negative: calc(-1 * var(--cadence));
+    --cadence-half-negative: calc(-1 * var(--cadence-half));
+    --cadence-quarter-negative: calc(-1 * var(--cadence-quarter));
+}
+
+html, body {
+    min-height: 100%;
+}
+
+html {
+    font-size: 100%;
+    background-color: #111;
+}
+
+body {
+    font-size: 110%;
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    max-width: 60em;
+}
+
+/* Cadence */
+table {
+    margin: var(--cadence) 0;
+}
+table th, table td {
+    padding: var(--cadence-quarter) var(--cadence-half);
+}
+
+ul, ol {
+    padding-left: var(--cadence);
+}
+
+li {
+    margin: var(--cadence-half) 0;
+}
+li:first-child {
+    margin-top: var(--cadence-half);
+}
+
+p {
+    margin: var(--cadence) 0;
+}
+
+.site-header, .site-footer {
+    padding: var(--cadence-half);
+    width: 100%;
+    min-height: var(--cadence-double);
+}
+
+.site-footer {
+    margin-top: var(--cadence-double);
+}
+
+#pre-page {
+    height: 0.5rem;
+    margin: -0.5rem 0 0 0;
+}
+
+#post-page {
+    height: 1rem;
+    margin: var(--cadence-half-negative) var(--cadence-half-negative) 0 var(--cadence-half-negative);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    /* min-height: var(--cadence-double); */
+    margin: var(--cadence) 0;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
+    margin-top: 0;
+}
+
+blockquote {
+    padding: var(--cadence) var(--cadence-half);
+    margin: var(--cadence) 0;
+    display: block;
+}
+blockquote > :first-child {
+    margin-top: 0;
+}
+blockquote > :last-child {
+    margin-bottom: 0;
+}
+blockquote header {
+    display: block;
+    margin: 0 0 var(--cadence) 0;
+}
+
+.main-content {
+    padding: var(--cadence);
+    margin: 0 auto;
+    max-width: 45em;
+}
+
+#link-home img {
+    max-width: var(--cadence);
+    max-height: var(--cadence);
+}
+
+/* For people who prefer a dark theme on mobile.  Sadly, this doesn't play well with most of the white-matted images. */
+/*
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: #ddd;
+    }
+}
+*/
+
+body {
+    font-family: 'Roboto Slab', 'Droid Serif', serif;
+}
+body * {
+    font-weight: 300;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+b, strong {
+    font-weight: 700;
+}
+
+/*
+Presentation.
+Everything after this point should be class-based, not tag-based.
+ */
+
+.site-header {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: rgba(255, 255, 255, 0.6);
+}
+.site-header .project-name {
+    margin: 0;
+}
+.site-header .project-tagline {
+    margin: 0;
+    font-size: 0.8rem;
+}
+.site-header a {
+    color: rgba(255, 255, 255, 0.8);
+}
+.site-header a:hover, .site-header a:focus {
+    color: white;
+}
+
+.main-content h1 {
+    font-weight: 400;
+    border-bottom: thin solid rgba(127, 127, 127, 0.2);
+    padding-bottom: var(--cadence-half);
+}
+
+.main-content h2 {
+    margin-top: var(--cadence);
+    padding-top: var(--cadence);
+    font-size: 1.25rem;
+    font-weight: 400;
+    border-top: thin solid rgba(127, 127, 127, 0.1);
+    clear: both;
+}
+
+.main-content h1+h2 {
+    border-top: none;
+    padding-top: 0;
+}
+
+.main-content h3 {
+    font-weight: 400;
+}
+
+.main-content img {
+    max-width: 100%;
+}
+
+.guide-pages {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.guide-pages h1 {
+    font-size: inherit;
+    padding: var(--cadence-half);
+    background-color: rgba(0, 0, 0, 0.05);
+    border-bottom: thin solid rgba(0, 0, 0, 0.1);
+    margin: 0;
+}
+.guide-pages ol {
+    border-bottom: thin solid rgba(0, 0, 0, 0.1);
+}
+.guide-pages ol, .guide-pages li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+.guide-pages a {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    display: block;
+    padding: var(--cadence-quarter) var(--cadence-half);
+}
+.guide-pages a:hover, .guide-pages a:focus {
+    background-color: rgba(255, 255, 192, 0.5);
+}
+.guide-pages a:current {
+    background-color: rgba(255, 255, 192, 0.5);
+}
+#guide-pages-button h1 {
+    background-image: url("../images/hamburger.svg");
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: left;
+    background-repeat: no-repeat;
+    text-indent: 2.5rem;
+}
+#guide-pages-button, #guide-pages-button h1 {
+    user-select: none;
+    cursor: pointer;
+}
+
+#guide-pages-input[type=checkbox] {
+    display: none;
+}
+
+#guide-pages-input[type=checkbox]:checked ~ #guide-pages-list {
+    display: block;
+}
+
+#guide-pages-list {
+    display: none;
+}
+
+
+.site-footer {
+    margin-top: var(--cadence-double);
+    padding: 0;
+    background-color: rgba(127, 127, 127, 0.5);
+    border-top: thin solid rgba(0, 0, 0, 0.2);
+    clear: both;
+}
+.site-footer .next-link a {
+    text-align: end;
+    color: black;
+    padding: var(--cadence);
+    display: block;
+}
+.site-footer .next-link a:hover, .site-footer .next-link a:focus {
+    background-color: rgba(255, 255, 192, 0.5);
+}
+
+.float-right {
+    float: right;
+    margin: 0 0 var(--cadence-half) var(--cadence);
+    max-width: 50%;
+}
+.float-left {
+    float: left;
+    margin: 0 var(--cadence-half) var(--cadence) 0;
+    max-width: 50%;
+}
+img.center {
+    display: block;
+    margin: var(--cadence) auto;
+}

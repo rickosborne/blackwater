@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: "Blackwater Players Guide by Matthew McKaig" }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.description %}<meta name="description" content="{{ page.description | default: site.description }}">{% endif %}
+  <link rel="stylesheet" href="{{ '/assets/blackwater.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="icon" href="/images/blackwater-favicon.png">
+</head>
+<body class="{% for tag in page.tags %}{{ tag | slugify }} {% endfor %}">
+
+<header class="site-header" role="banner">
+  <h1 class="project-name"><a href="{{ '/' | relative_url }}" id="link-home">{{ site.title | default: site.github.repository_name }}</a></h1>
+</header>
+
+<nav id="guide-pages" class="guide-pages">
+  <input type="checkbox" id="guide-pages-input" />
+  <label for="guide-pages-input" id="guide-pages-button">
+    <h1>Table of Contents</h1>
+  </label>
+  <ol id="guide-pages-list">
+    {% for p in site.guide %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+    {% endfor %}
+  </ol>
+</nav>
+
+{% if page.breadcrumbs %}
+<nav id="breadcrumbs">
+  <ol class="breadcrumb-list">
+    {% for crumb in page.breadcrumbs %}
+    <li class="breadcrumb"><a href="{{ crumb.href }}.html">{{ crumb.title }}</a></li>
+    {% endfor %}
+  </ol>
+</nav>
+{% endif %}
+
+<div id="pre-page"></div>
+
+<main id="page" role="main">
+  <div id="content" class="main-content">
+    {{ content }}
+  </div>
+</main>
+
+<footer class="site-footer">
+  {% if page.next %}
+  <nav id="next" class="next-link">
+    <a href="{{ page.next.url }}"><span class="next-label">Next:</span> <span class="next-title">{{ page.next.title }}</span><span class="next-arrow"> &#9658;</span></a>
+  </nav>
+  {% endif %}
+  <div id="post-page"></div>
+</footer>
+
+<!-- script src="{{ '/assets/blackwater.js?v=' | append: site.github.build_revision | relative_url }}" type="text/javascript" defer></script -->
+</body>
+</html>

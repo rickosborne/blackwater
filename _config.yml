@@ -18,6 +18,9 @@ collections:
   guide:
     output: true
     layout: default
+title: Blackwater Players Guide
+description: Blackwater is a fantasy setting for tabletop RPG campaigns, by Matthew McKaig.
+repository: rickosborne/blackwater
 
 show_downloads: false
 markdown: kramdown

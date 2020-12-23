@@ -1,0 +1,8 @@
+# IntelliJ products
+.idea/
+*.iml
+
+# Jekyll
+Gemfile
+Gemfile.lock
+_site/
