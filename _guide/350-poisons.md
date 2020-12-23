@@ -14,7 +14,9 @@ layout: default
 ## Blood Agents  
 ### Cobra Venom:  
 A follow-up  poison with a one- minute delay and a HT-3 roll to resist. Inflicts 2d toxic damage, repeating at hourly intervals for six cycles. A victim who loses 1/3, 1/2, or 2/3 HP has -2, -4, or -6 DX, respectively.  
+
 **Production**: Must be harvested.  
+
 $60/dose. LC1  
 
 ### Creeping Doom:  
@@ -39,20 +41,36 @@ A follow-up blood agent, curare is is made from crushing and boiling down the le
 |5	|Mouth	|Eyes	|Head	|Neck	|Vitals |
 |6	|Ears	|Eyes	|Head	|Neck	|Vitals |
 
-Each roll for location builds upon the previous roll.  For example, Joe has been poisoned with Curare.  He fails his first health roll and rolls 1d to see which location the curare affects first.  He gets a 1, so his right hand is paralyzed.  A minute later he rolls against his HT again and fails that roll also.  He rolls for the second affected location and gets a 3, so his right foot is paralyzed.  A minute later he fails his third HT roll, and rolls for affected location and gets 1 again.  He's already rolled a 1 before that left his right hand paralyzed, so now the poison progresses up his right arm.
-Each location affected by the poison is treated as crippled (see B. 421).  If the effects reach the vitals, the victim is in danger of suffocating due to paralysis of the diaphragm.  The victim must make an additional HT roll when the vitals are reached.  On a failure the victim stops breathing (see suffocating B. 436).
-Production: The correct plants must be harvested fresh from their tropical locations (naturalist skill roll), ground with a mortar and pestle, and then carefully boiled over a low heat to reduce and concentrate the toxins (Poisons -1 roll).
-$75/dose. LC1.
-Demon Ant Venom:  Similar to Tarantula Hawk Venom, but worse.  This is a follow-up poison with a 1d-3 second on-set time and an hourly recurrence for 4d intervals.  Every hour the victim must make a HT-4 roll.  On a success the victim experiences “terrible pain” and on a failure they experience “agony” (see B.428).  On a critical success they feel only “moderate pain” and on a critical failure they fall unconscious from the pain.
-Production: Must be harvested.  1 ant produces one dose.
-$120/dose.  LC 1.
-Jumping Spider Venom: This has an onset time of 1d seconds.  It causes loss of motor control & extreme pain (cytotoxic) – begins to liquefy (pre-digest) tissue to make it easier for the spiders to slurp out the nutrients.  The victim must make a HT roll or suffer 1d toxic damage specific to bite location repeating every 5 minutes for 2d intervals.  
-On a critical failure the victim takes double damage, and on a critical success the effects of the poison end.  Limbs may be crippled by this damage (See Crippling Injury B.420).
-Production: Must be harvested from live spiders.  Each spider can generate 3-6 doses per day.
-$90/dose. LC 1
-Poison Arrow Frog Venom:  A blood agent or a digestive agent with an onset time of 1d minutes or 3d minutes respectively.  In either case the victim must make a HT-2 roll to resist.  On a failure, the user starts hallucinating (see Incapacitating Conditions - Hallucinations B.429).  This lasts for hours equal to the margin of failure. After that time, the user may roll vs. HT-2 once per hour to shake off the drug’s influence.
-Production: must be harvested from the backs of small tropical frogs (Naturalist -2 roll), and then reduced and concentrated for storage and use (Poisons skill roll).
-$25/dose. LC1
+Each roll for location builds upon the previous roll.  For example, Joe has been poisoned with Curare.  He fails his first health roll and rolls 1d to see which location the curare affects first.  He gets a 1, so his right hand is paralyzed.  A minute later he rolls against his HT again and fails that roll also.  He rolls for the second affected location and gets a 3, so his right foot is paralyzed.  A minute later he fails his third HT roll, and rolls for affected location and gets 1 again.  He's already rolled a 1 before that left his right hand paralyzed, so now the poison progresses up his right arm.  
+
+Each location affected by the poison is treated as crippled (see B. 421).  If the effects reach the vitals, the victim is in danger of suffocating due to paralysis of the diaphragm.  The victim must make an additional HT roll when the vitals are reached.  On a failure the victim stops breathing (see suffocating B. 436).  
+
+**Production**: The correct plants must be harvested fresh from their tropical locations (naturalist skill roll), ground with a mortar and pestle, and then carefully boiled over a low heat to reduce and concentrate the toxins (Poisons -1 roll).  
+
+$75/dose. LC1.  
+
+### Demon Ant Venom:  
+Similar to Tarantula Hawk Venom, but worse.  This is a follow-up poison with a 1d-3 second on-set time and an hourly recurrence for 4d intervals.  Every hour the victim must make a HT-4 roll.  On a success the victim experiences “terrible pain” and on a failure they experience “agony” (see B.428).  On a critical success they feel only “moderate pain” and on a critical failure they fall unconscious from the pain.  
+
+**Production**: Must be harvested.  1 ant produces one dose.  
+
+$120/dose.  LC 1.  
+
+### Jumping Spider Venom:  
+This poison has an onset time of 1d seconds.  It causes loss of motor control & extreme pain (cytotoxic) – begins to liquefy (pre-digest) tissue to make it easier for the spiders to slurp out the nutrients.  The victim must make a HT roll or suffer 1d toxic damage specific to bite location repeating every 5 minutes for 2d intervals.  
+On a critical failure the victim takes double damage, and on a critical success the effects of the poison end.  Limbs may be crippled by this damage (See Crippling Injury B.420).  
+
+**Production**: Must be harvested from live spiders.  Each spider can generate 3-6 doses per day.  
+
+$90/dose. LC 1  
+
+### Poison Arrow Frog Venom:  
+A blood agent or a digestive agent with an onset time of 1d minutes or 3d minutes respectively.  In either case the victim must make a HT-2 roll to resist.  On a failure, the user starts hallucinating (see Incapacitating Conditions - Hallucinations B.429).  This lasts for hours equal to the margin of failure. After that time, the user may roll vs. HT-2 once per hour to shake off the drug’s influence.  
+
+**Production**: must be harvested from the backs of small tropical frogs (Naturalist -2 roll), and then reduced and concentrated for storage and use (Poisons skill roll).  
+
+$25/dose. LC1  
+
 Tarantula Hawk Venom:  Similar to Demon Ant Venom, but faster acting, with a shorter duration and only slightly less painful.  A fast venom, the onset time is 1 second.  The venom causes “immediate, excruciating, unrelenting pain that simply shuts down one's ability to do anything, except scream.” The poison causes no actual permanent damage.  
 Victims must make a HT roll to resist the effects which last 1d minutes.  On a failed HT roll the victim suffers “terrible pain” centered on the injection point and on a success they experience “severe pain” (see B.428).  On a critical success they feel only “mild pain” and on a critical failure they experience “agony”.
 Production: Must be harvested.  Tarantula Hawks (a type of large wasp) are native to desert lands and rare except in brief rainy seasons.
