@@ -3,7 +3,7 @@ title: Introduction
 layout: default
 ---
 
-<table align="right" border"0" background-color="light grey">
+<table align="right">
   <tr><td>Table Test</td></tr>
  </table>
 
