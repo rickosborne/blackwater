@@ -46,7 +46,7 @@ The members of the Brotherhood, also called Monks, may be male or female, but hi
 Advantages: Damage Resistance (tough skin) 1 [3], Enhanced Dodge 1 [15], Enhanced Parry 1 [10], High Pain Threshold [10], Patron - Brotherhood (Powerful Organization [10], Fairly often x1) [10], Perfect Balance [15], Trained by a Master [30]  
 Disadvantages: Disciplines of Faith (Asceticism) [-15], Duty – Brotherhood (Fairly often, 9 or less) [-10], Pacifism (Self Defense Only) [-15], Vow (Only use weapons or armor from things that were once alive, e.g. wood, bone, etc) [-10], Vow (Poverty) [-10], Wealth (Poor) [-15]  
 Required Skills: Autohypnosis [1], Body Control [1], Breath Control [1], Karate [1], Judo [1], Staff [1], Meditation [1]  
- 
+
 Additional Optional Chi Powers (Advantages and skills):  
 •	Additional Enhance Dodge (up to 3), B51 [15/level]  
 •	Additional Enhance Parry (up to 3), B51 [10/level]  
