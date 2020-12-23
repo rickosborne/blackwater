@@ -1,3 +1,8 @@
+---
+title: Religions
+layout: default
+---
+
 <table>
   <tr><td><b>Navigation</b></td></tr>
   <tr><td>
