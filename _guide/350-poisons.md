@@ -218,7 +218,7 @@ $20/dose. LC1.
 |Curare|Blood|HT-2|3d sec / 1d sec x 2d|Paralysis|$75|
 |Demon Ant Venom|Blood|HT-4|1d-3 sec / 4d hrs|Agony|$150|
 |Jumping Spider Venom|Blood|HT|1d sec / 5 min x 2d|1d toxic|$90|
-|Poison Arrow Frog Venom|Blood|HT-2	1d min / Margin of failure hours|Hallucinations|$25|
+|Poison Arrow Frog Venom|Blood|HT-2|1d min / Margin of failure hours|Hallucinations|$25|
 |Tarantula Hawk Venom|Blood|HT|1 sec / 1d min|Pain|$100|
 |Lover's Kiss	Contact|HT|3d+2 min / 1 hr x 4d|Stupor|$40|
 |The Long Sleep|Contact|HT|1d sec / 1 sec x 3d|1d fat|$30|
