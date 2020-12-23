@@ -2,7 +2,11 @@
 title: Introduction
 layout: default
 ---
-
+<table align="right">
+{% for chapter in site.guide %}
+  <tr><td><a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a></td></tr>
+{% endfor %}
+</table>
 # Introduction
 
 It is the year 852, counted from the founding of the imperial city of Heliconium, and the Helic empire which collapsed several hundred years ago.  The Free City of Blackwater on the fringes of the old Helic empire, sits on the western edge of the Covari Sea, nestled between steep hills and the River Blackwater roughly 20 miles upstream from the river’s mouth.
