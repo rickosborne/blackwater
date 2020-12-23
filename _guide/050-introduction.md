@@ -4,7 +4,10 @@ layout: default
 ---
 
 <table align="right">
-  <tr><td>Table Test</td></tr>
+  <tr><td>**Navigation**</td></tr>
+  {% for chapter in site.guide %}
+  <tr><td>[{{ chapter.title }}]({{ chapter.url | relative_url }})</td></tr>
+  {% endfor %}
  </table>
 
 # Introduction
@@ -79,9 +82,3 @@ Very few Sylvan Elves live in Blackwater permanently.
 
 The Dwarven clan Belor lives in the northern end of the Carpathian peaks, to the west of Blackwater.
 The Clans holdings are close enough to Blackwater that once every four of five years the Clan Elders sends a caravan to trade at Blackwater.
-
-# Navigation
-{% for chapter in site.guide %}
-* [{{ chapter.title }}]({{ chapter.url | relative_url }})
-{% endfor %}
-
