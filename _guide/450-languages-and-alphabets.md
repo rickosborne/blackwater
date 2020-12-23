@@ -31,7 +31,7 @@ All PCs are native fluent in 1 spoken language of their choice.  Illiteracy is t
 
 
 # Alphabets  
-|Language|Character Set|
+|Alphabet|Character Set|
 |---|---|
 |Calach|Normal Latin Characters|
 |Furthark|<img src="../images/Futhark.png">|  
