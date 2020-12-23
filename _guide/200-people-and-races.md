@@ -72,7 +72,7 @@ Virtually all of the Dwarves in the area of Blackwater hail from the Clan Belor 
 
 There are stories of other tribes of Dwaves scattered through the world, but the Dwarves of Belor do not share this information with outsiders.  
 
-The Dwarf racial template is described in GURPS Fantasy pp. 107, costing 35 points.  
+The Dwarf racial template is described in [GURPS Fantasy](http://www.sjgames.com/gurps/books/Fantasy/) pp. 107, costing 35 points.  
 Attribute Modifiers: HT+1 [10].  
 Secondary Characteristic Modifiers: SM -1 [0]; Will+1 [5]  
 Advantages: Alcohol Tolerance [1]; Artificer 1 [10]; Detect Gold (Vague, -50%) [3]; Extended Lifespan 1 [2]; Lifting ST +2 [6]; Night Vision 5 [5].  
@@ -84,7 +84,7 @@ Elves are the quintessential fantasy race: very similar to humans (and cross-fer
 
 Elves are comparatively slender, relying on speed and agility more than raw strength. Determine their height normally from their ST and add 2”.   
 
-The Elf racial template is described in GURPS Fantasy pp. 108 and costs 70 points  
+The Elf racial template is described in [GURPS Fantasy](http://www.sjgames.com/gurps/books/Fantasy/) pp. 108 and costs 70 points  
 Attribute Modifiers: ST-1 [-10]; DX+1 [20].  
 Secondary Characteristic Modifiers: Per+1 [5].  
 Advantages: Appearance (Attractive), [4]; Magery 0 [5]; Perfect Balance [15]; Telescopic Vision 1 [5]; Unaging [15]; Voice [10].  
@@ -101,7 +101,7 @@ Short and fond of comfort, halflings seldom leave their farms, but those who do 
 By choice, halflings live underground, in shabby burrows or elaborate tunnel complexes. The ones who build aboveground are the poor. An average halfling (ST 5) stands 2’8” to 3’ tall and weighs 18 to 29 lbs. (This takes Overweight into account.) Adjust height by 1 to 2” and weight by 2 to 4 lbs. per point of ST above or below 5.
 The largest concentration of Halflings in the Blackwater area is in a village the Halflings call Everglen, across the lake from Northunder.  Roughly a thousand Halflings live there farming, plying the crafts and trading with the Humans in Northunder.  Halflings also make up the largest non-human population in Blackwater, easily adapting to Human city life and customs.  
 <img align="left" src="../images/Halfling.png">  
-The Halfling racial template is described in GURPS Fantasy pp. 109 and costs 20 points.  
+The Halfling racial template is described in [GURPS Fantasy](http://www.sjgames.com/gurps/books/Fantasy/) pp. 109 and costs 20 points.  
 Attribute Modifiers: ST-5 [-50]; DX+1 [20]; HT+2 [20].  
 Secondary Characteristic Modifiers: SM -2; Will+2 [10].  
 Advantages: Green Thumb 1 [5]; Hard to Kill 4 [8]; Silence 4 [20].   
