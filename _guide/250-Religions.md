@@ -16,14 +16,9 @@ Servants of the Faith are organized into roles
 •	Priests - Evangelize the Faith into the world through words and deeds   
 
 ### Priests of the Seven
-Priests of the Seven occasionally have special abilities which are “Gifts” from the Seven. 
-These Gifts are represented by powers from basic book and from GURPS Powers.  
-Every priest is different, but some gifts seem to manifest more frequently among Priests than other Gifts.  
-Each Priest can receive up to 7 gifts, one from each of the Seven according to their aspect and the priest’s need.  
-A Priest’s Gifts can change over time, growing in strength as the Priest matures in the Faith, or waning in strength if the Priest strays from the teachings of the Seven.  
-It's also been known to happen that a Priest can lose one Gift and gain a different gift from the same aspect of the Seven.  
+Priests of the Seven occasionally have special abilities which are “Gifts” from the Seven. These Gifts are represented by powers from basic book and from GURPS Powers. Every priest is different, but some gifts seem to manifest more frequently among Priests than other Gifts. Each Priest can receive up to 7 gifts, one from each of the Seven according to their aspect and the priest’s need. A Priest’s Gifts can change over time, growing in strength as the Priest matures in the Faith, or waning in strength if the Priest strays from the teachings of the Seven. It's also been known to happen that a Priest can lose one Gift and gain a different gift from the same aspect of the Seven.  
 
-Priest Character Template [5 points]  
+**Priest Character Template [5 points]**  
 Advantages [55]: Blessed (or Heroic Feats) [10], Clerical Investment [5], Patron [10], Power Investiture (1 – Gives +1 to skill rolls for all Gifts) [10], Status (1) [5], True Faith [15]  
 Disadvantages [-50]: Code of Honor (Priests – Heal the sick, Defend the weak, Punish the wicked) [-15], Disciplines of Faith (Pray 7 times per day) [-5], Duty (Church) [-5], Intolerance (Magic & Magicians) [-5], Pacifism (Cannot Harm Innocents) [-10], Vow (Never use edged weapons – Crushing damage only) [-10]  
 Common Individual Advantages: Magic Resistance, Mana Damper, Power Investiture (additional), Very Blessed  
