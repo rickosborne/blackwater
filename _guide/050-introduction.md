@@ -14,7 +14,7 @@ layout: default
 
 It is the year 852, counted from the founding of the imperial city of Heliconium, and the Helic empire which collapsed several hundred years ago.  The Free City of Blackwater on the fringes of the old Helic empire, sits on the western edge of the Covari Sea, nestled between steep hills and the River Blackwater roughly 20 miles upstream from the river’s mouth.
 
-<img align="left" src="../images/Sunrise Over Blackwater Painting.jpg">
+<img align="right" src="../images/Sunrise Over Blackwater Painting.jpg">
 
 The river and the city both are named for the dark gray gravel and silt, that forms the bed of the river.
 Blackwater lies in a hilly temperate coastal zone among a mix of hardwoods and conifers.
