@@ -60,6 +60,7 @@ Humans, Dwarves, Halflings, and Elves (although few Elves choose to) are allowed
 
 ### Weapons
 <img align="left" src="../images/Weapon Rack.jpg">  
+
 All metal or edged weapons larger than a small knife must be peacebonded while within the city walls. Guards at any city gates will require anyone entering the city with weapons to have them peacbonded. There is a tax on each weapon peacebonded of $2 per pound of the weapon. Bows and crossbows must be unstrung while within city gates.  
 
 Peacebonding consists of a red cord tied around the weapon and closed with a melted lead seal. The cord is tied around the hilt of the blade and through or around the scabbard in such a way that is impossible (or at least very difficult) to remove the weapon from the sheath without breaking the peacebond.  
