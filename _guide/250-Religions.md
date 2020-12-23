@@ -62,12 +62,16 @@ The Brotherhood of Balance and Harmony follow the path of naturalness, spontanei
 
 The members of the Brotherhood, also called Monks, may be male or female, but historically only human.  Both genders of Monks are referred to as “Brothers”.  Brothers commonly shave the side of their head and wear their remaining hair in a long braid.  Some brothers shave their head altogether. The Brotherhood’s beliefs were brought to Blackwater just before the fall of Heliconium from lands to the east on the far edge of the empire. The philosophy has slowly taken root among a small number of humans over the last century and continues to quietly spread among the human settled lands. There is a temple of the Brotherhood in hills above Blackwater, and the Brotherhood also maintains a small residence in the City for members use.  Monks are mostly reclusive but are occasionally seen preaching their religion in squares and street corners, as well as undertaking public works and charity efforts in the city and surrounding areas.
 
+Members of the Brotherhood learn to master both their bodies and spirits by channelling their inner life force, their "Chi", and focus it in mystical ways.
+
 ### Brotherhood Character Template [30 Points]
-Advantages: Damage Resistance (tough skin) 1 [3], Enhanced Dodge 1 [15], Enhanced Parry 1 [10], High Pain Threshold [10], Patron - Brotherhood (Powerful Organization [10], Fairly often x1) [10], Perfect Balance [15], Trained by a Master [30]  
-Disadvantages: Disciplines of Faith (Asceticism) [-15], Duty – Brotherhood (Fairly often, 9 or less) [-10], Pacifism (Self Defense Only) [-15], Vow (Only use weapons or armor from things that were once alive, e.g. wood, bone, etc) [-10], Vow (Poverty) [-10], Wealth (Poor) [-15]  
-Required Skills: Autohypnosis [1], Body Control [1], Breath Control [1], Karate [1], Judo [1], Staff [1], Meditation [1]  
+**Advantages**: Damage Resistance (tough skin) 1 [3], Enhanced Dodge 1 [15], Enhanced Parry 1 [10], High Pain Threshold [10], Patron - Brotherhood (Powerful Organization [10], Fairly often x1) [10], Perfect Balance [15], Trained by a Master [30]  
+
+**Disadvantages**: Disciplines of Faith (Asceticism) [-15], Duty – Brotherhood (Fairly often, 9 or less) [-10], Pacifism (Self Defense Only) [-15], Vow (Only use weapons or armor from things that were once alive, e.g. wood, bone, etc) [-10], Vow (Poverty) [-10], Wealth (Poor) [-15]  
+
+**Required Skills**: Autohypnosis [1], Body Control [1], Breath Control [1], Karate [1], Judo [1], Staff [1], Meditation [1]  
 <img align="right" src="../images/Brother of Balance and Harmony.jpg" height="600">  
-Additional Optional Chi Powers (Advantages and skills):  
+**Additional Optional Chi Powers** (Advantages and skills):  
 •	Additional Enhance Dodge (up to 3), B51 [15/level]  
 •	Additional Enhance Parry (up to 3), B51 [10/level]  
 •	Catfall, B41 [10]  
