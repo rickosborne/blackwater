@@ -47,7 +47,7 @@
 <footer class="site-footer">
   {% if page.next %}
   <nav id="next" class="next-link">
-    <a href="{{ page.next.url }}"><span class="next-label">Next:</span> <span class="next-title">{{ page.next.title }}</span><span class="next-arrow"> &#9658;</span></a>
+    <a href="{{ page.next.url | relative_url }}"><span class="next-label">Next:</span> <span class="next-title">{{ page.next.title }}</span><span class="next-arrow"> &#9658;</span></a>
   </nav>
   {% endif %}
   <div id="post-page"></div>
