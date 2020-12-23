@@ -55,17 +55,17 @@ The Largest and most popular Holiday is Annae Annue. It’s the celebration of t
 •	**0 APH**: Founding of the Imperial City of Heliconium. Previously known as Helica. Adoption of the Faith of the Seven as the official religion of Heliconium  
 •	**112 APH**: Establishment of Imperial Garrison at Negronium (renamed from Blackwater). Previously and ferry dock for boats working upriver and down to ships docked in the Covari  
 •	**484 - 496**: The Troubles – a time of great unrest across Heliconium under the despotic rule of Empress Tatiana  
-..•	484: Empress Tatiana accedes to throne after no male heirs are able to establish a claim  
-..•	485: Empress Tatiana orders a purge of all non-humans and “unnatural” beings from the Empire  
-..•	485-492: Strig Onslaught against Tarasia in 485, 489, and 2 year siege 491-492  
-..•	487: Lord General Abingdon is tried and executed for attempting to assassinate the Empress with his Dark Elf mistress, Ethedra  
-..•	487 – 496: Triggered by the arrest the Drow incursions begin and Mallium provides aid to Heliconium  
-..•	489 – 496: Magewar rebellion:  A group called the Magi rebelled against the Tower of High Sorcery and its loyalty to the Empress  
-...o	494: Battle of Three Rivers south of Heliconium - Magi lost.  Imperial forces and Tower of High Sorcery won  
-...o	496: Magi fled from the Tower and Heliconium as a result  
-..•	493: Plamar issues Declaration of Secession from the Empire and the founding of the Plamarise League  
-..•	495: T’skrang (Lizard Men) sack Vasiliki  
-..•	496: “Fall” of the Helic Empire: The Grand Septa of Heliconium declared the Tower, all Magical works and the Empress Tatiana as Anathema.  Tens of thousands of faithful rallied to his call and sacked the Imperial palace and the Tower leading to the physical and figurative destruction of the Tower of High Sorcery, along with years of inward contraction by the remnants of the Empire  
+  •	484: Empress Tatiana accedes to throne after no male heirs are able to establish a claim  
+  •	485: Empress Tatiana orders a purge of all non-humans and “unnatural” beings from the Empire  
+  •	485-492: Strig Onslaught against Tarasia in 485, 489, and 2 year siege 491-492  
+  •	487: Lord General Abingdon is tried and executed for attempting to assassinate the Empress with his Dark Elf mistress, Ethedra  
+  •	487 – 496: Triggered by the arrest the Drow incursions begin and Mallium provides aid to Heliconium  
+  •	489 – 496: Magewar rebellion:  A group called the Magi rebelled against the Tower of High Sorcery and its loyalty to the Empress  
+   o	494: Battle of Three Rivers south of Heliconium - Magi lost.  Imperial forces and Tower of High Sorcery won  
+   o	496: Magi fled from the Tower and Heliconium as a result  
+  •	493: Plamar issues Declaration of Secession from the Empire and the founding of the Plamarise League  
+  •	495: T’skrang (Lizard Men) sack Vasiliki  
+  •	496: “Fall” of the Helic Empire: The Grand Septa of Heliconium declared the Tower, all Magical works and the Empress Tatiana as Anathema.  Tens of thousands of faithful rallied to his call and sacked the Imperial palace and the Tower leading to the physical and figurative destruction of the Tower of High Sorcery, along with years of inward contraction by the remnants of the Empire  
 •	**666 - 669**: Blackwater Succession Wars triggered when deposed Queen Miranda assassinated her husband and stepson and claimed the throne.  Various factions battled across the city and surrounding countryside trading off control of the city  
 •	**669**: The Revelation - Mages who had been living in secret among the people of Blackwater emerged into public and battled on the side of the of Seven defeating Queen Miranda’s forces permanently    
 •	**670**: First free election of Earl (Rostand) and renaming of the City to Blackwater.  Establishment of the Council of Blackwater  
