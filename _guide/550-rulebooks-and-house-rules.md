@@ -7,7 +7,7 @@ layout: default
 
 Material from any GURPS source book that fits the classic fantasy motif of Blackwater, and 150-200 point power level may be used, within reason and subject to GM concurrence.  
 
-<img align="right" src="../images/Books.png">  
+<img align="right" src="../images/Books.png" widht="300">  
 
 In general, the following GURPS sourcebooks are recommended:  
 •	[GURPS Basic Set - Characters](http://www.sjgames.com/gurps/books/Basic/): all rules except Chapter 6, Psionics.  
