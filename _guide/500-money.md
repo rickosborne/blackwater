@@ -7,7 +7,7 @@ layout: default
 
 The city of Blackwater mints its own coinage and currency, however, coinage from Plamar and Belor are also readily taken at commonly accepted exchange rates.  
 
-|CITY / STATE|COIN|METAL|VALUE|COINS / LB|  
+|CITY/STATE|COIN|METAL|VALUE|COINS / LB|  
 |BELOR|Doh|Copper|$1|80|
 |BELOR|Laet|Copper|$5|16|
 |BELOR|Ulet|Copper|$10|8|
