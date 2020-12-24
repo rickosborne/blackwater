@@ -22,3 +22,14 @@ In general, the following GURPS sourcebooks are recommended:
 •	[Powers](http://www.sjgames.com/gurps/books/powers/): Good inspiration for building powers for Priests, and other characters with uncommon non-magical gifts.  
 •	[Divine Favor](http://www.sjgames.com/gurps/books/divinefavor/): Rules for some (mostly non-human priests).  
 
+## House Rules
+•	Characters may start with 100% of their wealth to spend on equipment, if they are homeless and it fits with their story line (see B26).  
+•	Extra Effort in Combat rules are allowed (B357)  
+•	Use the Dice + Adds optional rule (B269)  
+•	Speed load (weapon/ammo type) skill lets you reload your weapon as a free action.  A failed skill role means it takes the usual amount of time.  A critical failure means you drop the ammo.  
+•	Fast Draw skill exists for ammunition as well as weapons.  Combining with the speed load skill means a player can retrieve ammo and load it into his weapon as 2 back-to-back free actions in the same round – slightly cinematic, but fun.  
+•	Players can use an unspent character point to immediately reroll any dice roll for their character.  This includes skills, defenses, reactions, or rolls made for the player by the GM (e.g. knowledge spells / skills).  Players may make multiple rerolls per attempted action, but each time they do the point cost doubles (1 point on the first re-roll, 2 points on the second, 4 points on the third, etc.)  
+•	Differential Size modifies for melee combat as discussed at http://www.sjgames.com/gurps/faq/FAQ4-3.html#SS3.4.2.23  
+`Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is. The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+. To correct this, a new optional rule has been introduced:
+
+When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest. However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.`
