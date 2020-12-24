@@ -29,4 +29,5 @@ The city of Blackwater mints its own coinage and currency, however, coinage from
 |PLAMAR|Cown|Gold|$250|20|
 |PLAMAR|Sigil|Gold|$500|10|
 
-<img align="center" src="../images/Coins.png">  
+{:.float-center}
+[!Coins](../images/Coins.png)
