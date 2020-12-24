@@ -23,7 +23,7 @@ The city of Blackwater mints its own coinage and currency, however, coinage from
 |BLACKWATER|Mark|Copper|$8|10|
 |BLACKWATER|Talent|Silver|$25|16|
 |BLACKWATER|Royal|Gold|$140|36|
-|PLAMAR|Chit|Copper$1|80|
+|PLAMAR|Chit|Copper|$1|80|
 |PLAMAR|Boor|Copper|6|16|
 |PLAMAR|Crest|Silver|$30|14|
 |PLAMAR|Cown|Gold|$250|20|
