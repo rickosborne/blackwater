@@ -1,0 +1,22 @@
+{
+	"author": "Matthew McKaig",
+	"bugs": {
+		"url": "https://github.com/rickosborne/blackwater/issues"
+	},
+	"description": "Blackwater is a fantasy setting for tabletop RPG campaigns, by Matthew McKaig",
+	"homepage": "https://github.com/rickosborne/blackwater#readme",
+	"keywords": [
+		"blackwater"
+	],
+	"license": "UNLICENSED",
+	"name": "blackwater",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/rickosborne/blackwater.git"
+	},
+	"scripts": {
+		"start": "bundle exec jekyll serve"
+	},
+	"version": "1.0.0"
+}

@@ -8,7 +8,7 @@ layout: default
 The city of Blackwater mints its own coinage and currency, however, coinage from Plamar and Belor are also readily taken at commonly accepted exchange rates.  
 
 |CITY/STATE|COIN|METAL|VALUE|COINS / LB|  
-|---|---|---|---|---|
+|---|---|---|---:|---:|
 |BELOR|Doh|Copper|$1|80|
 |BELOR|Laet|Copper|$5|16|
 |BELOR|Ulet|Copper|$10|8|
@@ -29,4 +29,4 @@ The city of Blackwater mints its own coinage and currency, however, coinage from
 |PLAMAR|Cown|Gold|$250|20|
 |PLAMAR|Sigil|Gold|$500|10|
 
-<img src="../images/Coins.png" align="center">
+![Dwarven Coins](../images/Coins.png){:.center}

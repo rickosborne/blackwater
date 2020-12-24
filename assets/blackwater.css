@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;700&family=Roboto:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,600&display=swap');
 
 /* RESET */
 * {
@@ -137,7 +137,7 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
 }
 
 blockquote {
-    padding: var(--cadence) var(--cadence-half);
+    padding: 0 var(--cadence-half);
     margin: var(--cadence) 0;
     display: block;
 }
@@ -174,17 +174,19 @@ blockquote header {
 */
 
 body {
-    font-family: 'Roboto Slab', 'Droid Serif', serif;
+    font-family: 'Open Sans', 'Roboto', 'Droid Serif', serif;
 }
 body * {
-    font-weight: 300;
+    font-weight: 400;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 300;
 }
 b, strong {
     font-weight: 700;
+}
+em, i {
+    font-style: italic;
 }
 
 /*
@@ -205,7 +207,7 @@ a, a:visited {
 }
 .site-header .project-tagline {
     margin: 0;
-    font-size: 0.8rem;
+    font-size: 80%;
 }
 .site-header a {
     color: rgba(255, 255, 255, 0.8);
@@ -214,17 +216,24 @@ a, a:visited {
     color: white;
 }
 
+.main-content {
+    --cadence: 2rem;
+    line-height: var(--cadence);
+}
+
 .main-content h1 {
-    font-weight: 400;
+    font-size: 150%;
     border-bottom: thin solid rgba(127, 127, 127, 0.2);
     padding-bottom: var(--cadence-half);
+    font-weight: 700;
 }
 
 .main-content h2 {
     margin-top: var(--cadence);
     padding-top: var(--cadence);
-    font-size: 1.25rem;
-    font-weight: 400;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 125%;
     border-top: thin solid rgba(127, 127, 127, 0.1);
     clear: both;
 }
@@ -234,8 +243,22 @@ a, a:visited {
     padding-top: 0;
 }
 
+.main-content h2+h3 {
+    margin-top: var(--cadence-half);
+}
+.main-content h2:has(+ h3) {
+    margin-bottom: var(--cadence-half);
+}
+
 .main-content h3 {
-    font-weight: 400;
+    font-weight: 700;
+    font-size: 112.5%;
+    font-style: italic;
+    margin-bottom: var(--cadence-half);
+}
+
+.main-content h3+p {
+    margin-top: var(--cadence-half);
 }
 
 .main-content img {
@@ -357,4 +380,8 @@ td {
 }
 th {
     vertical-align: bottom;
+}
+
+blockquote {
+    border-left: var(--cadence-half) solid rgba(0, 0, 0, 0.1);
 }
