@@ -2,12 +2,15 @@
 title: Rulebooks and House Rules
 layout: default
 ---
-# Rules  
-## Rule Books  
+
+# Rules
+
+## Rule Books
 
 Material from any GURPS source book that fits the classic fantasy motif of Blackwater, and 150-200 point power level may be used, within reason and subject to GM concurrence.  
 
-<img align="right" src="../images/Books.png" height="400">  
+{:.float-right}
+![Books](../images/Books.png)
 
 In general, the following GURPS sourcebooks are recommended:  
 
@@ -23,6 +26,7 @@ In general, the following GURPS sourcebooks are recommended:
 * [Divine Favor](http://www.sjgames.com/gurps/books/divinefavor/): Rules for some (mostly non-human priests).  
 
 ## House Rules
+
 * Characters may start with 100% of their wealth to spend on equipment, if they are homeless and it fits with their story line (see B26).  
 * Extra Effort in Combat rules are allowed (B357)  
 * Use the Dice + Adds optional rule (B269)  
