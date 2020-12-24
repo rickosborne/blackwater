@@ -18,9 +18,6 @@ The Order requires all magically active people, with the exception of Elves, to 
 
 The order ranks its members based on their magical ability and assigns color coded robes for each rank.  The exact style of the robes is up to the individual mage; however, 3 basic styles are the most common: cassock / soutane, surcoat, or a hooded robe.  At each ascension ceremony marking the transition to the next rank, the mage is permanently Mystic Marked (M.119) by the presiding Magi, so that even when out of his robes, other mages will be able to tell his Order membership and rank.  Failing to wear appropriate robes when in public, or at Order functions, is frowned upon and scrutinized, but not, technically, against any rules of the order.  
 
-There is an additional rank of Arch-Magi that is elected from among the Magi to serve as the magical advisor to the Earl of Blackwater.
-Initiates, Novices, and Disciples are commonly apprentices to Adepts, Mavens, and Enchanters, although these relationships are subtle, subjective and determined largely on a case-by-case basis by the personalities involved.  
-
 {:.float-right}
 ![Mages](../images/Mages.png)
 
@@ -35,6 +32,9 @@ Magi Ranks & Robes
 * Enchanter - Grey  
 * Magi - Black   
   
+There is an additional rank of Arch-Magi that is elected from among the Magi to serve as the magical advisor to the Earl of Blackwater.
+Initiates, Novices, and Disciples are commonly apprentices to Adepts, Mavens, and Enchanters, although these relationships are subtle, subjective and determined largely on a case-by-case basis by the personalities involved.  
+
 Members of the Order also wear symbols on their robes signifying each college that they have mastered.  Mastering a given college means that the mage can cast at least 10 spells from that college and can cast at least 3 of those spells can be cast with no ritual (at level 20).  “Grand Master” is a title reserved for a mage that has mastered at least 10 colleges of Magic.  Being a Master of a college, or being a Grand Master, is different from the Ranks of the members of the order.  For example, a mage might only be an Adept member of the Order but could also be a Master of the Water College.  There are currently no Grand Masters, and only a few Masters within the Order.  
 
 Being a member of the Order of the Magi has both benefits and drawbacks.  It costs 10 points to be a member of the Order.  
