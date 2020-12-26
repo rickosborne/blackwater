@@ -88,12 +88,13 @@ These rules modify the Ceremonial Magic rules on Magic p.12.  Mages may cast cer
  
 ### Spell Defaults
 Many spells have a default skill, so even if you don't *really* know the spell you can give it a try.  Defaulting a spell can be done from any other spell with the following modifiers:   
-•	Base -2 to skill because it's a default.    
-•	An additional -2 to skill for "step" away from the known spell to the one trying the make a default roll.  "Steps" are determined by tracing a path from the known spell to the unknown spell on the [Magic Spell Charts](http://www.warehouse23.com/products/gurps-magic-spell-charts).  
-•	An additional -1 for each Prerequisite spell that is missing   
-•	An additional -1 for "Very Hard" spells  
-•	Spells cast as a default cost +1 fatigue in addition to their normal base cost  
-•	Minimum Magery prerequisites always apply  
+- Base -2 to skill because it's a default.    
+- An additional -2 to skill for "step" away from the known spell to the one trying the make a default roll.  "Steps" are determined by tracing a path from the known spell to the unknown spell on the [Magic Spell Charts](http://www.warehouse23.com/products/gurps-magic-spell-charts).  
+- An additional -1 for each Prerequisite spell that is missing   
+- An additional -1 for "Very Hard" spells  
+- Spells cast as a default cost +1 fatigue in addition to their normal base cost  
+- Minimum Magery prerequisites always apply  
+  
 You have to know at least one spell in the College of the spell your trying to default to.  In other words, you can't cross-college default.  
 **Example 1**:  
 > Del wants to try casting "Rain of Ice Daggers" using a default skill.  He has Ice Dagger at 15.  Rain of Ice Daggers is only 1 step away from Ice Dagger on the  spell 
