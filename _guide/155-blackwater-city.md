@@ -1,4 +1,10 @@
-# Blackwater City Guide
+---
+title: Blackwater City Details
+layout: default
+---
+
+
+# Blackwater City Details
 
 ## Castle
 
