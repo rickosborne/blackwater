@@ -113,10 +113,8 @@ In general, precious gems, because of their inherent properties (mineral structu
 
 The Powerstone enchantment works exactly as described in the magic sourcebook, with the exception that the typical maximum Mana capacity of a given gem is simply calculated as the square root of the Mana Affinity times the number of carats of the stone:  
 <img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana\:Affinity * Mass}" align="center">
-
-
-| Gem Name | Mana Affinity(per Ct) | Base Value
- (per Ct) | Description |
+  
+| Gem Name | Mana Affinity(per Ct) | Base Value (per Ct) | Description |
 | --- | --- | --- | --- |
 | **Agate** | 1.25 | 25 | A smooth, banded mineral. The changing colors highlight depth when the gem is carved, so it&#39;s often used for tiny reliefs. |
 | --- | --- | --- | --- |
@@ -130,8 +128,7 @@ The Powerstone enchantment works exactly as described in the magic sourcebook, w
 | **Cat&#39;s Eye** | 7.5 | 150 | A form of beryl that focuses light in a distinctive streak down the center. |
 | **Chalcedony** | 2.5 | 50 | A milky, usually white stone. |
 | **Coral** | 5 | 100 | Opaque remains of live coral, polished and often carved into shapes. |
-| **Diamond** | 10 | 200 |
- |
+| **Diamond** | 10 | 200 | |
 | **Emerald** | 8.75 | 175 | A brilliant-green stone. |
 | **Garnet** | 8.75 | 175 | Usually red, but rare green and other colors of garnets exist. |
 | **Hematite** | 1.25 | 25 | A silvery iron ore with a crystaline structure. |
