@@ -357,13 +357,13 @@ img.center {
 table {
     clear: both;
     margin: var(--cadence) auto;
+    border-top: thin solid rgba(0, 0, 0, 0.1);
     border-bottom: thin solid rgba(0, 0, 0, 0.1);
     border-left: thin solid rgba(0, 0, 0, 0.1);
     border-right: thin solid rgba(0, 0, 0, 0.1);
 }
 th {
     color: rgba(0, 0, 0, 0.5);
-    border-top: thin solid rgba(0, 0, 0, 0.1);
     border-bottom: thin solid rgba(0, 0, 0, 0.1);
     font-size: 100%;
 }
