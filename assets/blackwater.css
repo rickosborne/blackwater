@@ -155,7 +155,7 @@ blockquote header {
 .main-content {
     padding: var(--cadence);
     margin: 0 auto;
-    max-width: 45em;
+    max-width: 55em;
 }
 
 #link-home img {
