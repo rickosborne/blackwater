@@ -7,7 +7,7 @@ layout: default
 
 ## Faith of the Seven 
 
-<img align="right" src="../images/7 Point Star.png" height="200">
+<img align="right" src="../images/7 Point Star.png" height="250">
 The Faith of the Seven is the dominant religion in Blackwater. Each of the Seven aspects symbolizes a different part of life and are prayed to for different purposes. They are known as the Father, the Mother, the Maiden, the Crone, the Warrior, the Smith, and the Stranger.  
 
 - **The Father:** The Father represents divine justice and judges the souls of the dead.  
@@ -53,7 +53,7 @@ Many Gifts could conceivably be granted by different aspects, but here are some 
 * Stranger: Elastic Skin (B51), Insubstantiality (B62), Invisibility (B63), Medium (B68), Permeation (B75), Shadow Form (B83), Warp (B97)
 
 ## Brotherhood of Balance and Harmony  
-<img src="../images/Yin_yang.png" align="left" height="200">   
+<img src="../images/Yin_yang.png" align="left" height="300">   
 
 The Brotherhood of Balance and Harmony follow the path of naturalness, spontaneity, simplicity, detachment from desires, and most important of all, balance.  In ancient texts, balance is associated with water through its yielding nature.  Brotherhood philosophy teaches that the universe works harmoniously according to its own ways. When someone exerts their will against the world in a manner that is out of rhythm with the cycles of change, they may disrupt that harmony. This disruption frequently creates unintended consequences more often than the desired outcome. Monks assert that one must place their will in harmony with the natural universe in order to be in balance with the natural order of things.  Thus, a potentially harmful interference may be avoided, and in this way, goals can be achieved effortlessly.  “The Monk seeks to come into harmony with the universe, which itself accomplishes by nonaction."  
 
