@@ -54,7 +54,7 @@ strong, strong * {
 
 /* Vars */
 :root {
-    --cadence: 1.75rem;
+    --cadence: 1.00rem;
     --cadence-half: calc(var(--cadence) * 0.5);
     --cadence-quarter: calc(var(--cadence) * 0.25);
     --cadence-double: calc(var(--cadence) * 2);
