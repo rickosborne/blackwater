@@ -50,19 +50,19 @@ In general, the following GURPS sourcebooks are recommended:
 ### Alternate Magic Rituals
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books,magic/) P.9  
 
-Casting Time (quick & dirty vs. slow and deliberate casting)  
+Casting Time Modifiers (quick & dirty vs. slow and deliberate casting)  
 |Modifier  |Effect                                                 |
 |----------|-------------------------------------------------------|
 |-1 Sec    |-5 to Skill (1 Sec minimum, except for blocking spells)|
 |+1 Sec    |+ 1 to skill, up to +3                                 |
 
-Energy (extra effort vs. phone-it-in casting)  
+Energy Modifiers (extra effort vs. phone-it-in casting)  
 |Modifier|Effect|
 |---|---|
 |-1 FP|-2 to Skill (Can’t reduce fatigue cost by more than 50%)|
 |+1 FP|+ 1 to skill, up to +3|
 
-Physical Ritual (Macarena vs. Plank casting):  
+Physical Ritual Modifiers (Macarena vs. Plank casting):  
 By default, all spells require two-handed gestures, subtle foot motions like dance steps, and a clearly spoken incantation.  
 |Modifier|Effect|
 |---|---|
@@ -71,7 +71,7 @@ By default, all spells require two-handed gestures, subtle foot motions like dan
 |Gestures with only one hand|-2 to Skill|
 |no hand gestures|-4 to Skill|
 
-Verbal Ritual   
+Verbal Ritual Modifiers    
 |Modifier|Effect|
 |---|---|
 |Yelling / Screaming|+2 to Skill|
@@ -90,13 +90,13 @@ Many spells have a default skill, so even if you don't *really* know the spell y
 •	An additional -1 for "Very Hard" spells  
 •	Spells cast as a default cost +1 fatigue in addition to their normal base cost  
 •	Minimum Magery prerequisites always apply  
-You have to know at least one spell in the College of the spell your trying to default to.  In other words, you can't cross-college default.
+You have to know at least one spell in the College of the spell your trying to default to.  In other words, you can't cross-college default.  
 **Example 1**:  
-> Del wants to try casting "Rain of Ice Daggers" using a default skill.  He has Ice Dagger at 15.  Rain of Ice Daggers is only 1 step away from Ice Dagger on the  spell  
+> Del wants to try casting "Rain of Ice Daggers" using a default skill.  He has Ice Dagger at 15.  Rain of Ice Daggers is only 1 step away from Ice Dagger on the  spell 
 > chart, so his skill modifier starts at -2 for a default casting, and an additional -2 for the spell being 1 step away.  But, because Dell doesn't know Hail, Snow, or Clouds 
 > or the any 2 Air spells required for Clouds, he's missing 5 prerequisites, so that's an additional -5 to skill for a total -9.  Dell would need to roll a 6 or less to 
-> successfully default cast Rain of Ice Daggers. 
-**Example 2**:  
+> successfully default cast Rain of Ice Daggers.   
+**Example 2**:   
 > Del wants to try casting Continual Light using a default skill.  Continual Light is only 1 step away from Light, which Dell knows at 15. So, Dell would have the basic 
 > penalty of -2 for a default casting, and a -2 because Continual Light is only 1 step away from Light.  Dell could attempt a default casting of Continual Light at -4 to 
 > skill, or an 11.
