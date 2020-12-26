@@ -23,7 +23,7 @@ Boasting many large churches and temples, cobblestone streets, and an impressive
 Blackwater serves as the cultural, military, and political center for the surrounding area encompassing nearly 2,500 square miles.
 Within the sway of Earl Froderek of Blackwater are the villages of Northunder, Coldcreek, Ferton, and Manor Post. The Earl’s title is not due to nobility. The position is elected by the City Assembly and the title is a holdover from old imperial days. Earl Froderek has held the position for nearly 20 years.
 
-<a href="../maps/Blackwater City Map - 20201222-small.pdf"><img src="../images/Blackwater City Map - 20201222.png"></a>  
+<a href="../maps/Blackwater City Map - 20201222-small.pdf" target="_blank"><img src="../images/Blackwater City Map - 20201222.png"></a>  
   
 ## Human Towns Around Blackwater
 
@@ -45,7 +45,7 @@ It has since grown into a small but well-rounded community, administered by Serg
 Weylands watch is an ancient abandoned keep, with a high tower, built on a rocky spit of land that juts up from the surrounding low marsh lands.
 The point gives and excellent view of the sea and water traffic on the branches of the Blackwater.
 
-<a href="../maps/Blackwater Surroundings Map.png"><img src="../maps/Blackwater Surroundings Map.png" target="new"></a>
+<a href="../maps/Blackwater Surroundings Map.png" target="_blank"><img src="../maps/Blackwater Surroundings Map.png"></a>
 
 ## Other Human Cities
 
