@@ -5,7 +5,10 @@ layout: default
 
 # Poisons
 
-## Blood Agents
+A wide variety of toxic substances are known and available in and around Blackwater.  However, they are also illegal under Blackwater laws.  The penalties for possession of poisons are typically only moderate (confiscation, fines, short duration sentences).  They use of toxins are commonly prosecuted as part of the larger crime they were part of: e.g. Murder, Attempted murder, Assault, Robbery, Burglarly, etc.  There is a specific crime against poisoning in the Blackwater legal system, but it frequently difficult to prove by itself without magical assistance, and therefore rarely prosecuted as a stand-alone crime.  
+
+## Blood Agents  
+Blood agents require injection into the victims blood stream.  This doesn't necessarily require an attack that causes damage.  In some cases, a mere prick with a seweing needle or thorn can deliver enough toxin to affect the victim.  
 
 ### Cobra Venom
 
@@ -86,6 +89,7 @@ Victims must make a HT roll to resist the effects which last 1d minutes.  On a f
 $100/dose. LC 1.  
 
 ## Contact Agents  
+Contact Agents are absorbed directly through the victims skin and must be cautiosly handled by the poisoner.  
 
 ### The Long Sleep
 
@@ -105,7 +109,8 @@ If the victim suffers from catatonic stupor, once they recover from that bought 
 
 $40/dose.  LC 1.  
 
-## Digestive Agents
+## Digestive Agents  
+Digestive Agents must be consumed by the victim, typically through eating or drinking.  
 
 ### Cerbera
 
@@ -171,7 +176,8 @@ Harvested and distilled from certain shellfish following the Red Tides.  It has 
 
 $20/dose. LC1.  
 
-## Respiratory Agents
+## Respiratory Agents  
+Respiratory Agents are commonly in the form of smoke, mist, or aerosol and must be inhaled by the victim to be effective.  
 
 ### Blood Berry Powder
 
