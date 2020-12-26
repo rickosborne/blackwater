@@ -362,7 +362,7 @@ th {
     color: rgba(0, 0, 0, 0.5);
     border-top: thin solid rgba(0, 0, 0, 0.1);
     border-bottom: thin solid rgba(0, 0, 0, 0.1);
-    font-size: 90%;
+    font-size: 100%;
 }
 
 .eyechart {
@@ -371,13 +371,14 @@ th {
 .eyechart th, .eyechart td {
     padding: var(--cadence-quarter);
 }
-
+tr {
+    border-bottom: thin solid rgba(0, 0, 0, 0.1);   
+}
 tr:nth-of-type(2n), thead {
     background-color: rgba(127, 127, 127, 0.05);
 }
 td {
     vertical-align: top;
-    border-bottom: thin solid rgba(0, 0, 0, 0.1);    
 }
 th {
     vertical-align: bottom;
