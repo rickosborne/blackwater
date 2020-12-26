@@ -357,6 +357,9 @@ img.center {
 table {
     clear: both;
     margin: var(--cadence) auto;
+    border-bottom: thin solid rgba(0, 0, 0, 0.1);
+    border-left: thin solid rgba(0, 0, 0, 0.1);
+    border-right: thin solid rgba(0, 0, 0, 0.1);
 }
 th {
     color: rgba(0, 0, 0, 0.5);
@@ -371,9 +374,7 @@ th {
 .eyechart th, .eyechart td {
     padding: var(--cadence-quarter);
 }
-tr {
-    border-bottom: thin solid rgba(0, 0, 0, 0.1);   
-}
+
 tr:nth-of-type(2n), thead {
     background-color: rgba(127, 127, 127, 0.05);
 }
