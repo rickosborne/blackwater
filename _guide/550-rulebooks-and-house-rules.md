@@ -113,7 +113,8 @@ In general, precious gems, because of their inherent properties (mineral structu
 
 The Powerstone enchantment works exactly as described in the magic sourcebook, with the exception that the typical maximum Mana capacity of a given gem is simply calculated as the square root of the Mana Affinity times the number of carats of the stone:  
   
-<img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana\:Affinity * Mass}" align="center">  
+  
+<img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana\:Affinity * Mass}">  
   
 
 | Gem Name | Mana Affinity<br />(per Ct)| Base Value<br />(per Ct)| Description |
