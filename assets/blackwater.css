@@ -263,7 +263,7 @@ a, a:visited {
 
 .main-content img {
     max-width: 100%;
-    padding: var(--cadence-double);
+    padding: 15px;
 }
 
 .guide-pages {
