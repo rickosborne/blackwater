@@ -50,13 +50,15 @@ In general, the following GURPS sourcebooks are recommended:
 ### Alternate Magic Rituals
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books/magic/) P.9  
 
-Casting Time Modifiers (quick & dirty vs. slow and deliberate casting):    
+Casting Time Modifiers (quick & dirty vs. slow and deliberate casting): 
+  
 |Modifier  |Effect                                                 |
 |----------|-------------------------------------------------------|
 |-1 Sec    |-5 to Skill (1 Sec minimum, except for blocking spells)|
 |+1 Sec    |+ 1 to skill, up to +3                                 |  
 
 Energy Modifiers (extra effort vs. phone-it-in casting):    
+  
 |Modifier|Effect|
 |---|---|
 |-1 FP|-2 to Skill (Can’t reduce fatigue cost by more than 50%)|
@@ -64,6 +66,7 @@ Energy Modifiers (extra effort vs. phone-it-in casting):
 
 Physical Ritual Modifiers (Macarena vs. Plank casting):  
 By default, all spells require two-handed gestures, subtle foot motions like dance steps, and a clearly spoken incantation.  
+  
 |Modifier|Effect|
 |---|---|
 |Grand, dramatic whole-body movements|+1 to Skill|
@@ -72,6 +75,7 @@ By default, all spells require two-handed gestures, subtle foot motions like dan
 |no hand gestures|-4 to Skill|  
 
 Verbal Ritual Modifiers:      
+   
 |Modifier|Effect|
 |---|---|
 |Yelling / Screaming|+2 to Skill|
@@ -83,8 +87,8 @@ Verbal Ritual Modifiers:
 These rules modify the Ceremonial Magic rules on Magic p.12.  Mages may cast ceremonies at an effective skill of 15 or less.  However, the guidelines on how much energy each participant can contribute still apply.  
  
 ### Spell Defaults
-Many spells have a default skill, so even if you don't *really* know the spell you can give it a try.   
-•	Defaulting a spell can be done from any other spell with the following modifiers: a base -2 to skill because it's a default.    
+Many spells have a default skill, so even if you don't *really* know the spell you can give it a try.  Defaulting a spell can be done from any other spell with the following modifiers:   
+•	Base -2 to skill because it's a default.    
 •	An additional -2 to skill for "step" away from the known spell to the one trying the make a default roll.  "Steps" are determined by tracing a path from the known spell to the unknown spell on the [Magic Spell Charts](http://www.warehouse23.com/products/gurps-magic-spell-charts).  
 •	An additional -1 for each Prerequisite spell that is missing   
 •	An additional -1 for "Very Hard" spells  
@@ -106,4 +110,4 @@ You have to know at least one spell in the College of the spell your trying to d
 In general, precious gems, because of their inherent properties (mineral structure, translucence, and ability to interact with magical energy) are better able to hold Mana and therefore to serve as powerstones.
 
 The Powerstone enchantment works exactly as described in the magic sourcebook, with the exception that the typical maximum Mana capacity of a given gem is simply calculated as the square root of the Mana Affinity times the number of carats of the stone:  
-<img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana Affinity * Mass}" align="center">
+<img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana_Affinity * Mass}" align="center">
