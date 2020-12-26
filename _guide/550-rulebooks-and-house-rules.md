@@ -116,7 +116,7 @@ The Powerstone enchantment works exactly as described in the magic sourcebook, w
 <img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana\:Affinity * Mass}" align="center">
 
 
-| Gem Name | Mana Affinity<br />(per Ct)<img height="0" width="100">| Base Value<br />(per Ct)<img height="0" width="100">| Description |
+| Gem Name | Mana Affinity<br />(per Ct)| Base Value<br />(per Ct)| Description |
 | --- | --- | --- | --- |
 | **Agate** | 1.25| 25 | A smooth, banded mineral. The changing colors highlight depth when the gem is carved, so it&#39;s often used for tiny reliefs. |
 | **Amber** | 6.25 | 125 | A yellow-orange material, sometimes with long-dead insects and other very tiny organisms trapped in it. |
