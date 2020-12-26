@@ -18,7 +18,7 @@ layout: default
 
 ## Ferton
 
-### Cock & Balls Inn
+### Cock & Balls Inn  
 {:.float-right}
 <img src="../images/Cock and Balls Sign.png" height="300">  
   
