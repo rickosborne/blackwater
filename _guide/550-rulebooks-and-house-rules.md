@@ -48,7 +48,7 @@ In general, the following GURPS sourcebooks are recommended:
 > However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
 
 ### Alternate Magic Rituals
-These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books,magic/) P.9  
+These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books/magic/) P.9  
 
 Casting Time Modifiers (quick & dirty vs. slow and deliberate casting)  
 |Modifier  |Effect                                                 |
@@ -60,7 +60,7 @@ Energy Modifiers (extra effort vs. phone-it-in casting)
 |Modifier|Effect|
 |---|---|
 |-1 FP|-2 to Skill (Can’t reduce fatigue cost by more than 50%)|
-|+1 FP|+ 1 to skill, up to +3|
+|+1 FP|+ 1 to skill, up to +3|  
 
 Physical Ritual Modifiers (Macarena vs. Plank casting):  
 By default, all spells require two-handed gestures, subtle foot motions like dance steps, and a clearly spoken incantation.  
@@ -69,7 +69,7 @@ By default, all spells require two-handed gestures, subtle foot motions like dan
 |Grand, dramatic whole-body movements|+1 to Skill|
 |Omitting the foot movements|-2 to Skill|
 |Gestures with only one hand|-2 to Skill|
-|no hand gestures|-4 to Skill|
+|no hand gestures|-4 to Skill|  
 
 Verbal Ritual Modifiers    
 |Modifier|Effect|
@@ -77,10 +77,10 @@ Verbal Ritual Modifiers
 |Yelling / Screaming|+2 to Skill|
 |Speaking loudly and articulately|+1 to Skill|
 |Softly spoken incantations|-2 to Skill|
-|No spoken incantation|-4 to Skill|
+|No spoken incantation|-4 to Skill|  
 
 ### Alternate Ceremonies  
-These rules modify the Ceremonial Magic rules on Magic p.12.  Mages may cast ceremonies at an effective skill of 15 or less.  However, the guidelines on how much energy each participant can contribute still apply.
+These rules modify the Ceremonial Magic rules on Magic p.12.  Mages may cast ceremonies at an effective skill of 15 or less.  However, the guidelines on how much energy each participant can contribute still apply.  
  
 ### Spell Defaults
 Many spells have a default skill, so even if you don't *really* know the spell you can give it a try.   
@@ -105,4 +105,4 @@ You have to know at least one spell in the College of the spell your trying to d
 In general, precious gems, because of their inherent properties (mineral structure, translucence, and ability to interact with magical energy) are better able to hold Mana and therefore to serve as powerstones.
 
 The Powerstone enchantment works exactly as described in the magic sourcebook, with the exception that the typical maximum Mana capacity of a given gem is simply calculated as the square root of the Mana Affinity times the number of carats of the stone:
-
+<img src="https://render.githubusercontent.com/render/math?math=Capacity = sqrt{Mana Affinity * Mass}">
