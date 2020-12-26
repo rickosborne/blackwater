@@ -339,7 +339,6 @@ There is a great deal of variability in the capacity of individual stones. They 
 
 ### Other Powerstone Materials  
 
- 
 Although gemstones are inherently exceptional repositories of magical energy, other objects may also be enchanted with the Powerstone spell to hold mana.  The Powerstone spell is cast at -5 when not used on a gem and the objects are able to hold much less mana as given by the table below:  
   
 |Substance|Mana Affinity (per lb)|Description|
