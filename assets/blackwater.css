@@ -377,7 +377,6 @@ tr:nth-of-type(2n), thead {
 }
 td {
     vertical-align: top;
-    border-top: thin solid rgba(0, 0, 0, 0.1);
     border-bottom: thin solid rgba(0, 0, 0, 0.1);    
 }
 th {
