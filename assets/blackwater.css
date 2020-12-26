@@ -93,7 +93,7 @@ ul, ol {
 }
 
 li {
-    margin: var(--cadence-half) 0;
+    margin: var(--cadence-quarter) 0;
 }
 li:first-child {
     margin-top: var(--cadence-half);
