@@ -117,7 +117,6 @@ The Powerstone enchantment works exactly as described in the magic sourcebook, w
 | Gem Name | Mana Affinity(per Ct) | Base Value (per Ct) | Description |
 | --- | --- | --- | --- |
 | **Agate** | 1.25 | 25 | A smooth, banded mineral. The changing colors highlight depth when the gem is carved, so it&#39;s often used for tiny reliefs. |
-| --- | --- | --- | --- |
 | **Amber** | 6.25 | 125 | A yellow-orange material, sometimes with long-dead insects and other very tiny organisms trapped in it. |
 | **Amethyst** | 7.5 | 150 | Transparent, purple quartz. |
 | **Aquamarine** | 7.5 | 150 | Transparent and pale blue, aquamarine is naturally associated with water. |
