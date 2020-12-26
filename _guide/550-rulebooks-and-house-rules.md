@@ -332,5 +332,29 @@ The Powerstone enchantment works exactly as described in the magic sourcebook, w
 <td>A pale blue-green, opaque mineral, sometimes mottled with darker colors.</td>
 </tr>
 </tbody>
-</table>
+</table>  
+  
+There is a great deal of variability in the capacity of individual stones. They can vary by as much as 50% less or 100% more (a factor of 2). Correspondingly, the individual monetary value of a particular individual stone may vary by similar amounts.  Further, certain individual stones have a tendency to hold certain flavors of aspected mana bettter than others.
+  
+
+### Other Powerstone Materials  
+
+ 
+Although gemstones are inherently exceptional repositories of magical energy, other objects may also be enchanted with the Powerstone spell to hold mana.  The Powerstone spell is cast at -5 when not used on a gem and the objects are able to hold much less mana as given by the table below:  
+  
+|Substance|Mana Affinity (per lb)|Description|
+|---|---|---|
+|Copper|4| |
+|Gold|9|Only above 18 Ct purity|
+|Iron|1|Any cast, or cold wrought Iron| 
+|Platinum|12| |
+|Silver|7| |
+|Steel|0.5|Hardened steel used for tools, weapons and armor|
+|Stone (Igneous)|1.5| |
+|Stone (Metamorphic)|1.75| |
+|Stone (sedimentary)|1.0| |
+|Wood (Maple)|1.5| |
+|Wood (Oak)|1| |
+|Wood (Pine)|1| |
+|Wood (Willow)|2.5| |
 
