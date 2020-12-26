@@ -38,7 +38,7 @@ The days of the week are:
 Holidi is the typical day of worship and rest.   
 
 {:.float-right}
-![Winter House](./images/Winter House.jpg)
+![Winter House](../images/Winter House.jpg)
 
 ## Holidays
 
