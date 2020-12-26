@@ -112,9 +112,11 @@ You have to know at least one spell in the College of the spell your trying to d
 In general, precious gems, because of their inherent properties (mineral structure, translucence, and ability to interact with magical energy) are better able to hold Mana and therefore to serve as powerstones.
 
 The Powerstone enchantment works exactly as described in the magic sourcebook, with the exception that the typical maximum Mana capacity of a given gem is simply calculated as the square root of the Mana Affinity times the number of carats of the stone:  
+
 <img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana\:Affinity * Mass}" align="center">
-  
-| Gem Name | Mana Affinity (per Ct) <img width="100">| Base Value (per Ct)| Description |
+
+
+| Gem Name | Mana Affinity (per Ct)<img height="0" width="100">| Base Value (per Ct)<img height="0" width="100">| Description |
 | --- | --- | --- | --- |
 | **Agate** | 1.25| 25 | A smooth, banded mineral. The changing colors highlight depth when the gem is carved, so it&#39;s often used for tiny reliefs. |
 | **Amber** | 6.25 | 125 | A yellow-orange material, sometimes with long-dead insects and other very tiny organisms trapped in it. |
