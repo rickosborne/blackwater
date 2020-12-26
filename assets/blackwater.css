@@ -100,7 +100,7 @@ li:first-child {
 }
 
 p {
-    margin: var(--cadence) 0;
+    margin: var(--cadence-half) 0;
 }
 
 .site-header, .site-footer {
