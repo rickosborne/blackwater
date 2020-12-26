@@ -51,10 +51,10 @@ In general, the following GURPS sourcebooks are recommended:
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books,magic/) P.9  
 
 Casting Time (quick & dirty vs. slow and deliberate casting)  
-|Modifier|Effect|
-|---|---|
-|-1 Sec|-5 to Skill (1 Sec minimum, except for blocking spells)|
-|+1 Sec|+ 1 to skill, up to +3|
+|Modifier  |Effect                                                 |
+|----------|-------------------------------------------------------|
+|-1 Sec    |-5 to Skill (1 Sec minimum, except for blocking spells)|
+|+1 Sec    |+ 1 to skill, up to +3                                 |
 
 Energy (extra effort vs. phone-it-in casting)  
 |Modifier|Effect|
