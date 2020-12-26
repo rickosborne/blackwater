@@ -45,9 +45,7 @@ It has since grown into a small but well-rounded community, administered by Serg
 Weylands watch is an ancient abandoned keep, with a high tower, built on a rocky spit of land that juts up from the surrounding low marsh lands.
 The point gives and excellent view of the sea and water traffic on the branches of the Blackwater.
 
-[[[../maps/Blackwater Surroundings Map.png]]](../maps/Blackwater Surroundings Map.png)  
-  
-<img src="../maps/Blackwater Surroundings Map.png">
+<a href="../maps/Blackwater Surroundings Map.png"><img src="../maps/Blackwater Surroundings Map.png" target="new"></a>
 
 ## Other Human Cities
 
