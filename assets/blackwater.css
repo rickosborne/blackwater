@@ -263,6 +263,7 @@ a, a:visited {
 
 .main-content img {
     max-width: 100%;
+    margin: 10px;
 }
 
 .guide-pages {
