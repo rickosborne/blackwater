@@ -117,39 +117,220 @@ The Powerstone enchantment works exactly as described in the magic sourcebook, w
 <img src="https://render.githubusercontent.com/render/math?math=Capacity = \sqrt{Mana\:Affinity * Mass}">  
   
 
-| Gem Name | Mana Affinity<br />(per Ct)| Base Value<br />(per Ct)| Description |
-| --- | --- | --- | --- |
-| **Agate** | 1.25| 25 | A smooth, banded mineral. The changing colors highlight depth when the gem is carved, so it&#39;s often used for tiny reliefs. |
-| **Amber** | 6.25 | 125 | A yellow-orange material, sometimes with long-dead insects and other very tiny organisms trapped in it. |
-| **Amethyst** | 7.5 | 150 | Transparent, purple quartz. |
-| **Aquamarine** | 7.5 | 150 | Transparent and pale blue, aquamarine is naturally associated with water. |
-| **Azurite** | 2.5 | 50 | A blue ore of copper. |
-| **Beryl** | 7.5 | 150 | A hard, transparent gem, colorless or yellow, similar to emerald and aquamarine. |
-| **Bloodstone** | 7.5 | 150 | A dark, opaque stone with red streaks. |
-| **Calcite** | 5 | 100 | Gem-quality calcite is a cloudy white stone, but it may be transparent from some angles and can be carved into lenses. |
-| **Cat&#39;s Eye** | 7.5 | 150 | A form of beryl that focuses light in a distinctive streak down the center. |
-| **Chalcedony** | 2.5 | 50 | A milky, usually white stone. |
-| **Coral** | 5 | 100 | Opaque remains of live coral, polished and often carved into shapes. |
-| **Diamond** | 10 | 200 | |
-| **Emerald** | 8.75 | 175 | A brilliant-green stone. |
-| **Garnet** | 8.75 | 175 | Usually red, but rare green and other colors of garnets exist. |
-| **Hematite** | 1.25 | 25 | A silvery iron ore with a crystaline structure. |
-| **Iolite** | 7.5 | 150 | A thin piece of this sapphire-like mineral polarizes light, so it can be used to reduce glare. |
-| **Jade** | 5 | 100 | Usually green, though sometimes shading into white (and, very rarely, other colors), high-quality jade is somewhat translucent. Jade is an extremely tough mineral that can, in large enough chunks, be used for high-quality stone axes. |
-| **Jet** | 2.5 | 50 | A black stone that takes a polish, though it&#39;s essentially just an exceptionally dense form of coal. |
-| **Lapis Lazuli** | 6.25 | 125 | A soft, dark-blue stone, often streaked with gold pyrites. |
-| **Magnetite** | 1.25 | 25 | A silvery iron ore. |
-| **Malachite** | 3.75 | 75 | A deep-green copper ore, often streaked with swirls of lighter green. |
-| **Moonstone** | 7.5 | 150 | A very pearlescent stone appearing in several colors. Some have tiger-eye or star-like appearance. |
-| **Obsidian** | 0.5 | 10 | Volcanic glass, usually black or very dark green. Like jade, it is slightly translucent and can be sharpened. |
-| **Onyx** | 5 | 100 | Black, opaque quartz. |
-| **Opal** | 8.75 | 175 | Opal comes in a variety of shades and levels of opacity, but its most notable attribute is that it diffracts light internally, giving it deep, rainbow-colored overtones. |
-| **Pearl** | 8.75 | 175 | Pearls are typically white with a faint rainbow sheen, but they can be tinged pink or purple as well. |
-| **Peridot** | 7.5 | 150 | A pale, transparent, green stone, sometimes found in meteors. |
-| **Quartz** | 3.75 | 75 | Clear quartz is relatively common, so quartz crystals and carvings have often been used as magical adjuncts. |
-| **Ruby** | 8.75 | 175 | A very hard, transparent, red stone. |
-| **Sapphire** | 8.75 | 175 | Often blue, but can be any color except red. It is the same stone as ruby, only with different trace elements providing color. |
-| **Sard** | 6.25 | 125 | An opaque, red quartz, often carved into seals. |
-| **Topaz** | 8.75 | 175 | Usually earth-toned, but blue, green, and multi-colored topazes exist. |
-| **Tourmaline** | 6.25 | 125 | A translucent stone usually found in long, narrow crystals made of multicolored bands. |
-| **Turquoise** | 5 | 100 | A pale blue-green, opaque mineral, sometimes mottled with darker colors. |
+<table>
+<thead>
+<tr>
+<th>Gem Name</th>
+<th>Mana Affinity<br />(per Ct)</th>
+<th>Base Value<br />(per Ct)</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Agate</strong></td>
+<td>1.25</td>
+<td>25</td>
+<td>A smooth, banded mineral. The changing colors highlight depth when the gem is carved, so it&#39;s often used for tiny reliefs.</td>
+</tr>
+<tr>
+<td><strong>Amber</strong></td>
+<td>6.25</td>
+<td>125</td>
+<td>A yellow-orange material, sometimes with long-dead insects and other very tiny organisms trapped in it.</td>
+</tr>
+<tr>
+<td><strong>Amethyst</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>Transparent, purple quartz.</td>
+</tr>
+<tr>
+<td><strong>Aquamarine</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>Transparent and pale blue, aquamarine is naturally associated with water.</td>
+</tr>
+<tr>
+<td><strong>Azurite</strong></td>
+<td>2.5</td>
+<td>50</td>
+<td>A blue ore of copper.</td>
+</tr>
+<tr>
+<td><strong>Beryl</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>A hard, transparent gem, colorless or yellow, similar to emerald and aquamarine.</td>
+</tr>
+<tr>
+<td><strong>Bloodstone</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>A dark, opaque stone with red streaks.</td>
+</tr>
+<tr>
+<td><strong>Calcite</strong></td>
+<td>5</td>
+<td>100</td>
+<td>Gem-quality calcite is a cloudy white stone, but it may be transparent from some angles and can be carved into lenses.</td>
+</tr>
+<tr>
+<td><strong>Cat&#39;s Eye</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>A form of beryl that focuses light in a distinctive streak down the center.</td>
+</tr>
+<tr>
+<td><strong>Chalcedony</strong></td>
+<td>2.5</td>
+<td>50</td>
+<td>A milky, usually white stone.</td>
+</tr>
+<tr>
+<td><strong>Coral</strong></td>
+<td>5</td>
+<td>100</td>
+<td>Opaque remains of live coral, polished and often carved into shapes.</td>
+</tr>
+<tr>
+<td><strong>Diamond</strong></td>
+<td>10</td>
+<td>200</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Emerald</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>A brilliant-green stone.</td>
+</tr>
+<tr>
+<td><strong>Garnet</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>Usually red, but rare green and other colors of garnets exist.</td>
+</tr>
+<tr>
+<td><strong>Hematite</strong></td>
+<td>1.25</td>
+<td>25</td>
+<td>A silvery iron ore with a crystaline structure.</td>
+</tr>
+<tr>
+<td><strong>Iolite</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>A thin piece of this sapphire-like mineral polarizes light, so it can be used to reduce glare.</td>
+</tr>
+<tr>
+<td><strong>Jade</strong></td>
+<td>5</td>
+<td>100</td>
+<td>Usually green, though sometimes shading into white (and, very rarely, other colors), high-quality jade is somewhat translucent. Jade is an extremely tough mineral that can, in large enough chunks, be used for high-quality stone axes.</td>
+</tr>
+<tr>
+<td><strong>Jet</strong></td>
+<td>2.5</td>
+<td>50</td>
+<td>A black stone that takes a polish, though it&#39;s essentially just an exceptionally dense form of coal.</td>
+</tr>
+<tr>
+<td><strong>Lapis Lazuli</strong></td>
+<td>6.25</td>
+<td>125</td>
+<td>A soft, dark-blue stone, often streaked with gold pyrites.</td>
+</tr>
+<tr>
+<td><strong>Magnetite</strong></td>
+<td>1.25</td>
+<td>25</td>
+<td>A silvery iron ore.</td>
+</tr>
+<tr>
+<td><strong>Malachite</strong></td>
+<td>3.75</td>
+<td>75</td>
+<td>A deep-green copper ore, often streaked with swirls of lighter green.</td>
+</tr>
+<tr>
+<td><strong>Moonstone</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>A very pearlescent stone appearing in several colors. Some have tiger-eye or star-like appearance.</td>
+</tr>
+<tr>
+<td><strong>Obsidian</strong></td>
+<td>0.5</td>
+<td>10</td>
+<td>Volcanic glass, usually black or very dark green. Like jade, it is slightly translucent and can be sharpened.</td>
+</tr>
+<tr>
+<td><strong>Onyx</strong></td>
+<td>5</td>
+<td>100</td>
+<td>Black, opaque quartz.</td>
+</tr>
+<tr>
+<td><strong>Opal</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>Opal comes in a variety of shades and levels of opacity, but its most notable attribute is that it diffracts light internally, giving it deep, rainbow-colored overtones.</td>
+</tr>
+<tr>
+<td><strong>Pearl</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>Pearls are typically white with a faint rainbow sheen, but they can be tinged pink or purple as well.</td>
+</tr>
+<tr>
+<td><strong>Peridot</strong></td>
+<td>7.5</td>
+<td>150</td>
+<td>A pale, transparent, green stone, sometimes found in meteors.</td>
+</tr>
+<tr>
+<td><strong>Quartz</strong></td>
+<td>3.75</td>
+<td>75</td>
+<td>Clear quartz is relatively common, so quartz crystals and carvings have often been used as magical adjuncts.</td>
+</tr>
+<tr>
+<td><strong>Ruby</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>A very hard, transparent, red stone.</td>
+</tr>
+<tr>
+<td><strong>Sapphire</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>Often blue, but can be any color except red. It is the same stone as ruby, only with different trace elements providing color.</td>
+</tr>
+<tr>
+<td><strong>Sard</strong></td>
+<td>6.25</td>
+<td>125</td>
+<td>An opaque, red quartz, often carved into seals.</td>
+</tr>
+<tr>
+<td><strong>Topaz</strong></td>
+<td>8.75</td>
+<td>175</td>
+<td>Usually earth-toned, but blue, green, and multi-colored topazes exist.</td>
+</tr>
+<tr>
+<td><strong>Tourmaline</strong></td>
+<td>6.25</td>
+<td>125</td>
+<td>A translucent stone usually found in long, narrow crystals made of multicolored bands.</td>
+</tr>
+<tr>
+<td><strong>Turquoise</strong></td>
+<td>5</td>
+<td>100</td>
+<td>A pale blue-green, opaque mineral, sometimes mottled with darker colors.</td>
+</tr>
+</tbody>
+</table>
+
