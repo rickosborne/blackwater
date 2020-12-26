@@ -96,6 +96,7 @@ You have to know at least one spell in the College of the spell your trying to d
 > chart, so his skill modifier starts at -2 for a default casting, and an additional -2 for the spell being 1 step away.  But, because Dell doesn't know Hail, Snow, or Clouds 
 > or the any 2 Air spells required for Clouds, he's missing 5 prerequisites, so that's an additional -5 to skill for a total -9.  Dell would need to roll a 6 or less to 
 > successfully default cast Rain of Ice Daggers.   
+
 **Example 2**:   
 > Del wants to try casting Continual Light using a default skill.  Continual Light is only 1 step away from Light, which Dell knows at 15. So, Dell would have the basic 
 > penalty of -2 for a default casting, and a -2 because Continual Light is only 1 step away from Light.  Dell could attempt a default casting of Continual Light at -4 to 
