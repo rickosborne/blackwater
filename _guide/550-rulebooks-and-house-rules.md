@@ -121,8 +121,8 @@ The Powerstone enchantment works exactly as described in the magic sourcebook, w
 <thead>
 <tr>
 <th>Gem Name</th>
-<th>Mana Affinity<br />(per Ct)</th>
-<th>Base Value<br />(per Ct)</th>
+<th width="100">Mana Affinity<br />(per Ct)</th>
+<th width="100">Base Value<br />(per Ct)</th>
 <th>Description</th>
 </tr>
 </thead>
