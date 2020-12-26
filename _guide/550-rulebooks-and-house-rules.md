@@ -50,13 +50,13 @@ In general, the following GURPS sourcebooks are recommended:
 ### Alternate Magic Rituals
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books/magic/) P.9  
 
-Casting Time Modifiers (quick & dirty vs. slow and deliberate casting)  
+Casting Time Modifiers (quick & dirty vs. slow and deliberate casting):    
 |Modifier  |Effect                                                 |
 |----------|-------------------------------------------------------|
 |-1 Sec    |-5 to Skill (1 Sec minimum, except for blocking spells)|
 |+1 Sec    |+ 1 to skill, up to +3                                 |  
 
-Energy Modifiers (extra effort vs. phone-it-in casting)  
+Energy Modifiers (extra effort vs. phone-it-in casting):    
 |Modifier|Effect|
 |---|---|
 |-1 FP|-2 to Skill (Can’t reduce fatigue cost by more than 50%)|
@@ -71,7 +71,7 @@ By default, all spells require two-handed gestures, subtle foot motions like dan
 |Gestures with only one hand|-2 to Skill|
 |no hand gestures|-4 to Skill|  
 
-Verbal Ritual Modifiers    
+Verbal Ritual Modifiers:      
 |Modifier|Effect|
 |---|---|
 |Yelling / Screaming|+2 to Skill|
