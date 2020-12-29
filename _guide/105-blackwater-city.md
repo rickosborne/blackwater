@@ -29,7 +29,7 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 
 ## Citadel Sqaure and the Old Quarter
 
-## the East End
+## The East End
 
 ## Castle Blackwater
 
