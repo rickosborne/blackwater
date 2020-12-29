@@ -14,7 +14,7 @@ Ferton, a collection of shacks, rundown buildings, and storage yards, lies acros
 There has been debate in the City Council about levying a property tax in Ferton and / or a bridge toll to pay for enhanced policing of the area and fund needed bridge repairs.  
 
 ### Cock & Balls Inn  
-<img align="right" src="../images/Cock and Balls Sign.png" height="200">
+<img align="left" src="../images/Cock and Balls Sign.png" height="200">
 The Cock and Balls Inn is a large 2 story (plus a walkout basement) structure on the East side of the Grand Bridge in Ferton.  It is the primary location for lodging on the north side of the Blackwater, as well as a favorite meeting location for folks wishing to conduct business outside of Blackwater's watchful eyes.  The Inn has dozens of sleeping rooms of varying sizes and sleeping configurations, as well as private meeting and dinning rooms.  
 
 The Inn has a well appointed bar with an impressive selection of Shanaran and Plamarise wines, Blackwater beers, Belorum ales, and Northunder meades.  The kitchen is known for humble, but reliable and filling fare.  The staff is known for both their discretion and their lack of discretion (for the right price).  Even thought the Watch has established a garrison just across the street, they seem to be miles away, and rarely come into the Inn except in off-duty capacity.
