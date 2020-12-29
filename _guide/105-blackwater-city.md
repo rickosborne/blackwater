@@ -93,7 +93,7 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 59. Statue of The Seven (O3)
 60. Father's Gate (O2)
 
-## Alphabetical Index of Key Map Locations  
+# Alphabetical Index of Key Map Locations  
 
 -	Angry Beaver Furrier (F13)	
 -	Assembly Hall (F6)
