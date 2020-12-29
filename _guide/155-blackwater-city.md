@@ -88,66 +88,66 @@ The Cock and Balls Inn is a large 2 story (plus a walkout basement) structure on
 
 ## Alphabetical Index of Key Map Locations  
 
--	Angry Beaver Furrier [F13]	
--	Assembly Hall [F6]
--	Bazaar – Indoor Shops & Stalls [E11]
--	Black Dragon Gambling House [E8]
--	Black Lock Money Changer [J4]
--	Black Swan Company Theater House [I9]
--	Blackwater City Administration [L8]
--	Blackwater University [I9]
--	Blue Star Alchemy [K6]
--	Broach and Pendant [K4]
--	Castle Blackwater [N9]
--	City Jail [K10]
--	Cock & Balls Inn [C4]
--	Cow Gate [F13]
--	Crone's Sept [D13]
--	Dancing Pony Stables [C8]
--	Duglass Ferrier [C8]
--	Earl’s Enchanted Gardens [O9]
--	Everfull Cornucopia Tools & Supply [C11]
--	Falling Star Magic and Mysteries [M8]
--	Fat Pheasant Boyer & Fletcher [L9]
--	Father's Gate [O2]
--	Father's Sept [K6]
--	Ferton Watch Garrison [B4]
--	Fleet Armory [H6-I6]
--	Fleet Docks [H4-I4]
--	Fleet Headquarters and Barracks [H5-I5]
--	Floating Castle Lodging and Drink [M7]
--	Flying Saddle Stables & Ferrier [N3]
--	Golden Noose Comfort House [E7]
--	Gozer’s Lock & Key [I5]
--	Grand Bridge [C6]
--	Grinning Cat Curiosities [L3]
--	Hammer and Sword Smithing [M6]
--	Happy Hag Apothocary [J7]
--	Harmonious House [K10]
--	King's Gate [N11]
--	Mad Cow Leatherworks [D10] 
--	Maiden's Sept & Orphanage [E11] 
--	Main Gate [C11]
--	Merchant Docks [L3]
--	Mother’s Sept & Healing House [J8]
--	Naked Sheep Tailor [J6]
--	Old Bridge [K3]
--	Palace of Justice [J10]
--	Rose and Crown Inn [I7]
--	Sanctum Magorum [L6]
--	Silver Anvil Arms and Armor [I7]
--	Skeleton Key Books and Maps [K4]
--	Smith's Sept [G8]
--	Sore Thumb Tavern & Inn [H8]
--	Statue of The Seven [O3]
--	Steep Gate [L10]
--	Stranger's Sept [L12]
--	Warriors Sept [I11]
--	Watch Armory [J19]
--	Watch Barracks [J10]
--	Watch Citadel [J9]
--	White Mallard Public House [I6]
--	Yellow Kraken Bath House [D8]	
+-	Angry Beaver Furrier (F13)	
+-	Assembly Hall (F6)
+-	Bazaar – Indoor Shops & Stalls (E11)
+-	Black Dragon Gambling House (E8)
+-	Black Lock Money Changer (J4)
+-	Black Swan Company Theater House (I9)
+-	Blackwater City Administration (L8)
+-	Blackwater University (I9)
+-	Blue Star Alchemy (K6)
+-	Broach and Pendant (K4)
+-	Castle Blackwater (N9)
+-	City Jail (K10)
+-	Cock & Balls Inn (C4)
+-	Cow Gate (F13)
+-	Crone's Sept (D13)
+-	Dancing Pony Stables (C8)
+-	Duglass Ferrier (C8)
+-	Earl’s Enchanted Gardens (O9)
+-	Everfull Cornucopia Tools & Supply (C11)
+-	Falling Star Magic and Mysteries (M8)
+-	Fat Pheasant Boyer & Fletcher (L9)
+-	Father's Gate (O2)
+-	Father's Sept (K6)
+-	Ferton Watch Garrison (B4)
+-	Fleet Armory (H6-I6)
+-	Fleet Docks (H4-I4)
+-	Fleet Headquarters and Barracks (H5-I5)
+-	Floating Castle Lodging and Drink (M7)
+-	Flying Saddle Stables & Ferrier (N3)
+-	Golden Noose Comfort House (E7)
+-	Gozer’s Lock & Key (I5)
+-	Grand Bridge (C6)
+-	Grinning Cat Curiosities (L3)
+-	Hammer and Sword Smithing (M6)
+-	Happy Hag Apothocary (J7)
+-	Harmonious House (K10)
+-	King's Gate (N11)
+-	Mad Cow Leatherworks (D10) 
+-	Maiden's Sept & Orphanage (E11) 
+-	Main Gate (C11)
+-	Merchant Docks (L3)
+-	Mother’s Sept & Healing House (J8)
+-	Naked Sheep Tailor (J6)
+-	Old Bridge (K3)
+-	Palace of Justice (J10)
+-	Rose and Crown Inn (I7)
+-	Sanctum Magorum (L6)
+-	Silver Anvil Arms and Armor (I7)
+-	Skeleton Key Books and Maps (K4)
+-	Smith's Sept (G8)
+-	Sore Thumb Tavern & Inn (H8)
+-	Statue of The Seven (O3)
+-	Steep Gate (L10)
+-	Stranger's Sept (L12)
+-	Warriors Sept (I11)
+-	Watch Armory (J19)
+-	Watch Barracks (J10)
+-	Watch Citadel (J9)
+-	White Mallard Public House (I6)
+-	Yellow Kraken Bath House (D8)	
 
 
 
