@@ -1,5 +1,5 @@
 ---
-title: Blackwater City Details
+title: Blackwater City
 layout: default
 ---
 
