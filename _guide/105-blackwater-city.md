@@ -9,7 +9,10 @@ layout: default
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
 ## Ferton  
-Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  A city Watch garrison (#1) was established in Ferton three years ago, but hasn't done much to change the reputation of the enclave.  The garrison is typically less than a dozen men, and are primarily there to regulate commerce traffic across the bridge.  
+Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  
+
+### Garrison  
+A city Watch garrison (#1) was established in Ferton three years ago, but hasn't done much to change the reputation of the enclave.  The garrison is typically less than a dozen men, and are primarily there to regulate commerce traffic across the bridge.  
 
 There has been debate in the City Council about levying a property tax in Ferton and / or a bridge toll to pay for enhanced policing of the area and fund needed bridge repairs.  
 
