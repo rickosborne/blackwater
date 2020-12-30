@@ -25,7 +25,7 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 
 ## Main Gate and the West End  
 
-The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the 
+The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  
 
 ## Mid-Town
 
