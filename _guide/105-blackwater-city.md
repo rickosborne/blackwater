@@ -34,6 +34,7 @@ The main gate to Blackwater faces roughly west along the slow southernly bend of
 ## The East End
 
 ## Castle Blackwater
+![Castle Blackwater](../images/Castle Blackwater From Town.jpg)  
 
 ## Hill Street
 
