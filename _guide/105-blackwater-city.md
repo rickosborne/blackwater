@@ -9,7 +9,7 @@ layout: default
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
 ## Ferton  
-Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  
+Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  There are a number of homes, and  businesses in Ferton including: the Loggers Union, The Gian Halfling Smokehouse, Red Goat Tallow Shop, Griswold Millhouse, and Millastre's Glass Blowers.  
 
 ### Garrison  
 A city Watch garrison (#1) was established in Ferton three years ago, but hasn't done much to change the reputation of the enclave.  The garrison is typically less than a dozen men, and are primarily there to regulate commerce traffic across the bridge.  
@@ -23,7 +23,9 @@ The Cock and Balls Inn (#2) is a large 2 story (plus a walkout basement) structu
 
 The Inn has a well appointed bar with an impressive selection of Shanaran and Plamarise wines, Blackwater beers, Belorum ales, and Northunder meades.  The kitchen is known for humble, but reliable and filling fare.  The staff is known for both their discretion and their lack of discretion (for the right price).  Even thought the Watch has established a garrison just across the street, they seem to be miles away, and rarely come into the Inn except in off-duty capacity.
 
-## Main Gate and the West End
+## Main Gate and the West End  
+
+The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the 
 
 ## Mid-Town
 
