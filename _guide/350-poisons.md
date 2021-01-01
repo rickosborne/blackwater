@@ -18,7 +18,7 @@ For more information, see [GURPS Basic Book](http://www.sjgames.com/gurps/books/
 ## Blood Agents  
 Blood agents require injection into the victims blood stream.  This doesn't necessarily require an attack that causes damage.  In some cases, a mere prick with a seweing needle or thorn can deliver enough toxin to affect the victim.  
 
-<img src="../images/Poison-dagger.jpg" align="right">  
+<img src="../images/Poison-dagger.jpg" align="right" height="300">  
 
 ### Cobra Venom
 
