@@ -18,6 +18,8 @@ For more information, see [GURPS Basic Book](http://www.sjgames.com/gurps/books/
 ## Blood Agents  
 Blood agents require injection into the victims blood stream.  This doesn't necessarily require an attack that causes damage.  In some cases, a mere prick with a seweing needle or thorn can deliver enough toxin to affect the victim.  
 
+<img src="../images/Poison-dagger.jpg" align-"right">  
+
 ### Cobra Venom
 
 A follow-up  poison with a one- minute delay and a HT-3 roll to resist. Inflicts 2d toxic damage, repeating at hourly intervals for six cycles. A victim who loses 1/3, 1/2, or 2/3 HP has -2, -4, or -6 DX, respectively.  
@@ -95,6 +97,8 @@ Victims must make a HT roll to resist the effects which last 1d minutes.  On a f
 **Production**: Must be harvested.  Tarantula Hawks (a type of large wasp) are native to desert lands and rare except in brief rainy seasons.  
 
 $100/dose. LC 1.  
+
+<img src="../images/Poison_vials.jpg" align="right">  
 
 ## Contact Agents  
 Contact Agents are absorbed directly through the victims skin and must be cautiosly handled by the poisoner.  
