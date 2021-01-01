@@ -260,5 +260,5 @@ $20/dose. LC1.
 |Devil's Incense|Respiratory|HT-2|Immed|1 sec|1 HP|$55|
 |Dust of Sneezing & Choking|Respiratory|HT-2|Immed|special|Sneezing|$50|  
 
-----  
+<hr>
 [^1]: MoF = Margin of Failure - the difference between the success target number and the actual roll.  For example, Putrid Pete has a HT of 10, so needs to roll an 8 (HT -2) or less to resist *Poison Arrow Frog Venom*.  He rolls an 11.  His Margin of Failure is 3 (11 - 8 = 3), and therefore he suffers the effects for 3 hours.  
