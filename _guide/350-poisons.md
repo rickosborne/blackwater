@@ -247,7 +247,7 @@ $20/dose. LC1.
 |Curare|Blood|HT-2|3d sec|1d sec x 2d|Paralysis|$75|
 |Demon Ant Venom|Blood|HT-4|1d-3 sec|4d hrs|Agony|$150|
 |Jumping Spider Venom|Blood|HT|1d sec|5 min x 2d|1d toxic|$90|
-|Poison Arrow Frog Venom|Blood|HT-2|1d min|MoF[^1] (hours)|Hallucinations|$25|
+|Poison Arrow Frog Venom|Blood|HT-2|1d min|[^MoF] (hours)|Hallucinations|$25|
 |Tarantula Hawk Venom|Blood|HT|1 sec|1d min|Pain|$100|
 |Lover's Kiss|Contact|HT|3d+2 min|1 hr x 4d|Stupor|$40|
 |The Long Sleep|Contact|HT|1d sec|1 sec x 3d|1d fat|$30|
@@ -255,9 +255,10 @@ $20/dose. LC1.
 |Destroying Angels|Digestive|HT-2|4d hr|1 hr x 1d days|IQ loss|$30|
 |Hemlock|Digestive|HT|1d+14 min|(3d+6) 2 hrs|Progression|$30|
 |King's Dessert|Digestive|HT|1 hr|1 hr x 8|1d toxic|$50|
-|Poison Arrow Frog Venom|Digestive|HT-2|3d min|MoF[^1] (hours)|Hallucinations|$25|
+|Poison Arrow Frog Venom|Digestive|HT-2|3d min|[^MoF] (hours)|Hallucinations|$25|
 |Blood Berry Powder|Respiratory|HT-1|1d-1 sec|3d minutes|2 HP|$80|
 |Devil's Incense|Respiratory|HT-2|Immed|1 sec|1 HP|$55|
 |Dust of Sneezing & Choking|Respiratory|HT-2|Immed|special|Sneezing|$50|  
 
-[^1]: Margin of Failure - the difference between the success target number and the actual roll.  For example, Putrid Pete has a HT of 10, so needs to roll an 8 (HT -2) or less to resist *Poison Arrow Frog Venom*.  He rolls an 11.  His Margin of Failure is 3 (11 - 8 = 3), and therefore he suffers the effects for 3 hours.
+----
+[^MoF]: Margin of Failure - the difference between the success target number and the actual roll.  For example, Putrid Pete has a HT of 10, so needs to roll an 8 (HT -2) or less to resist *Poison Arrow Frog Venom*.  He rolls an 11.  His Margin of Failure is 3 (11 - 8 = 3), and therefore he suffers the effects for 3 hours.  
