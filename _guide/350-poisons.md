@@ -98,10 +98,10 @@ Victims must make a HT roll to resist the effects which last 1d minutes.  On a f
 
 $100/dose. LC 1.  
 
-<img src="../images/Poison_vials.jpg" align="right">  
-
 ## Contact Agents  
 Contact Agents are absorbed directly through the victims skin and must be cautiosly handled by the poisoner.  
+
+<img src="../images/Poison_vials.jpg" align="right">  
 
 ### The Long Sleep
 
