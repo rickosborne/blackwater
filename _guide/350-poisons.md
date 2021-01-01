@@ -251,7 +251,7 @@ $20/dose. LC1.
 |Tarantula Hawk Venom|Blood|HT|1 sec|1d min|Pain|$100|
 |Lover's Kiss|Contact|HT|3d+2 min|1 hr x 4d|Stupor|$40|
 |The Long Sleep|Contact|HT|1d sec|1 sec x 3d|1d fat|$30|
-|Cerbera|Digestive|HT|2d hr|Heart Attack| |$30|
+|Cerbera|Digestive|HT|2d hr| |Heart Attack|$30|
 |Destroying Angels|Digestive|HT-2|4d hr|1 hr x 1d days|IQ loss|$30|
 |Hemlock|Digestive|HT|1d+14 min|(3d+6) 2 hrs|Progression|$30|
 |King's Dessert|Digestive|HT|1 hr|1 hr x 8|1d toxic|$50|
