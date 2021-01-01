@@ -242,7 +242,7 @@ $20/dose. LC1.
 {:.eyechart}
 |Name|Type|Resist|Onset Time|Duration|Effects|Cost/dose|
 |---|---|---|---|---|---|---:|
-|[Cobra Venom]{#cobra-venom)|Blood|HT-3| 1 min|1 hr x6|2d toxic|$60|
+|Cobra Venom|Blood|HT-3| 1 min|1 hr x6|2d toxic|$60|
 |Creeping Doom|Blood|HT-3|1d-1 hours|hourly|1 toxic / 1 fat|$50|
 |Curare|Blood|HT-2|3d sec|1d sec x 2d|Paralysis|$75|
 |Demon Ant Venom|Blood|HT-4|1d-3 sec|4d hrs|Agony|$150|
