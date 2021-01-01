@@ -8,7 +8,7 @@ layout: default
 A wide variety of toxic substances are known and available in and around Blackwater.  However, they are also illegal under Blackwater laws.  The penalties for possession of poisons are typically only moderate (confiscation, fines, short duration sentences).  They use of toxins are commonly prosecuted as part of the larger crime they were part of: e.g. Murder, Attempted murder, Assault, Robbery, Burglarly, etc.  There is a specific crime against poisoning in the Blackwater legal system, but it frequently difficult to prove by itself without magical assistance, and therefore rarely prosecuted as a stand-alone crime.  
 
 In general, there are 4 classes of poisons, grouped by their delivery vector:  
-* [Blood Agents](#Blood Agents)  
+* [Blood Agents](#blood-agents)  
 *   
 
 ## Blood Agents  
