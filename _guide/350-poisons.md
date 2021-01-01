@@ -9,7 +9,11 @@ A wide variety of toxic substances are known and available in and around Blackwa
 
 In general, there are 4 classes of poisons, grouped by their delivery vector:  
 * [Blood Agents](#blood-agents)  
-*   
+* [Contact Agents](#contact-agents)  
+* [Digestive Agents](#digestive-agents)
+* [Respiratory Agents](#respiratory-agents)  
+
+For more information, see [GURPS Basic Book](http://www.sjgames.com/gurps/books/Basic/) pp.437
 
 ## Blood Agents  
 Blood agents require injection into the victims blood stream.  This doesn't necessarily require an attack that causes damage.  In some cases, a mere prick with a seweing needle or thorn can deliver enough toxin to affect the victim.  
