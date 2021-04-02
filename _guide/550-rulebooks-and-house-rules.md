@@ -35,20 +35,36 @@ In general, the following GURPS sourcebooks are recommended:
   A critical failure means you drop the ammo.  
 * Fast Draw skill exists for ammunition as well as weapons.
   Combining with the speed load skill means a player can retrieve ammo and load it into his weapon as 2 back-to-back free actions in the same round – slightly cinematic, but fun.  
+`Example: Bubba has Fast Draw (Arrow) at 13 and Speed-Load (Bow & Arrow) at 12.  If Bubba makes his Fast Draw roll he can pull an arrow out of his quiver as a free action.  If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action`
 * Players can use an unspent character point to immediately reroll any dice roll for their character.
   This includes skills, defenses, reactions, or rolls made for the player by the GM (e.g. knowledge spells / skills).
   Players may make multiple rerolls per attempted action, but each time they do the point cost doubles (1 point on the first re-roll, 2 points on the second, 4 points on the third, etc.)  
 * Alternate rules for **Move and Attack** (see B.325).  ***Melee attacks suffer a penalty of -2 one yard moved beyond the first yard (-2 for 2 yards, -4 for 3 yards, -6 for four yards, etc)***, instead of:
 >Move as described for the Move maneuver, but during or after your move, make a single, poorly aimed attack – either unarmed or with a ready weapon.
 >You attack as described for the Attack maneuver, but at a penalty.  ... If you are making a melee attack, you have a flat -4 to skill, and your adjusted skill cannot exceed 9.
-
 * Differential Size modifies for melee combat as discussed in the [GURPS FAQ &#167;3.4.2.23](http://www.sjgames.com/gurps/faq/FAQ4-3.html#SS3.4.2.23).
 > Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is.
 > The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+.
 > To correct this, a new optional rule has been introduced:
->
 > When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest.
 > However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
+ 
+### Posture and Facing (see B.364 and B.551)
+* Characters may change facing as a free action at any time, ***except*** when an attack has already been initiated against them from an undefended direction (flank or behind), or if there was no reasonable way the character could have known the attacker was in their blind spot.
+* For clarification of existing **Change Posture** rules, see table below:
+
+|From-To        |Laying Prone     |Laying Face Up   |Crawling|Kneeling|Sitting|Standing|
+|---------------|-----------------|-----------------|--------|--------|-------|--------|
+|Laying Prone   |-                |1                |1       |1       |1      |2       |
+|Laying Face Up |Free             |-                |1       |1       |1      |2       |
+|Crawling       |Free             |Free             |-       |Free    |Free   |1       |
+|Kneeling       |Free             |Free             |Free    |-       |Free   |1       |
+|Sitting        |Free             |Free             |1       |1       |-      |1       |
+|Standing       |1 or Dodge & Drop|1 or Dodge & Drop|1       |1       |1      |-       |
+
+### Expanded Extra-Effort Rules
+* All the **New Options** for **Extra Effort In Combat** desbribed on _Martial Arts_ p.131 are available.
+* Characters change between any two postures by spending FP equal to number of movement actions (see table above) required to change between postures.
 
 ### Alternate Magic Rituals
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books/magic/) P.9  
