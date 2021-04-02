@@ -8,8 +8,9 @@ layout: default
 Magic is known but uncommon in and around Blackwater.  Magic works as described in the [GURPS Magic](https://www.sjgames.com/gurps/books/magic/) source book. Most residents of Blackwater can count on one hand the number of times they’ve seen true magic done.  As a result, there is a fair bit of superstition, misunderstanding, and misperceptions about mages among the general population.  
 
 ## Order of the Magi
-
-The roughly 300 Mages known to live in Blackwater banded together over a century ago to form the Order of the Magi.  The Order serves 3 primary purposes: 
+{:.float-right}
+![Mages](../images/Order of the Magi.png)
+The roughly 300 Mages known to live in Blackwater banded together over a century ago to form the Order of the Magi (pronounced ma · jai).  The Order serves 3 primary purposes: 
 1.	Mutual protection of mages from suspicious and distrustful non-mages, especially the Faith of the Seven.  
 2.	Education and exchange of magical knowledge among its members.  
 3.	Regulation and policing of magical practices in and around Blackwater, particularly to prevent unwanted backlash from non-magical people.  
