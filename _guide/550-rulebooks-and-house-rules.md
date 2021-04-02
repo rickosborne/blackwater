@@ -67,8 +67,8 @@ In general, the following GURPS sourcebooks are recommended:
 
 ### Expanded Extra-Effort Rules
 * All the **New Options** for **Extra Effort In Combat** desbribed on _Martial Arts_ p.131 are available.
-* Characters change between any two postures by spending FP equal to number of movement actions (see table above) required to change between postures.
-* Characters may spend a FP to automatically fast draw a weapon
+* Characters change between any two postures as a _Free Action_ by spending FP equal to number of movement actions (see table above) required to change between postures.
+* Characters may spend a FP to automatically fast draw a weapon.
 
 ### Alternate Magic Rituals
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books/magic/) P.9  
