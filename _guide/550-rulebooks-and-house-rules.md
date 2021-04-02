@@ -57,7 +57,7 @@ Casting Time Modifiers (quick & dirty vs. slow and deliberate casting):
   
 |Modifier  |Effect                                                 |
 |----------|-------------------------------------------------------|
-|-1 Sec    |-5 to Skill (1 Sec minimum, except for blocking spells)|
+|-1 Sec    |-3 to Skill (1 Sec minimum, except for blocking spells)|
 |+1 Sec    |+ 1 to skill, up to +3                                 |  
 
 Energy Modifiers (extra effort vs. phone-it-in casting):    
