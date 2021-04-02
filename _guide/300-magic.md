@@ -8,7 +8,7 @@ layout: default
 Magic is known but uncommon in and around Blackwater.  Magic works as described in the [GURPS Magic](https://www.sjgames.com/gurps/books/magic/) source book. Most residents of Blackwater can count on one hand the number of times they’ve seen true magic done.  As a result, there is a fair bit of superstition, misunderstanding, and misperceptions about mages among the general population.  
 
 ## Order of the Magi
-<img src="../images/Order of the Magi.png" width="200" align="right">
+<img src="../images/Order of the Magi.png" width="200" align="left">
 
 The roughly 300 Mages known to live in Blackwater banded together over a century ago to form the Order of the Magi (pronounced _ma · jai_).  The Order serves 3 primary purposes: 
 1.	Mutual protection of mages from suspicious and distrustful non-mages, especially the Faith of the Seven.  
@@ -36,10 +36,14 @@ Magi Ranks & Robes
 There is an additional rank of Arch-Magi that is elected from among the Magi to serve as the magical advisor to the Earl of Blackwater.
 Initiates, Novices, and Disciples are commonly apprentices to Adepts, Mavens, and Enchanters, although these relationships are subtle, subjective and determined largely on a case-by-case basis by the personalities involved.  
 
-Members of the Order also wear symbols on their robes signifying each college that they have mastered.  A mage is considered a Master of a college when they demonstrate they can cast the most complex and challenging spells from that college with no ritual.  “Grand Master” is a title reserved for a mage that has mastered at least 10 colleges of Magic.  Being a Master of a college, or being a Grand Master, is different from the Ranks of the members of the order.  For example, a mage might only be an Adept member of the Order but could also be a Master of the Water College.  There are currently no Grand Masters, and only a few Masters within the Order.  The spells that mus be cast with _no ritual_ for each college are:
+Members of the Order also wear symbols on their robes signifying each college that they have mastered.  A mage is considered a **Master** of a college when they demonstrate they can cast the most complex and challenging spells from that college with no ritual.  **Grand Master** is a title reserved for a mage that has mastered at least 10 colleges of Magic.  Being a Master of a college, or being a Grand Master, is different from the Ranks of the members of the order.  For example, a mage might only be an Adept member of the Order but could also be a Master of the Water College.  There are currently no Grand Masters, and only a few Masters within the Order.  The spells that mus be cast with _no ritual_ for each college are:
 * **Air:** Cast _Body of Wind_ and maintain it while casting a _Explosive Lightning, Ball of Lightning,_ or _Wall of Lightning_.
-* **Animal:** Great Shapeshift through at least 4 forms and _Rider Within_.
+* **Animal:** _Great Shapeshift_ through at least 4 forms and _Rider Within_.
 * **Body Control:** _Trasnmogrification_
+* **Communication & Empathy:** _Posession_ and _Compel Truth_ from the body possessed
+* **Earth:** Cast _Body of Stone_ and while maintaining it, cast _Essential Earth_
+* **Fire:** _Body of Flames_ and _Flaming Weapon_
+* **Gate:**
 
 Being a member of the Order of the Magi has both benefits and drawbacks.  It costs 10 points to be a member of the Order.  
 
