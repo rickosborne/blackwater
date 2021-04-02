@@ -53,10 +53,10 @@ In general, the following GURPS sourcebooks are recommended:
 * Characters may change facing as a free action at any time, ***except*** when an attack has already been initiated against them from an undefended direction (flank or behind), or if there was no reasonable way the character could have known the attacker was in their blind spot.
 * For clarification of existing **Change Posture** rules, see table below:
 
-|From -->To     |Laying Prone     |Laying Face Up   |Crawling|Kneeling|Sitting|Standing|
+|From -->To     |Prone            |Face Up          |Crawling|Kneeling|Sitting|Standing|
 |---------------|-----------------|-----------------|--------|--------|-------|--------|
-|Laying Prone   |-                |1                |1       |1       |1      |2       |
-|Laying Face Up |Free             |-                |1       |1       |1      |2       |
+|Prone          |-                |1                |1       |1       |1      |2       |
+|Face Up        |Free             |-                |1       |1       |1      |2       |
 |Crawling       |Free             |Free             |-       |Free    |Free   |1       |
 |Kneeling       |Free             |Free             |Free    |-       |Free   |1       |
 |Sitting        |Free             |Free             |1       |1       |-      |1       |
