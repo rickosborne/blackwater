@@ -19,9 +19,8 @@ The Order requires all magically active people, with the exception of Elves, to 
 
 The order ranks its members based on their magical ability and assigns color coded robes for each rank.  The exact style of the robes is up to the individual mage; however, 3 basic styles are the most common: cassock / soutane, surcoat, or a hooded robe.  At each ascension ceremony marking the transition to the next rank, the mage is permanently Mystic Marked (M.119) by the presiding Magi, so that even when out of his robes, other mages will be able to tell his Order membership and rank.  Failing to wear appropriate robes when in public, or at Order functions, is frowned upon and scrutinized, but not, technically, against any rules of the order.  
 
-{:.float-right}
-![Mages](../images/Mages.png)
-
+<div class="row">
+  <div class="column">
 Magi Ranks & Robes
 
 * Neophyte - Red  
@@ -32,6 +31,13 @@ Magi Ranks & Robes
 * Maven - Purple  
 * Enchanter - Grey  
 * Magi - Black   
+  </div> 
+  <div class="column">
+{:.float-right}
+![Mages](../images/Mages.png)
+  </div>
+
+
   
 There is an additional rank of Arch-Magi that is elected from among the Magi to serve as the magical advisor to the Earl of Blackwater.
 Initiates, Novices, and Disciples are commonly apprentices to Adepts, Mavens, and Enchanters, although these relationships are subtle, subjective and determined largely on a case-by-case basis by the personalities involved.  
