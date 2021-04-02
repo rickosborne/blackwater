@@ -38,7 +38,8 @@ In general, the following GURPS sourcebooks are recommended:
 
 **Example:**
 > Bubba has Fast Draw (Arrow) at 13 and Speed-Load (Bow & Arrow) at 12.  If Bubba makes his Fast Draw roll he can pull an arrow out of his quiver as a free action.  
->If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action
+>If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action.
+
 * Players can use an unspent character point to immediately reroll any dice roll for their character.
   This includes skills, defenses, reactions, or rolls made for the player by the GM (e.g. knowledge spells / skills).
   Players may make multiple rerolls per attempted action, but each time they do the point cost doubles (1 point on the first re-roll, 2 points on the second, 4 points on the third, etc.)  
