@@ -35,7 +35,6 @@ In general, the following GURPS sourcebooks are recommended:
   A critical failure means you drop the ammo.  
 * Fast Draw skill exists for ammunition as well as weapons.
   Combining with the speed load skill means a player can retrieve ammo and load it into his weapon as 2 back-to-back free actions in the same round – slightly cinematic, but fun.  
-
 **Example:**
 > Bubba has Fast Draw (Arrow) at 13 and Speed-Load (Bow & Arrow) at 12.  If Bubba makes his Fast Draw roll he can pull an arrow out of his quiver as a free action.  
 >If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action.
