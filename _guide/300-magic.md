@@ -36,7 +36,10 @@ Magi Ranks & Robes
 There is an additional rank of Arch-Magi that is elected from among the Magi to serve as the magical advisor to the Earl of Blackwater.
 Initiates, Novices, and Disciples are commonly apprentices to Adepts, Mavens, and Enchanters, although these relationships are subtle, subjective and determined largely on a case-by-case basis by the personalities involved.  
 
-Members of the Order also wear symbols on their robes signifying each college that they have mastered.  Mastering a given college means that the mage can cast at least 10 spells from that college and can cast at least 3 of those spells can be cast with no ritual (at level 20).  “Grand Master” is a title reserved for a mage that has mastered at least 10 colleges of Magic.  Being a Master of a college, or being a Grand Master, is different from the Ranks of the members of the order.  For example, a mage might only be an Adept member of the Order but could also be a Master of the Water College.  There are currently no Grand Masters, and only a few Masters within the Order.  
+Members of the Order also wear symbols on their robes signifying each college that they have mastered.  A mage is considered a Master of a college when they demonstrate they can cast the most complex and challenging spells from that college with no ritual.  “Grand Master” is a title reserved for a mage that has mastered at least 10 colleges of Magic.  Being a Master of a college, or being a Grand Master, is different from the Ranks of the members of the order.  For example, a mage might only be an Adept member of the Order but could also be a Master of the Water College.  There are currently no Grand Masters, and only a few Masters within the Order.  The spells that mus be cast with _no ritual_ for each college are:
+* **Air:** Cast _Body of Wind_ and maintain it while casting a _Explosive Lightning, Ball of Lightning,_ or _Wall of Lightning_.
+* **Animal:** Great Shapeshift through at least 4 forms and _Rider Within_.
+* **Body Control:** _Trasnmogrification_
 
 Being a member of the Order of the Magi has both benefits and drawbacks.  It costs 10 points to be a member of the Order.  
 
