@@ -52,7 +52,7 @@ In general, the following GURPS sourcebooks are recommended:
  
 ### Posture and Facing (see B.364 and B.551)
 * Characters may change facing as a free action at any time, ***except*** when an attack has already been initiated against them from an undefended direction (flank or behind), or if there was no reasonable way the character could have known the attacker was in their blind spot.
-* For clarification of existing **Change Posture** rules, see table below:
+* For clarification of existing **Change Posture** rules, the table below summarizes the number of movements a character must spend to change between postures:
 
 |From -->To     |Prone            |Face Up          |Crawling|Kneeling|Sitting|Standing|
 |---------------|-----------------|-----------------|--------|--------|-------|--------|
