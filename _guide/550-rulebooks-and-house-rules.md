@@ -83,12 +83,11 @@ Or +/-20% of base casting time if that is greater than 1 second.
 
 Energy Modifiers (extra effort vs. phone-it-in casting):    
   
-|Modifier|Effect|
-|---|---|
-|-1 FP|-2 to Skill (Can’t reduce fatigue cost by more than 50%)|
-|+1 FP|+ 1 to skill, up to +3|
+|Modifier|Effect                                                  |
+|--------|--------------------------------------------------------|
+|-1 FP   |-2 to Skill (Can’t reduce fatigue cost by more than 50%)|
+|+1 FP   |+ 1 to skill, up to +3                                  |
 
- 
 Physical Ritual Modifiers (Macarena vs. Plank casting):  
 By default, all spells require two-handed gestures, subtle foot motions like dance steps, and a clearly spoken incantation.  
   
