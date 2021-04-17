@@ -25,6 +25,9 @@ The Cock and Balls Inn (#2) is a large 2 story (plus a walkout basement) structu
 
 The Inn has a well appointed bar with an impressive selection of Shanaran and Plamarise wines, Blackwater beers, Belorum ales, and Northunder meades.  The kitchen is known for humble, but reliable and filling fare.  The staff is known for both their discretion and their lack of discretion (for the right price).  Even thought the Watch has established a garrison just across the street, they seem to be miles away, and rarely come into the Inn except in off-duty capacity.
 
+<img align="center" src="../imges/Cock and Balls Map.png">  
+
+
 ## Main Gate and the West End  
 
 The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  
