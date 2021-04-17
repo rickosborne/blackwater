@@ -79,7 +79,7 @@ These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](
 |----------|-------------------------------------------------------|
 |-1 Sec    |-3 to Skill (1 Sec minimum, except for blocking spells)|
 |+1 Sec    |+ 1 to skill, up to +3                                 |
-|Or +/-20% of base casting time if that is greater than 1 second.  |
+|Or +/-20% of base casting time if that is greater than 1 second. ||
 
 
 **Energy Modifiers** (extra effort vs. phone-it-in casting):    
