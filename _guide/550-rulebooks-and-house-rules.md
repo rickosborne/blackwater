@@ -73,7 +73,7 @@ In general, the following GURPS sourcebooks are recommended:
 ### Alternate Magic Rituals
 These are an expansion of the Optional Rule: Alternate Magic Rituals on [Magic](https://www.sjgames.com/gurps/books/magic/) P.9  
 
-**Casting Time Modifiers** (quick & dirty vs. slow and deliberate casting): 
+**Casting Time Modifiers** (quick & dirty vs. slow and deliberate casting):
 Casting time modifiers may be applied in increments of 1 second for spells whose casting time is less than 10 seconds.  For spells whose casting time is greater than 10 seconds each level of bonus or penalty changes the casting time by 10%.
 
 |Modifier         |Effect                                                 |
