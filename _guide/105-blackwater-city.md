@@ -6,7 +6,7 @@ layout: default
 
 # Blackwater City  
 
-<font color-"red" face="bold">UNDER CONSTRUCTION</font>  
+<font color="red" face="bold">UNDER CONSTRUCTION</font>  
 
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
