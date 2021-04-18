@@ -92,7 +92,25 @@ Notable businesses and locations in **Mid-Town** include:
 * Sore Thumb Tavern & Inn (#22, H8)
 * Gozer’s Lock & Key (#23, I5)
 
-## Citadel Sqaure 
+## Citadel Sqaure  
+The buildings around Citadel Square are typically newer, expensive, and well maintained.  This district is home to a number of larger, newer, and imposingly designed buildings demonstrating the newer wealth and importance Blackwater has developed of the past few decades.
+
+![Citadel Square](../maps/Citadel Square Map.png){:.center}  
+
+Noteable locations around Citadel Square include:  
+* Silver Anvil Arms and Armor (#25, I7)
+* Rose and Crown Inn (#26, I7)
+* Black Swan Company Theater House (#27, I9)
+* Blackwater University (#28, I9)
+* Warriors Sept (#29, I11)
+* Watch Barracks (#30, J10)
+* Watch Citadel (#31, J9)
+* Watch Armory (#32, J19)
+* Palace of Justice (#33, J10)
+* Harmonious House (#34, K10)
+* City Jail (#35, K10)
+* Mother’s Sept & Healing House (#36, J8)
+
 
 ## The Old Quarter
 
