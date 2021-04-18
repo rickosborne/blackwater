@@ -52,19 +52,19 @@ Off to the side of the gate, on the outside of the city, is a station where they
 
 ### West End  
 The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  Anumber of well known estalbishments can be found in the West End, including:
-5. Duglass Ferrier (C8)
-6. Dancing Pony Stables (C8)
-7. Yellow Kraken Bath House (D8) 
-8. Mad Cow Leatherworks (D10) 
-9. Everfull Cornucopia Tools & Supply (C11)
-10. Crone's Sept (D13)
-11. Bazaar – Indoor Shops & Stalls (E11)
-12. Maiden's Sept & Orphanage (E11) 
-13. Angry Beaver Furrier (F13) 
-14. Cow Gate (F13)
-15. Black Dragon Gambling House (E8)
-16. Golden Noose Comfort House (E7)
-
+5. Duglass Ferrier (C8)  
+6. Dancing Pony Stables (C8)  
+7. Yellow Kraken Bath House (D8)   
+8. Mad Cow Leatherworks (D10)   
+9. Everfull Cornucopia Tools & Supply (C11)  
+10. Crone's Sept (D13)  
+11. Bazaar – Indoor Shops & Stalls (E11)  
+12. Maiden's Sept & Orphanage (E11)   
+13. Angry Beaver Furrier (F13)   
+14. Cow Gate (F13)  
+15. Black Dragon Gambling House (E8)  
+16. Golden Noose Comfort House (E7)  
+  
 
 ####Douglas Ferrier (#5)  
 
