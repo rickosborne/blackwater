@@ -11,6 +11,8 @@ layout: default
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
 ## Ferton  
+<img align="right" src="../images/Ferton Map.png" height="400">  
+
 Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  There are a number of homes, and  businesses in Ferton including: the Loggers Union, The Giant Halfling Smokehouse, Red Goat Tallow Shop, Griswold Millhouse, and Millastre's Glass Blowers.  
 
 ### Garrison  
@@ -29,8 +31,19 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 
 
 ## Main Gate and the West End  
+The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  The gate is typically manned by a dozen guards monitoring people coming and going in the City.  The wall is roughly 10 yards thick and the main gate tunnel has a strong steel portcullis at both ends.  In addition to the dozen guards that man the main gate entrance tunnel, another dozen man the towers and battlements  atop walls.
 
-The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  
+Off to the side of the gate, on the outside of the city, is a station where they:  
+* Verify licenses for horses, wagons, and weapons
+* Inspect possible enchanted items
+* Question any suspiciouos looking travellers
+* Peacebond weapons
+
+The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings
+
+###Everfull Cornicopia  
+
+Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  Other noteable establishments. 
 
 ## Mid-Town
 
