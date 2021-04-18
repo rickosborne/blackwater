@@ -17,7 +17,7 @@ Autumn’s are typically windy and chilly with spectacular changes in foliage co
 Winter is cold and damp with a mix of snow and rain.
 Spring is usually wet and muddy with beautiful flowers.
 
-A wealthy, walled town of approximately 30,000 residents, the City of Blackwater controls a strategic point where the River Blackwater passes through low but steep hills in its transition from the fertile plains out the Covari coast.
+A wealthy, walled town of approximately 30,000 residents, the [City of Blackwater](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html) controls a strategic point where the River Blackwater passes through low but steep hills in its transition from the fertile plains out the Covari coast.
 Boasting many large churches and temples, cobblestone streets, and an impressive castle on the hillside overlooking the city, Blackwater is a prosperous river-side trading center with most of its buildings being 2-3 story stone structures with plaster facades and tile roofs.
 
 Blackwater serves as the cultural, military, and political center for the surrounding area encompassing nearly 2,500 square miles.
