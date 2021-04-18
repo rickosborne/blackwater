@@ -12,8 +12,8 @@ The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-intr
 * [Ferton](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#ferton)
 * [West End and Main Gate](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#main-gate-and-the-west-end)
 * [Mid Town](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#mid-town)
-* [Old Quarter](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#old-warter)
 * [Citadel Square](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#citadel-square)
+* [Old Quarter](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#old-warter)
 * [Hill Street](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#hill-street)
 * [The Warfs](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#the-warfs)
 * [Under-Castle](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#under-castle)  
@@ -77,10 +77,15 @@ The West End is generally considered to be the area within the walls between the
 
 Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
+## The Old Quarter
+<img align="center" src="../maps/Mid-Quarter Map.png" width="600">  
+
+The Old Quarter is, as the name implies, the oldest section of Blackwater.  The buildings tend to be smaller and more cramped together than in the rest of the city.  The poorest residents of Blackwater tend to live in this district.  The boundaries of the Old Quarter are somewhat irregular, defined in the West by a path along **Fleet Street** south to **Main Street**, then West to **Sweet Street** and along **Mother's Way** to **Privet Drive**.  The southern boundary of **The Old Quarter** followis **Justive Street** to **High Street** and back to **Main Street**.  The distrect ends along Merchant Lane in the East and **Blackwater Ave** / **The Warfs** in the North.
+
 ## Mid-Town
 <img align="right" src="../maps/Mid-Town Map.png" height="400">  
 
-Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street** to the north of **Main Street**, and **University Way** or **Hall Street**, bepending on who you ask.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being largely clustered along **Main Street**.
+Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street**, depending on who you askm to the north of **Main Street**, and **University Way**,.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being mainly clustered along **Main Street**.
 
 Notable businesses and locations in **Mid-Town** include:  
 * Assembly Hall (#17, F6)
@@ -89,9 +94,6 @@ Notable businesses and locations in **Mid-Town** include:
 * Fleet Armory (#21, H6-I6)
 * Sore Thumb Tavern & Inn (#22, H8)
 * Gozer’s Lock & Key (#23, I5)
-
-## The Old Quarter
-The Old Quarter is, as the name implies, the oldest section of Blackwater.  The buildings tend to be smaller and more cramped together than in the rest of the city.  The poorest residents of Blackwater tend to live in this district.  The boundaries of the Old Quarter are somewhat irregular, defined in the West by a path along **Fleet Street** south to **Main Street**, then West to **Sweet Street** and along **Mother's Way** to **Privet Drive**.  The southern boundary of **The Old Quarter** followis **Justive Street** to **High Street** and back to **Main Street**.  The distrect ends along Merchant Lane in the East and **Blackwater Ave** / **The Warfs** in the North.
 
 ## Citadel Sqaure 
 
