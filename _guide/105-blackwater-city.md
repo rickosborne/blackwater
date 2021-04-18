@@ -38,7 +38,7 @@ The Cock and Balls Inn (#2) is a large 2 story (plus a walkout basement) structu
 
 The Inn has a well appointed bar with an impressive selection of Shanaran and Plamarise wines, Blackwater beers, Belorum ales, and Northunder meades.  The kitchen is known for humble, but reliable and filling fare.  The staff is known for both their discretion and their lack of discretion (for the right price).  Even thought the Watch has established a garrison just across the street, they seem to be miles away, and rarely come into the Inn except in off-duty capacity.
 
-[!Cock and Balls Public Room]("../images/Cock and Balls Map.png"){:.float-center}
+![Cock and Balls Public Room]("../images/Cock and Balls Map.png"){:.float-center}
 
 
 ## Main Gate and the West End 
@@ -53,7 +53,7 @@ Off to the side of the gate, on the outside of the city, is a station where they
 * Peacebond weapons
 
 ### West End  
-[!West End]("../maps/West End Map.png"){:.float-right}   
+![West End]("../maps/West End Map.png"){:.float-right}   
 
 The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  Anumber of well known estalbishments can be found in the West End, including:  
 * Duglass Ferrier (#5, C8)  
