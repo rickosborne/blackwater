@@ -53,9 +53,11 @@ Off to the side of the gate, on the outside of the city, is a station where they
 * Peacebond weapons
 
 ### West End  
-![West End](../maps/West End Map.png){:.float-right}   
+The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  
 
-The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  Anumber of well known estalbishments can be found in the West End, including:  
+![West End](../maps/West End Map.png){:.center}   
+
+A number of well known estalbishments can be found in the West End, including:  
 * Duglass Ferrier (#5, C8)  
 * Dancing Pony Stables (#6, C8)  
 * Yellow Kraken Bath House (#7, D8)   
