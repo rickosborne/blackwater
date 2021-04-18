@@ -20,7 +20,7 @@ The city of Blackwater is informally divided into a number of disctricts or sect
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
 ## Ferton  
-<img align="right" src="../maps/Ferton Map.png" height="2500">  
+<img align="right" src="../maps/Ferton Map.png" height="250">  
 
 Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  There are a number of homes, and  businesses in Ferton including: the Loggers Union, The Giant Halfling Smokehouse, Red Goat Tallow Shop, Griswold Millhouse, and Millastre's Glass Blowers.  
 
