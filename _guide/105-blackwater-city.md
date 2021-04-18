@@ -38,7 +38,7 @@ The Cock and Balls Inn (#2) is a large 2 story (plus a walkout basement) structu
 
 The Inn has a well appointed bar with an impressive selection of Shanaran and Plamarise wines, Blackwater beers, Belorum ales, and Northunder meades.  The kitchen is known for humble, but reliable and filling fare.  The staff is known for both their discretion and their lack of discretion (for the right price).  Even thought the Watch has established a garrison just across the street, they seem to be miles away, and rarely come into the Inn except in off-duty capacity.
 
-![Cock and Balls Public Room](../images/Cock and Balls Map.png){:.float-center}
+<img src="../images/Cock and Balls Map.png" align="center" width="90%">
 
 
 ## Main Gate and the West End 
