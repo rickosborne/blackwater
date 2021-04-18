@@ -41,7 +41,9 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 
 ## Main Gate and the West End 
 
-###Main Gate (#4)  
+<img align="right" src="../maps/West End Map.png" height="250">  
+
+### Main Gate (#4)  
 The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  The gate is typically manned by a dozen guards monitoring people coming and going in the City.  The wall is roughly 10 yards thick and the main gate tunnel has a strong steel portcullis at both ends.  In addition to the dozen guards that man the main gate entrance tunnel, another dozen man the towers and battlements  atop walls.
 
 Off to the side of the gate, on the outside of the city, is a station where they:  
@@ -66,10 +68,10 @@ The West End is generally considered to be the area within the walls between the
 16. Golden Noose Comfort House (E7)  
   
 
-####Douglas Ferrier (#5)  
+#### Douglas Ferrier (#5)  
 
 
-####Everfull Cornicopia (#9)
+#### Everfull Cornicopia (#9)
 
 Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
