@@ -8,7 +8,7 @@ layout: default
 
 <font color="red" style="bold">UNDER CONSTRUCTION</font>  
 
-The city of Blackwater is informally divided into a number of disctricts or sections:
+The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-introduction.html) is informally divided into a number of disctricts or sections:
 * West End and Main Gate
 * Mid Town
 * Old Quarter
@@ -51,7 +51,7 @@ Off to the side of the gate, on the outside of the city, is a station where they
 * Peacebond weapons
 
 ### West End  
-<img align="right" src="../maps/West End Map.png" height="500">   
+<img align="right" src="../maps/West End Map.png" height="400">   
 
 The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  Anumber of well known estalbishments can be found in the West End, including:  
 * Duglass Ferrier (#5, C8)  
