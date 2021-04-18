@@ -10,8 +10,8 @@ layout: default
 
 The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-introduction.html) is informally divided into a number of disctricts or sections:
 * [Ferton](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#ferton)
-* [West End and Main Gate](https://github.com/rickosborne/blackwater/blob/main/_guide/105-blackwater-city.md#main-gate-and-the-west-end)
-* [Mid Town](https://github.com/rickosborne/blackwater/blob/main/_guide/105-blackwater-city.md#mid-town)
+* [West End and Main Gate](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#main-gate-and-the-west-end)
+* [Mid Town](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#mid-town)
 * Old Quarter
 * Citadel Square
 * Hill Street
