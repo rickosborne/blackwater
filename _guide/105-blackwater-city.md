@@ -78,7 +78,9 @@ The West End is generally considered to be the area within the walls between the
 Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
 ## Mid-Town
-Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street** to the north of **Main Street**, and **University Way** or **Hall Street**, bepending on who you ask.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being largely clustered along **Maint Street**.
+<img align="right" src="../maps/West End Map.png" height="400">  
+
+Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street** to the north of **Main Street**, and **University Way** or **Hall Street**, bepending on who you ask.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being largely clustered along **Main Street**.
 
 Notable businesses and locations in **Mid-Town** include:  
 * Assembly Hall (#17, F6)
