@@ -16,6 +16,7 @@ The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-intr
 * Citadel Square
 * Hill Street
 * The Warfs
+* Under-Castle  
 * The Castle
 
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
@@ -78,9 +79,15 @@ Located just inside the main gate is are a cluster of shops and apartments.  The
 
 ## Mid-Town
 
-## Citadel Sqaure and the Old Quarter
+## The Old Quarter
 
-## The East End
+## Citadel Sqaure 
+
+## Hill Street
+
+## The Warfs
+
+## Under-Castle
 
 ## Castle Blackwater
 ![Castle Blackwater](../images/Castle Blackwater From Town.jpg)  
