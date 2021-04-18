@@ -80,6 +80,14 @@ Located just inside the main gate is are a cluster of shops and apartments.  The
 ## Mid-Town
 Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street** to the north of **Main Street**, and **University Way** or **Hall Street**, bepending on who you ask.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being largely clustered along **Maint Street**.
 
+Notable businesses and locations in **Mid-Town** include:  
+* Assembly Hall (#17, F6)
+* Smith's Sept (#18, G8)
+* Fleet Headquarters and Barracks (#20, H5-I5)
+* Fleet Armory (#21, H6-I6)
+* Sore Thumb Tavern & Inn (#22, H8)
+* Gozer’s Lock & Key (#23, I5)
+
 ## The Old Quarter
 The Old Quarter is, as the name implies, the oldest section of Blackwater.  The buildings tend to be smaller and more cramped together than in the rest of the city.  The poorest residents of Blackwater tend to live in this district.  The boundaries of the Old Quarter are somewhat irregular, defined in the West by a path along **Fleet Street** south to **Main Street**, then West to **Sweet Street** and along **Mother's Way** to **Privet Drive**.  The southern boundary of **The Old Quarter** followis **Justive Street** to **High Street** and back to **Main Street**.  The distrect ends along Merchant Lane in the East and **Blackwater Ave** / **The Warfs** in the North.
 
