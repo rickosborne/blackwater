@@ -78,11 +78,12 @@ The West End is generally considered to be the area within the walls between the
 Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
 ## The Old Quarter
-<img align="center" src="../maps/Old-Quarter Map.png" width="700">  
 
 The Old Quarter is, as the name implies, the oldest section of Blackwater.  The buildings tend to be smaller and more cramped together than in the rest of the city.  The poorest residents of Blackwater tend to live in this district.  
 
 The boundaries of the Old Quarter are somewhat irregular, defined in the West by a path along **Fleet Street** south to **Main Street**, then West to **Sweet Street** and along **Mother's Way** to **Privet Drive**.  The southern boundary of **The Old Quarter** followis **Justive Street** to **High Street** and back to **Main Street**.  The distrect ends along Merchant Lane in the East and **Blackwater Ave** / **The Warfs** in the North.
+
+<img align="center" src="../maps/Old-Quarter Map.png" width="700">  
 
 The **Old Quarter** contains a number of noteable Blackwater locations:
 * White Mallard Public House (#24, I6)
