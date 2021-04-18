@@ -6,7 +6,7 @@ layout: default
 
 # The City of Blackwater   
 
-<font color="red" style="bold">UNDER CONSTRUCTION</font>  
+<font color="red">UNDER CONSTRUCTION</font>{:.bold}  
 
 The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-introduction.html) is informally divided into a number of disctricts or sections:
 * [Ferton](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#ferton)
