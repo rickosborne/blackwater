@@ -41,8 +41,6 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 
 ## Main Gate and the West End 
 
-<img align="right" src="../maps/West End Map.png" height="500">  
-
 ### Main Gate (#4)  
 The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  The gate is typically manned by a dozen guards monitoring people coming and going in the City.  The wall is roughly 10 yards thick and the main gate tunnel has a strong steel portcullis at both ends.  In addition to the dozen guards that man the main gate entrance tunnel, another dozen man the towers and battlements  atop walls.
 
@@ -53,6 +51,8 @@ Off to the side of the gate, on the outside of the city, is a station where they
 * Peacebond weapons
 
 ### West End  
+<img align="right" src="../maps/West End Map.png" height="500">   
+
 The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  Anumber of well known estalbishments can be found in the West End, including:  
 * Duglass Ferrier (#5, C8)  
 * Dancing Pony Stables (#6, C8)  
