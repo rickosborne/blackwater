@@ -41,7 +41,7 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 
 ## Main Gate and the West End 
 
-<img align="right" src="../maps/West End Map.png" height="250">  
+<img align="right" src="../maps/West End Map.png" height="350">  
 
 ### Main Gate (#4)  
 The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  The gate is typically manned by a dozen guards monitoring people coming and going in the City.  The wall is roughly 10 yards thick and the main gate tunnel has a strong steel portcullis at both ends.  In addition to the dozen guards that man the main gate entrance tunnel, another dozen man the towers and battlements  atop walls.
