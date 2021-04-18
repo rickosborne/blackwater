@@ -79,6 +79,21 @@ A number of well known estalbishments can be found in the West End, including:
 
 Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
+## Mid-Town
+![Mid-Town](../maps/Mid-Town Map.png){:.center}  
+
+Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street**, depending on who you askm to the north of **Main Street**, and **University Way**,.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being mainly clustered along **Main Street**.
+
+Notable businesses and locations in **Mid-Town** include:  
+* Assembly Hall (#17, F6)
+* Smith's Sept (#18, G8)
+* Fleet Headquarters and Barracks (#20, H5-I5)
+* Fleet Armory (#21, H6-I6)
+* Sore Thumb Tavern & Inn (#22, H8)
+* Gozer’s Lock & Key (#23, I5)
+
+## Citadel Sqaure 
+
 ## The Old Quarter
 
 The Old Quarter is, as the name implies, the oldest section of Blackwater.  The buildings tend to be smaller and more cramped together than in the rest of the city.  The poorest residents of Blackwater tend to live in this district.  
@@ -100,21 +115,6 @@ The Old Quarter contains a number of noteable Blackwater locations:
 * Broach and Pendant (#45, K4)
 * Grinning Cat Curiosities (#46, L3)
 * Sanctum Magorum (#47, L6)
-
-## Mid-Town
-![Mid-Town](../maps/Mid-Town Map.png){:.center}  
-
-Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street**, depending on who you askm to the north of **Main Street**, and **University Way**,.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being mainly clustered along **Main Street**.
-
-Notable businesses and locations in **Mid-Town** include:  
-* Assembly Hall (#17, F6)
-* Smith's Sept (#18, G8)
-* Fleet Headquarters and Barracks (#20, H5-I5)
-* Fleet Armory (#21, H6-I6)
-* Sore Thumb Tavern & Inn (#22, H8)
-* Gozer’s Lock & Key (#23, I5)
-
-## Citadel Sqaure 
 
 ## Hill Street
 
