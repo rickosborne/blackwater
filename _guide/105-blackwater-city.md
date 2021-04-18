@@ -78,7 +78,7 @@ The West End is generally considered to be the area within the walls between the
 Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
 ## The Old Quarter
-<img align="left" src="../maps/Old-Quarter Map.png" width="600">  
+<img align="center" src="../maps/Old-Quarter Map.png" width="700">  
 
 The Old Quarter is, as the name implies, the oldest section of Blackwater.  The buildings tend to be smaller and more cramped together than in the rest of the city.  The poorest residents of Blackwater tend to live in this district.  
 
