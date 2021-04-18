@@ -6,12 +6,21 @@ layout: default
 
 # Blackwater City  
 
-<font color="red" face="bold">UNDER CONSTRUCTION</font>  
+<font color="red" style="bold">UNDER CONSTRUCTION</font>  
+
+The city of Blackwater is informally divided into a number of disctricts or sections:
+* West End and Main Gate
+* Mid Town
+* Old Quarter
+* Citadel Square
+* Hill Street
+* The Warfs
+* The Castle
 
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
 ## Ferton  
-<img align="right" src="../maps/Ferton Map.png" height="400">  
+<img align="right" src="../maps/Ferton Map.png" height="2500">  
 
 Ferton, a collection of shacks, rundown buildings, and storage yards, lies across the river from the city of Blackwater. Originally a ferry landing for people heading north out of the city, Ferton has become the slum of Blackwater, where the city watch turns a blind eye.  There are a number of homes, and  businesses in Ferton including: the Loggers Union, The Giant Halfling Smokehouse, Red Goat Tallow Shop, Griswold Millhouse, and Millastre's Glass Blowers.  
 
@@ -30,7 +39,9 @@ The Inn has a well appointed bar with an impressive selection of Shanaran and Pl
 <img align="center" src="../images/Cock and Balls Map.png" width="800">  
 
 
-## Main Gate and the West End  
+## Main Gate and the West End 
+
+###Main Gate (#4)  
 The main gate to Blackwater faces roughly west along the slow southernly bend of the Blackwater river, looking out across fields and forests to the snow-capped Carpathian mountains in the distance.  The gate is typically manned by a dozen guards monitoring people coming and going in the City.  The wall is roughly 10 yards thick and the main gate tunnel has a strong steel portcullis at both ends.  In addition to the dozen guards that man the main gate entrance tunnel, another dozen man the towers and battlements  atop walls.
 
 Off to the side of the gate, on the outside of the city, is a station where they:  
@@ -39,11 +50,28 @@ Off to the side of the gate, on the outside of the city, is a station where they
 * Question any suspiciouos looking travellers
 * Peacebond weapons
 
-The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings
+### West End  
+The West End is generally considered to be the area within the walls between the **Main Gate** and **Waterwheel Road**.  The West End tends to be a relatively affluent section of town with a number of quality merchants located in the area, well maintained buildings.  Anumber of well known estalbishments can be found in the West End, including:
+5. Duglass Ferrier (C8)
+6. Dancing Pony Stables (C8)
+7. Yellow Kraken Bath House (D8) 
+8. Mad Cow Leatherworks (D10) 
+9. Everfull Cornucopia Tools & Supply (C11)
+10. Crone's Sept (D13)
+11. Bazaar – Indoor Shops & Stalls (E11)
+12. Maiden's Sept & Orphanage (E11) 
+13. Angry Beaver Furrier (F13) 
+14. Cow Gate (F13)
+15. Black Dragon Gambling House (E8)
+16. Golden Noose Comfort House (E7)
 
-###Everfull Cornicopia  
 
-Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  Other noteable establishments. 
+####Douglas Ferrier (#5)  
+
+
+####Everfull Cornicopia (#9)
+
+Located just inside the main gate is are a cluster of shops and apartments.  The best known of these shops is the **Everfull Cornicopia** located immediately to the right, on the south side of the main strett, as visitors come through the main gate.  
 
 ## Mid-Town
 
