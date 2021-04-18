@@ -12,12 +12,12 @@ The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-intr
 * [Ferton](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#ferton)
 * [West End and Main Gate](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#main-gate-and-the-west-end)
 * [Mid Town](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#mid-town)
-* Old Quarter
-* Citadel Square
-* Hill Street
-* The Warfs
-* Under-Castle  
-* The Castle
+* [Old Quarter](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#old-warter)
+* [Citadel Square](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#citadel-square)
+* [Hill Street](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#hill-street)
+* [The Warfs](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#the-warfs)
+* [Under-Castle](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#under-castle)  
+* [The Castle](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#the-castle)
 
 <a href="../maps/Blackwater City Map.pdf" target="_blank"><img src="../maps/Blackwater City Map.png"></a>  
 
@@ -89,10 +89,8 @@ Located just inside the main gate is are a cluster of shops and apartments.  The
 
 ## Under-Castle
 
-## Castle Blackwater
+## The Castle
 ![Castle Blackwater](../images/Castle Blackwater From Town.jpg)  
-
-## Hill Street
 
 # Numerical Index of Key Map Locations
 1. Ferton Watch Garrison (B4)
