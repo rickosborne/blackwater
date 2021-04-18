@@ -9,7 +9,7 @@ layout: default
 <font color="red" style="bold">UNDER CONSTRUCTION</font>  
 
 The [City of Blackwater](https://rickosborne.github.io/blackwater/guide/050-introduction.html) is informally divided into a number of disctricts or sections:
-* [West End and Main Gate](https://rickosborne.github.io/blackwater/guide/105-blackwater-city.html#West%20End)
+* [West End and Main Gate](https://github.com/rickosborne/blackwater/blob/main/_guide/105-blackwater-city.md#main-gate-and-the-west-end)
 * Mid Town
 * Old Quarter
 * Citadel Square
