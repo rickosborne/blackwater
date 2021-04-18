@@ -83,7 +83,7 @@ The Old Quarter is, as the name implies, the oldest section of Blackwater.  The 
 
 The boundaries of the Old Quarter are somewhat irregular, defined in the West by a path along **Fleet Street** south to **Main Street**, then West to **Sweet Street** and along **Mother's Way** to **Privet Drive**.  The southern edge of The Old Quarter follows **Justive Street** to **High Street** and back to **Main Street**.  The distrect ends along Merchant Lane in the East and **Blackwater Ave** / **The Warfs** in the North.
 
-![Old Quarter](../maps/Old-Quarter Map.png){:.float-center}
+![Old Quarter](../maps/Old-Quarter Map.png){:.center}
 
 The Old Quarter contains a number of noteable Blackwater locations:
 * White Mallard Public House (#24, I6)
@@ -100,7 +100,7 @@ The Old Quarter contains a number of noteable Blackwater locations:
 * Sanctum Magorum (#47, L6)
 
 ## Mid-Town
-![Mid-Town](../maps/Mid-Town Map.png){:.float-right}  
+![Mid-Town](../maps/Mid-Town Map.png){:.center}  
 
 Mid-Town covers the area of Blackwater from the River to the southern wall and between **Waterwheel Road** and either **Blackstone** road or **Fleet Street**, depending on who you askm to the north of **Main Street**, and **University Way**,.  Mid-town tends to be a fairly quiet residential area, whith the only businesses being mainly clustered along **Main Street**.
 
