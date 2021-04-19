@@ -53,7 +53,13 @@ In general, the following GURPS sourcebooks are recommended:
    > To correct this, a new optional rule has been introduced:
    > When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest.
    > However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
- 
+
+### New Advantages & Disadvantages  
+**Suspicious [-5]**: you're sure people are lying to you, hiding something, or planning to double cross you. Make a.self control role any time there is even the vaguest chance that someone is being dishonest with you, at -1 if there's circumstantial evidence or an accuser, to support your belief, -2 if there's actual evidence.
+If you fail, you are convinced they are lying to you and will ignore all but the most overwhelming evidence to the contrary.  Depending on exactly what you believe they're being dishonest about your reactions may vary: from simply refusing to talk to them or do business, to loudly and publicly accusing them, to physical violence.
+You get a -2 reaction from most people once they are aware of your suspicious nature.
+In some ways this is a limited and specific form of paranoia. The advantage is, sometimes you may be right. 
+
 ### Posture and Facing (see B.364 and B.551)
 * Characters may change facing as a free action at any time, ***except*** when an attack has already been initiated against them from an undefended direction (flank or behind), or if there was no reasonable way the character could have known the attacker was in their blind spot.
 * For clarification of existing **Change Posture** rules, the table below summarizes the number of movement actions a character must spend to change between postures:
