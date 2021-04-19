@@ -37,16 +37,16 @@ In general, the following GURPS sourcebooks are recommended:
   A critical failure means you drop the ammo.  
 * Fast Draw skill exists for ammunition as well as weapons.
   Combining with the speed load skill means a player can retrieve ammo and load it into his weapon as 2 back-to-back free actions in the same round – slightly cinematic, but fun.  
-**Example:**
-> Bubba has Fast Draw (Arrow) at 13 and Speed-Load (Bow & Arrow) at 12.  If Bubba makes his Fast Draw roll he can pull an arrow out of his quiver as a free action.  
->If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action.
+   **Example:**
+   > Bubba has Fast Draw (Arrow) at 13 and Speed-Load (Bow & Arrow) at 12.  If Bubba makes his Fast Draw roll he can pull an arrow out of his quiver as a free action.  
+   >If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action.
 
 * Players can use an unspent character point to immediately reroll any dice roll for their character.
   This includes skills, defenses, reactions, or rolls made for the player by the GM (e.g. knowledge spells / skills).
   Players may make multiple rerolls per attempted action, but each time they do the point cost doubles (1 point on the first re-roll, 2 points on the second, 4 points on the third, etc.)  
 * Alternate rules for **Move and Attack** (see B.325).  Melee attacks suffer a penalty of -2 one yard moved beyond the first yard (-2 for 2 yards, -4 for 3 yards, -6 for four yards, etc), instead of:
->Move as described for the Move maneuver, but during or after your move, make a single, poorly aimed attack – either unarmed or with a ready weapon.
->You attack as described for the Attack maneuver, but at a penalty.  ... If you are making a melee attack, you have a flat -4 to skill, and your adjusted skill cannot exceed 9.
+   >Move as described for the Move maneuver, but during or after your move, make a single, poorly aimed attack – either unarmed or with a ready weapon.
+   >You attack as described for the Attack maneuver, but at a penalty.  ... If you are making a melee attack, you have a flat -4 to skill, and your adjusted skill cannot exceed 9.
 * Differential Size modifies for melee combat as discussed in the [GURPS FAQ &#167;3.4.2.23](http://www.sjgames.com/gurps/faq/FAQ4-3.html#SS3.4.2.23).
 > Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is.
 > The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+.
