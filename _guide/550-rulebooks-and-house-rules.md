@@ -48,11 +48,11 @@ In general, the following GURPS sourcebooks are recommended:
    >Move as described for the Move maneuver, but during or after your move, make a single, poorly aimed attack – either unarmed or with a ready weapon.
    >You attack as described for the Attack maneuver, but at a penalty.  ... If you are making a melee attack, you have a flat -4 to skill, and your adjusted skill cannot exceed 9.
 * Differential Size modifies for melee combat as discussed in the [GURPS FAQ &#167;3.4.2.23](http://www.sjgames.com/gurps/faq/FAQ4-3.html#SS3.4.2.23).
-> Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is.
-> The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+.
-> To correct this, a new optional rule has been introduced:
-> When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest.
-> However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
+   > Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is.
+   > The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+.
+   > To correct this, a new optional rule has been introduced:
+   > When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest.
+   > However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
  
 ### Posture and Facing (see B.364 and B.551)
 * Characters may change facing as a free action at any time, ***except*** when an attack has already been initiated against them from an undefended direction (flank or behind), or if there was no reasonable way the character could have known the attacker was in their blind spot.
