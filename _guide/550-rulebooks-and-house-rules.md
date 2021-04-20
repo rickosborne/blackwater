@@ -55,9 +55,9 @@ In general, the following GURPS sourcebooks are recommended:
    >You attack as described for the Attack maneuver, but at a penalty.  ... If you are making a melee attack, you have a flat -4 to skill, and your adjusted skill cannot exceed 9.
 
 ### New Advantages & Disadvantages  
-**Suspicious [-5]**: you're sure people are lying to you, hiding something, or planning to double cross you. Make a.self control role any time there is even the vaguest chance that someone is being dishonest with you, at -1 if there's circumstantial evidence or an accuser, to support your belief, -2 if there's actual evidence.
+**Suspicious [-5]**: you're sure people are lying to you, hiding something, or planning to double cross you. Make a self control role any time there is even the vaguest chance that someone is being dishonest with you, at -1 if there's circumstantial evidence or an accuser, to support your belief, -2 if there's actual evidence.
 If you fail, you are convinced they are lying to you and will ignore all but the most overwhelming evidence to the contrary.  Depending on exactly what you believe they're being dishonest about your reactions may vary: from simply refusing to talk to them or do business, to loudly and publicly accusing them, to physical violence.
-You get a -2 reaction from most people once they are aware of your suspicious nature.
+You get a -2 reaction from most people once they are aware of your suspicious nature.  Self Control modifiers (B.120) apply to this disadvantage, like many Mental Disadvantages.  
 In some ways this is a limited and specific form of paranoia. The advantage is, sometimes you may be right. 
 
 ### Posture and Facing (see B.364 and B.551)
