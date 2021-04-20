@@ -25,13 +25,20 @@ In general, the following GURPS sourcebooks are recommended:
 * [Powers](http://www.sjgames.com/gurps/books/powers/): Good inspiration for building powers for Priests, and other characters with uncommon non-magical gifts.  
 * [Divine Favor](http://www.sjgames.com/gurps/books/divinefavor/): Rules for some (mostly non-human priests).  
 
-## House Rules
-
-* Characters may start with 100% of their wealth to spend on equipment, if they are homeless and it fits with their story line (see B26).  
+## Optional Rules
 * Extra Effort in Combat rules are allowed (B357)  
 * Use the Dice + Adds optional rule (B269)  
     > Optional Rule: Modifying Dice + Adds
     > Accumulated modifiers will sometimes give large damage adds; e.g., 2d+5. In this case, the GM may rule that any +4 becomes 1d and any +7 becomes 2d. For instance, an attack of 2d+5 would be equivalent to 3d+1. If a modifier is given “per die of damage,” apply it per die of basic thrusting or swinging damage, before you convert adds to dice. This gives more realistic results, but requires an extra step when filling out character sheets, etc.
+* Differential Size modifies for melee combat as discussed in the [GURPS FAQ &#167;3.4.2.23](http://www.sjgames.com/gurps/faq/FAQ4-3.html#SS3.4.2.23).
+   > Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is.
+   > The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+.
+   > To correct this, a new optional rule has been introduced:
+   > When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest.
+   > However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
+
+## House Rules  
+* Characters may start with 100% of their wealth to spend on equipment, if they are homeless and it fits with their story line (see B26).  
 * Speed load (weapon/ammo type) skill lets you reload your weapon as a free action.
   A failed skill role means it takes the usual amount of time.
   A critical failure means you drop the ammo.  
@@ -40,19 +47,12 @@ In general, the following GURPS sourcebooks are recommended:
    **Example:**
    > Bubba has Fast Draw (Arrow) at 13 and Speed-Load (Bow & Arrow) at 12.  If Bubba makes his Fast Draw roll he can pull an arrow out of his quiver as a free action.  
    >If Bubba also makes his Speed-Load roll he can notch and draw the arrow also as a free action.
-
 * Players can use an unspent character point to immediately reroll any dice roll for their character.
   This includes skills, defenses, reactions, or rolls made for the player by the GM (e.g. knowledge spells / skills).
   Players may make multiple rerolls per attempted action, but each time they do the point cost doubles (1 point on the first re-roll, 2 points on the second, 4 points on the third, etc.)  
 * Alternate rules for **Move and Attack** (see B.325).  Melee attacks suffer a penalty of -2 one yard moved beyond the first yard (-2 for 2 yards, -4 for 3 yards, -6 for four yards, etc), instead of:
    >Move as described for the Move maneuver, but during or after your move, make a single, poorly aimed attack – either unarmed or with a ready weapon.
    >You attack as described for the Attack maneuver, but at a penalty.  ... If you are making a melee attack, you have a flat -4 to skill, and your adjusted skill cannot exceed 9.
-* Differential Size modifies for melee combat as discussed in the [GURPS FAQ &#167;3.4.2.23](http://www.sjgames.com/gurps/faq/FAQ4-3.html#SS3.4.2.23).
-   > Normally, the size modifier of your opponent is applied to your attack roll, whatever yours is.
-   > The problem is in some cases, it causes a big problem; for example, two ants (SM -10) have practically no chance of hitting each other unless they have Brawling-20+.
-   > To correct this, a new optional rule has been introduced:
-   > When two opponents face each other in melee combat, apply the difference in size modifiers as a bonus to the smallest attacker and as a penalty to the biggest.
-   > However, the bonus to a small opponent is limited to +4; attacking a wall ten times as big as you is no easier than hitting a wall four times as big – your reach limits where you can hit.
 
 ### New Advantages & Disadvantages  
 **Suspicious [-5]**: you're sure people are lying to you, hiding something, or planning to double cross you. Make a.self control role any time there is even the vaguest chance that someone is being dishonest with you, at -1 if there's circumstantial evidence or an accuser, to support your belief, -2 if there's actual evidence.
