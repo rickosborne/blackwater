@@ -58,6 +58,8 @@ Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5
 |Berserk                        |Alertness              |
 |High Pain Threshold            |                       |  
 
+**NOTE:** Strig should use the [Scaling Weapons and Armor] (../images/Scaling Weapons and Armor.png) rules.
+
 ## Dwarves
 
 Dwarves are a race of miners, metalworkers, and craftsmen. They live underground, which is their workplace and protection from enemies. Dwarves are small but strong and enduring, with highly developed combat skills. They may become alchemists or specialize in enchanting, if they are magically gifted, but few dwarves practice other sorts of magic. Many have Magic Resistance.
