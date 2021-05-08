@@ -58,7 +58,7 @@ Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5
 |Berserk                        |Alertness              |
 |High Pain Threshold            |                       |  
 
-**NOTE:** Strig should use the [Scaling Weapons and Armor] (../images/Scaling Weapons and Armor.png) rules.
+**NOTE:** Strig should use the [Scaling Weapons and Armor](../images/Scaling Weapons and Armor.png) rules.
 
 ## Dwarves
 
