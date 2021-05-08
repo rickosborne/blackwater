@@ -58,7 +58,7 @@ Disadvantages: Primitive (TL 2) [-5], Poor [-15], Social Stigma (Uneducated) [-5
 |Berserk                        |Alertness              |
 |High Pain Threshold            |                       |  
 
-**NOTE:** Strig should use the [Scaling Weapons and Armor](../images/Scaling Weapons and Armor.png) rules.
+**NOTE:** Strig should use the [Scaling Weapons and Armor](../images/Scaling Weapons and Armor.png) rules from [GURPS Low Tech Companion 2: Weapons and Warriors](http://www.sjgames.com/gurps/books/Low-Tech/companion2/).
 
 ## Dwarves
 
@@ -107,3 +107,5 @@ Secondary Characteristic Modifiers: SM -2; Will+2 [10].
 Advantages: Green Thumb 1 [5]; Hard to Kill 4 [8]; Silence 4 [20].   
 Disadvantages: Mundane Background [-10]; Overweight [-1].   
 Quirks: Fond of food and drink [-1]; Prefers to live underground. [-1]  
+
+**NOTE:** Halfling's should use the [Scaling Weapons and Armor](../images/Scaling Weapons and Armor.png) rules from [GURPS Low Tech Companion 2: Weapons and Warriors](http://www.sjgames.com/gurps/books/Low-Tech/companion2/).
